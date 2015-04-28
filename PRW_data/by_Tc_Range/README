@@ -1,0 +1,5 @@
+This directory contains networks for ZINC and PRW data (separately).
+The data in this directory are intended to test performances of algorithms on chemicals with known similarity ranges.
+Specifically, we would like to know which algorithm works better for test chemicals having similar chemicals in the training set.
+In other words, if chemical A has maximum 0.95 similar chemicals in the training set, chemical B has 0.85 similar chemicals, and chemical C has 0.75 maximum similar chemicals,
+we test whether any algorithm works better (or worse) on the chemical A, B, and C.
