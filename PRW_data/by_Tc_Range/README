@@ -1,3 +1,6 @@
+The data sets in this directory are not applicable for performance comparison for wiZAN vs. PRW.
+In this directory, some chemicals in testing sets may appear in the training sets. Since PRW directly counts the features of the given chemicals, it is highly likely to be overfitted.
+
 This directory contains networks for PRW data (separately).
 The data in this directory are intended to test performances of algorithms on chemicals with known similarity ranges.
 Specifically, we would like to know which algorithm works better for test chemicals having similar chemicals in the training set.
