@@ -4,7 +4,8 @@ if nargin<6
     para = [0.1, 0.1, 0.01, 300, 100, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
 end
 %convert csv to matrix
-train = sparse(train_csv(:,1), train_csv(:,2), 1, 12384, 3500); %12384 chemicals and 3500 proteins in ZINC
+train_line = csvread(train_csv);
+train = sparse(train_line(:,1), train_line(:,2), 1, 12384, 3500); %12384 chemicals and 3500 proteins in ZINC
 test = csvread(test_csv);
 
 %item = ceil(item);
