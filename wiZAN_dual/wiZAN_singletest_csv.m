@@ -1,9 +1,12 @@
-function [MAP, MPR, HLU, AUC] = RP_NMF_wpZAN_Double2(train_csv, test_csv, outfile, user, item, para)
+function [MAP, MPR, HLU, AUC] = RP_NMF_wpZAN_Double2(train_csv, test_csv, outfile, chem_chem, prot_prot, para)
 
 if nargin<6
     para = [0.1, 0.1, 0.01, 300, 100, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
 end
 
+%user and item matrices from chem-chem and prot-prot files
+user=load(chem_chem);
+item=load(prot_prot);
 %get number of chemical and protein
 temp_c=size(user);
 temp_p=size(item);
