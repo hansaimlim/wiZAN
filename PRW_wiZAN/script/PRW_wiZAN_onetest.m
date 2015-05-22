@@ -1,4 +1,4 @@
-function [MAP, MPR, HLU, AUC] = PRW_wiZAN_onetest(train_csv, test_csv, prw_csv, outfile, user, item, para)
+function [MAP, MPR, HLU, AUC] = PRW_wiZAN_onetest(train_csv, test_csv, prw_csv, outfile, chem_chem, prot_prot, para)
 %modified version of wiZAN_dual for PRW_wiZAN process
 %takes 3rd input argument 'prw' which contains prw result for all unique chemicals against all proteins in training set
 %for single test pair (train, test, prw)
@@ -7,7 +7,9 @@ if nargin<7
     %default rank=300, p6=0.75, p7=0.1 modified on 5/19/2015
     para = [0.1, 300, 100, 0.75, 0.1]; % para: alpha, rank, maxIte, gamma, lambda
 end
-
+%user and item matrices from chem-chem and prot-prot files
+user=load(chem_chem);
+item=load(prot_prot);
 %get number of chemical and protein
 temp_c=size(user);
 temp_p=size(item);
