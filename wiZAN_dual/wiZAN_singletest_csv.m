@@ -1,6 +1,6 @@
-function [MAP, MPR, HLU, AUC] = RP_NMF_wpZAN_Double2(train_csv, test_csv, user, item, para)
+function [MAP, MPR, HLU, AUC] = RP_NMF_wpZAN_Double2(train_csv, test_csv, outfile, user, item, para)
 
-if nargin<5
+if nargin<6
     para = [0.1, 0.1, 0.01, 300, 100, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
 end
 %convert csv to matrix
