@@ -2,17 +2,20 @@ function [MAP, MPR, HLU, AUC] = PRW_wiZAN_onetest(train_csv, test_csv, prw_csv, 
 %modified version of wiZAN_dual for PRW_wiZAN process
 %takes 3rd input argument 'prw' which contains prw result for all unique chemicals against all proteins in training set
 %for single test pair (train, test, prw)
-%number of chemicals and proteins set for ZINC (12384, 3500)
 
 if nargin<7
     %default rank=300, p6=0.75, p7=0.1 modified on 5/19/2015
     para = [0.1, 300, 100, 0.75, 0.1]; % para: alpha, rank, maxIte, gamma, lambda
 end
 
-
+%get number of chemical and protein
+temp_c=size(user);
+temp_p=size(item);
+m = temp_c(1);
+n = temp_p(1);
 %convert csv to matrix
 train_line = csvread(train_csv);
-train = sparse(train_line(:,1), train_line(:,2), 1, 12384, 3500);	%12384 chemicals and 3500 proteins in ZINC
+train = sparse(train_line(:,1), train_line(:,2), 1, m, n);	%12384 chemicals and 3500 proteins in ZINC
 prw_line = csvread(prw_csv);
 P=[prw_line(:,1),prw_line(:,2),prw_line(:,3)];   %PRW results for test chemicals. Others are zeros
 test = csvread(test_csv);
@@ -20,7 +23,6 @@ test = csvread(test_csv);
 %item = ceil(item);
 user = user + user';
 %item = item + item';
-[m, n] = size(train);
 Pu=P.*(~train); %imPutation matrix. P(i, j) for test chemicals (only pairs NOT known). If a pair is known, value is 0. All others are zeros.
 W=train+Pu; %weight, 1 for train pairs
 
