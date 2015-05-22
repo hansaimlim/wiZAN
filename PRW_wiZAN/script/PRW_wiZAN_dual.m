@@ -13,7 +13,7 @@ end
 user = user + user';
 %item = item + item';
 [m, n] = size(train);
-P=[prw(:,1),prw(:,2),prw(:,3),m, n];   %PRW results for test chemicals. Others are zeros
+P=[prw(:,1),prw(:,2),prw(:,3)];   %PRW results for test chemicals. Others are zeros
 Pu=P.*(~train); %imPutation matrix. P(i, j) for test chemicals (only pairs NOT known). If a pair is known, value is 0. All others are zeros.
 W=train+Pu; %weight, 1 for train pairs
 
