@@ -65,7 +65,7 @@ for test_r = 1:test_row_size
 end
 end
 
-function tpr_by_row = TPRbyRowRank(testResult, maxRank)
+function TPRbyRow = TPRbyRowRank(testResult, maxRank)
 %to get TPR by cutoff Row rank
 %output contains vector of dimension (maxRank, 2)
 %testResult input must contain row rank on the 4th column
