@@ -11,7 +11,8 @@ end
 
 
 %convert csv to matrix
-train = sparse(train_csv(:,1), train_csv(:,2), 1, 12384, 3500);	%12384 chemicals and 3500 proteins in ZINC
+train_line = csvread(train_csv);
+train = sparse(train_line(:,1), train_line(:,2), 1, 12384, 3500);	%12384 chemicals and 3500 proteins in ZINC
 P=[prw_csv(:,1),prw_csv(:,2),prw_csv(:,3)];   %PRW results for test chemicals. Others are zeros
 test = csvread(test_csv);
 
