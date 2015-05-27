@@ -1,12 +1,11 @@
-function [MAP, MPR, HLU, AUC] = PRW_wiZAN_onetest(train_csv, test_csv, prw_csv, outfile, para)
+function [MAP, MPR, HLU, AUC] = PRW_wiZAN_onetest(train_csv, test_csv, prw_csv, outfile)
 %modified version of wiZAN_dual for PRW_wiZAN process
 %takes 3rd input argument 'prw' which contains prw result for all unique chemicals against all proteins in training set
 %for single test pair (train, test, prw)
+%fixed parameter as of 5/27/2015
+%default rank=300, p6=0.75, p7=0.1 modified on 5/19/2015
+para = [0.1, 300, 100, 0.75, 0.1]; % para: alpha, rank, maxIte, gamma, lambda
 
-if nargin<5
-    %default rank=300, p6=0.75, p7=0.1 modified on 5/19/2015
-    para = [0.1, 300, 100, 0.75, 0.1]; % para: alpha, rank, maxIte, gamma, lambda
-end
 %chem_chem_zinc and protein_protein_zinc_blast matrices from chem-chem and prot-prot files
 load /scratch/hansaim.lim/wiZAN/ZINC_data/chem_chem/chem_chem_zinc;
 load /scratch/hansaim.lim/wiZAN/ZINC_data/prot_prot/protein_protein_zinc_blast;
