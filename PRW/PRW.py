@@ -139,7 +139,7 @@ def GaussianKernel(d,l):
 
 def getArguments(Comm):
     """This method checks commands line arguments"""
-    if len(Comm)==5:
+    if len(Comm)==6:
         Train=Comm[1]
         Test=Comm[2]
         Feature=Comm[3]
