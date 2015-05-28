@@ -11,18 +11,18 @@ cd $PBS_O_WORKDIR
 echo ">>>> Begin prw_wizan combination test"
 
 #input file suffix
-DIR='/scratch/hansaim.lim/wiZAN/ZINC_data/chem_prot/numtarget_maxTc/'
-SUFFIX='N1Tc0.49to0.55'
-EXT='.csv'
+DirIN="/scratch/hansaim.lim/wiZAN/ZINC_data/chem_prot/numtarget_maxTc/"
+DirOUT="/scratch/hansaim.lim/prw_wizan_combination/numtarget_maxTc/"
+SUFFIX="N1Tc0.49to0.55"
+EXT=".csv"
 #file paths must be absolute pathways!!!!
-FEAT='/scratch/hansaim.lim/wiZAN/PRW_wiZAN/input/zinc_chemIndex_feature.tsv'
-TRAIN="${DIR}train_${SUFFIX}${EXT}"
-TEST="${DIR}test_${SUFFIX}${EXT}"
-PRW_OUT="${DIR}prw_out_temp_${SUFFIX}${EXT}"
-PRWonly_OUT="${DIR}PRWonly_${SUFFIX}${EXT}"
-wiZAN_OUT="${DIR}wiZAN_dual_${SUFFIX}${EXT}"
-PRWIZAN_OUT="${DIR}prwizan_TPR_${SUFFIX}${EXT}"
-
+FEAT="/scratch/hansaim.lim/wiZAN/PRW_wiZAN/input/zinc_chemIndex_feature.tsv"
+TRAIN=${DirIN}"train_"${SUFFIX}${EXT}
+TEST=${DirIN}"test_"${SUFFIX}${EXT}
+PRW_OUT=${DirOUT}"prw_out_temp_"${SUFFIX}${EXT}
+PRWonly_OUT=${DirOUT}"PRWonly_"${SUFFIX}${EXT}
+wiZAN_OUT=${DirOUT}"wiZAN_dual_"${SUFFIX}${EXT}
+PRWIZAN_OUT=${DirOUT}"prwizan_TPR_"${SUFFIX}${EXT}
 
 # actual binary (with IO redirections) and required input
 # parameters are called in the next line
@@ -33,7 +33,7 @@ python /scratch/hansaim.lim/wiZAN/PRW/PRW.py $TRAIN $TEST $FEAT $PRWonly_OUT 0.9
 #run python PRW first
 python /scratch/hansaim.lim/wiZAN/PRW_wiZAN/script/PRW_for_wiZAN.py $TRAIN $FEAT $PRW_OUT 0.9
 #run matlab wiZAN with the output from PRW
-matlab -r "cd /scratch/hansaim.lim/wiZAN/PRW_wiZAN/script/; PRW_wiZAN_onetest('$TRAIN', '$TEST', '$PRW_OUT','$PRWIZAN_OUT', '$PARA')"
+matlab -r "cd /scratch/hansaim.lim/wiZAN/PRW_wiZAN/script/; PRW_wiZAN_onetest('$TRAIN', '$TEST', '$PRW_OUT', '$PRWIZAN_OUT')"
 #remove PRW output
 rm $PRW_OUT
 #run wiZAN_dual
