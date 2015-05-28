@@ -35,9 +35,10 @@ test_result = TPRbyRowRank(get_test_result(test, U, V), 200);   %max cutoff rank
 %[MPR_C, MPR_U, MPR_I] = get_diff_coldstart(train, test, U, V);
 [MAP, MPR, HLU, AUC] = get_diff(test, U, V, para);
 fprintf('MAP = %0.4f, MPR = %0.4f, HLU = %0.4f, AUC = %0.4f\n', MAP, MPR, HLU, AUC);
-fprintf('Result file saved: %s\n',outfile)
-save (outfile, 'test_result', '-ascii');
-
+outfileId=fopen(outfile, 'w');
+fprintf(outfileId, '%5d %12.8f\n', test_result');
+fclose(outfile);
+fprintf('Result file saved: %s\n',outfile);
 clear train;
 clear test;
 clear test_result;
