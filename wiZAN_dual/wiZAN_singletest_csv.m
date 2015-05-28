@@ -1,17 +1,24 @@
-function [MAP, MPR, HLU, AUC] = RP_NMF_wpZAN_Double2(train_csv, test_csv, outfile, user, item, para)
+function [MAP, MPR, HLU, AUC] = RP_NMF_wpZAN_Double2(train_csv, test_csv, outfile, chem_chem, prot_prot, para)
 
 if nargin<6
     para = [0.1, 0.1, 0.01, 300, 100, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
 end
+
+%user and item matrices from chem-chem and prot-prot files
+user=load(chem_chem);
+item=load(prot_prot);
+%get number of chemical and protein
+temp_c=size(user);
+temp_p=size(item);
+m = temp_c(1);
+n = temp_p(1);
 %convert csv to matrix
 train_line = csvread(train_csv);
-train = sparse(train_line(:,1), train_line(:,2), 1, 12384, 3500); %12384 chemicals and 3500 proteins in ZINC
+train = sparse(train_line(:,1), train_line(:,2), 1, m, n);      %12384 chemicals and 3500 proteins in ZINC
 test = csvread(test_csv);
-
 %item = ceil(item);
 user = user + user';
 %item = item + item';
-[m, n] = size(train);
 
 summ = sum(user,2); %sum by rows
 Dm = spdiags(summ,0,m,m);
@@ -61,7 +68,7 @@ for test_r = 1:test_row_size
 end
 end
 
-function tpr_by_row = TPRbyRowRank(testResult, maxRank)
+function TPRbyRow = TPRbyRowRank(testResult, maxRank)
 %to get TPR by cutoff Row rank
 %output contains vector of dimension (maxRank, 2)
 %testResult input must contain row rank on the 4th column
