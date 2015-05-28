@@ -1,18 +1,18 @@
-function [MAP, MPR, HLU, AUC] = PRW_wiZAN_onetest(train_csv, test_csv, prw_csv, outfile, chem_chem, prot_prot, para)
+function [MAP, MPR, HLU, AUC] = PRW_wiZAN_onetest(train_csv, test_csv, prw_csv, outfile, para)
 %modified version of wiZAN_dual for PRW_wiZAN process
 %takes 3rd input argument 'prw' which contains prw result for all unique chemicals against all proteins in training set
 %for single test pair (train, test, prw)
 
-if nargin<7
+if nargin<5
     %default rank=300, p6=0.75, p7=0.1 modified on 5/19/2015
     para = [0.1, 300, 100, 0.75, 0.1]; % para: alpha, rank, maxIte, gamma, lambda
 end
-%user and item matrices from chem-chem and prot-prot files
-user=load(chem_chem);
-item=load(prot_prot);
+%chem_chem_zinc and protein_protein_zinc_blast matrices from chem-chem and prot-prot files
+load /scratch/hansaim.lim/wiZAN/ZINC_data/chem_chem/chem_chem_zinc;
+load /scratch/hansaim.lim/wiZAN/ZINC_data/prot_prot/protein_protein_zinc_blast;
 %get number of chemical and protein
-temp_c=size(user);
-temp_p=size(item);
+temp_c=size(chem_chem_zinc);
+temp_p=size(protein_protein_zinc_blast);
 m = temp_c(1);
 n = temp_p(1);
 %convert csv to matrix
@@ -22,19 +22,19 @@ prw_line = csvread(prw_csv);
 P=sparse(prw_line(:,1),prw_line(:,2),prw_line(:,3), m, n);   %PRW results for test chemicals. Others are zeros
 test = csvread(test_csv);
 
-%item = ceil(item);
-user = user + user';
-%item = item + item';
+%protein_protein_zinc_blast = ceil(protein_protein_zinc_blast);
+chem_chem_zinc = chem_chem_zinc + chem_chem_zinc';
+%protein_protein_zinc_blast = protein_protein_zinc_blast + protein_protein_zinc_blast';
 Pu=P.*(~train); %imPutation matrix. P(i, j) for test chemicals (only pairs NOT known). If a pair is known, value is 0. All others are zeros.
 W=train+Pu; %weight, 1 for train pairs
 
-summ = sum(user,2); %sum by rows
+summ = sum(chem_chem_zinc,2); %sum by rows
 Dm = spdiags(summ,0,m,m);
-Lu = Dm - user;
+Lu = Dm - chem_chem_zinc;
 
-sumn = sum(item,2); %sum by rows
+sumn = sum(protein_protein_zinc_blast,2); %sum by rows
 Dn = spdiags(sumn,0,n,n);
-Lv = Dn - item;
+Lv = Dn - protein_protein_zinc_blast;
 
 [U, V] = updateUV(train, Lu, Lv, para, W, P);
 
@@ -130,7 +130,7 @@ end
 function [U1] = updateU(R, W, P, Lu_plus, Lu_minus, U0, V, lambda, gamma)
 %this updateU function does not use fast equivalence introduced in
 %wiZAN_dual paper. This is to control (W)eight and im(P)utation values by
-%user and item indexes.
+%chem_chem_zinc and protein_protein_zinc_blast indexes.
 U1 = U0 .* sqrt( ((W.*(R+P))*V + gamma .* Lu_minus * U0) ./ ( (W.*(U0*V'))*V + gamma.* Lu_plus * U0 + lambda * U0) );
 U1(isnan(U1)) = 0;
 
