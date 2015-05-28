@@ -6,6 +6,8 @@ function [MAP, MPR, HLU, AUC] = PRW_wiZAN_onetest(train_csv, test_csv, prw_csv, 
 %default rank=300, p6=0.75, p7=0.1 modified on 5/19/2015
 para = [0.1, 300, 100, 0.75, 0.1]; % para: alpha, rank, maxIte, gamma, lambda
 
+%pathways for necessary functions
+addpath /scratch/hansaim.lim/wiZAN/wiZAN_dual/;
 %chem_chem_zinc and protein_protein_zinc_blast matrices from chem-chem and prot-prot files
 load /scratch/hansaim.lim/wiZAN/ZINC_data/chem_chem/chem_chem_zinc;
 load /scratch/hansaim.lim/wiZAN/ZINC_data/prot_prot/protein_protein_zinc_blast;
