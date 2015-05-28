@@ -47,7 +47,7 @@ test_result = TPRbyRowRank(get_test_result(test, U, V), 200);	%max cutoff rank 2
 fprintf('MAP = %0.4f, MPR = %0.4f, HLU = %0.4f, AUC = %0.4f\n', MAP, MPR, HLU, AUC);
 outfileId=fopen(outfile, 'w');
 fprintf(outfileId, '%5d %12.8f\n', test_result');
-fclose(outfile);
+fclose(outfileId);
 fprintf('Result file saved: %s\n',outfile);
 clear train;
 clear test;
