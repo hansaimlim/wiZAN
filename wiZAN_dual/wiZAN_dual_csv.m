@@ -1,4 +1,4 @@
-function [MAP, MPR, HLU, AUC] = wiZAN_dual_csv(train_csv, test_csv, outfile, chem_chem, prot_prot)
+function [MAP, MPR, HLU, AUC] = wiZAN_dual_csv(train_csv, test_csv, outfile)
 %fixed parameter as of 5/27/2015
 para = [0.1, 0.1, 0.01, 300, 100, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
 
@@ -14,17 +14,17 @@ n = temp_p(1);
 train_line = csvread(train_csv);
 train = sparse(train_line(:,1), train_line(:,2), 1, m, n);      %12384 chemicals and 3500 proteins in ZINC
 test = csvread(test_csv);
-%item = ceil(item);
-user = user + user';
-%item = item + item';
+%protein_protein_zinc_blast = ceil(protein_protein_zinc_blast);
+chem_chem_zinc = chem_chem_zinc + chem_chem_zinc';
+%protein_protein_zinc_blast = protein_protein_zinc_blast + protein_protein_zinc_blast';
 
-summ = sum(user,2); %sum by rows
+summ = sum(chem_chem_zinc,2); %sum by rows
 Dm = spdiags(summ,0,m,m);
-Lu = Dm - user;
+Lu = Dm - chem_chem_zinc;
 
-sumn = sum(item,2); %sum by rows
+sumn = sum(protein_protein_zinc_blast,2); %sum by rows
 Dn = spdiags(sumn,0,n,n);
-Lv = Dn - item;
+Lv = Dn - protein_protein_zinc_blast;
 
 [U, V] = updateUV(train, Lu, Lv, para);
 
