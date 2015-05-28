@@ -9,20 +9,20 @@
 # change to the working directory
 cd $PBS_O_WORKDIR
 echo ">>>> Begin prw_wizan combination test"
-
 #input file suffix
-DirIN="/scratch/hansaim.lim/wiZAN/ZINC_data/chem_prot/numtarget_maxTc/"
-DirOUT="/scratch/hansaim.lim/prw_wizan_combination/numtarget_maxTc/"
-SUFFIX="N1Tc0.49to0.55"
+DirIN="/scratch/hansaim.lim/wiZAN/ZINC_data/chem_prot/numtarget_numligand/"
+DirOUT="/scratch/hansaim.lim/prw_wizan_combination/numtarget_numligand/"
+SUFFIX="N1L1to5"
 EXT=".csv"
+EXT_out=".tsv"
 #file paths must be absolute pathways!!!!
 FEAT="/scratch/hansaim.lim/wiZAN/PRW_wiZAN/input/zinc_chemIndex_feature.tsv"
 TRAIN=${DirIN}"train_"${SUFFIX}${EXT}
 TEST=${DirIN}"test_"${SUFFIX}${EXT}
-PRW_OUT=${DirOUT}"prw_out_temp_"${SUFFIX}${EXT}
-PRWonly_OUT=${DirOUT}"PRWonly_"${SUFFIX}${EXT}
-wiZAN_OUT=${DirOUT}"wiZAN_dual_"${SUFFIX}${EXT}
-PRWIZAN_OUT=${DirOUT}"prwizan_TPR_"${SUFFIX}${EXT}
+PRW_OUT=${DirOUT}"prw_out_temp_"${SUFFIX}${EXT}	#csv output
+PRWonly_OUT=${DirOUT}"PRWonly_"${SUFFIX}${EXT_out}	#non csv
+wiZAN_OUT=${DirOUT}"wiZAN_dual_"${SUFFIX}${EXT_out}	#non csv
+PRWIZAN_OUT=${DirOUT}"prwizan_TPR_"${SUFFIX}${EXT_out}	#non csv
 
 # actual binary (with IO redirections) and required input
 # parameters are called in the next line
