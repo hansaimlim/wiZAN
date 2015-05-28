@@ -1,4 +1,4 @@
-function [MAP, MPR, HLU, AUC] = RP_NMF_wpZAN_Double2(train_csv, test_csv, outfile, chem_chem, prot_prot, para)
+function [MAP, MPR, HLU, AUC] = wiZAN_dual_csv(train_csv, test_csv, outfile, chem_chem, prot_prot)
 %fixed parameter as of 5/27/2015
 para = [0.1, 0.1, 0.01, 300, 100, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
 
