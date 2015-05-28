@@ -1,15 +1,13 @@
 function [MAP, MPR, HLU, AUC] = RP_NMF_wpZAN_Double2(train_csv, test_csv, outfile, chem_chem, prot_prot, para)
+%fixed parameter as of 5/27/2015
+para = [0.1, 0.1, 0.01, 300, 100, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
 
-if nargin<6
-    para = [0.1, 0.1, 0.01, 300, 100, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
-end
-
-%user and item matrices from chem-chem and prot-prot files
-user=load(chem_chem);
-item=load(prot_prot);
+%chem_chem_zinc and protein_protein_zinc_blast matrices from chem-chem and prot-prot files
+load /scratch/hansaim.lim/wiZAN/ZINC_data/chem_chem/chem_chem_zinc;
+load /scratch/hansaim.lim/wiZAN/ZINC_data/prot_prot/protein_protein_zinc_blast;
 %get number of chemical and protein
-temp_c=size(user);
-temp_p=size(item);
+temp_c=size(chem_chem_zinc);
+temp_p=size(protein_protein_zinc_blast);
 m = temp_c(1);
 n = temp_p(1);
 %convert csv to matrix
@@ -83,7 +81,6 @@ while rank <= maxRank
         rank = rank + 1;
 end
 end
-
 
 function [U, V] = updateUV(R, Lu, Lv, para)
 % para: lambda, r, T, rank, maxIte, ite_of_bisection method, topN
