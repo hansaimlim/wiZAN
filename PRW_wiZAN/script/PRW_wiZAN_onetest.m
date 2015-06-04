@@ -37,7 +37,7 @@ sumn = sum(protein_protein_zinc_blast,2); %sum by rows
 Dn = spdiags(sumn,0,n,n);
 Lv = Dn - protein_protein_zinc_blast;
 
-[U, V] = updateUV(train, Lu, Lv, para, W, P);
+[U, V] = updateUV(train, Lu, Lv, para, W, Pu);
 
 %get predicted scores and ranks based on updated U and V
 test_result = TPRbyRowRank(get_test_result(test, U, V), 200);	%max cutoff rank 200
