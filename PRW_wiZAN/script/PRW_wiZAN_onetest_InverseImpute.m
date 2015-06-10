@@ -31,6 +31,7 @@ Pu=P.*(~train); %imPutation matrix. P(i, j) for test chemicals (only pairs NOT k
 %Normalize imputation matrix
 %Pu = spdiags(1./sum(Pu,2),0,m,m)*Pu;	%Normalize imputation matrix. Each row sums up to 1, (without values for train pairs).
 Pu=(1.0/max(Pu(:))).*Pu;	%Standardized imputation matrix. Maximum imputation is 1.0 and others are adjusted by ratio
+Ipu=ones(m, n) - Pu;	%inverse Pu. Low imputation if got high score from PRW.
 W=train+Pu; %weight, 1 for train pairs
 
 summ = sum(chem_chem_zinc,2); %sum by rows
@@ -41,7 +42,7 @@ sumn = sum(protein_protein_zinc_blast,2); %sum by rows
 Dn = spdiags(sumn,0,n,n);
 Lv = Dn - protein_protein_zinc_blast;
 
-[U, V] = updateUV(train, Lu, Lv, para, W, Pu);
+[U, V] = updateUV(train, Lu, Lv, para, W, Ipu);
 
 %get predicted scores and ranks based on updated U and V
 test_result = TPRbyRowRank(get_test_result(test, U, V), 200);	%max cutoff rank 200

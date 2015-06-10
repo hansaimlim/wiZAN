@@ -23,6 +23,11 @@ prw_line = csvread(prw_csv);
 P=sparse(prw_line(:,1),prw_line(:,2),prw_line(:,3), m, n);   %PRW results for test chemicals. Others are zeros
 test = csvread(test_csv);
 
+%set cutoff for PRW results. PRW results lower than the cutoff will be ignored
+cutoff=0.5;
+P=P.*(P>=cutoff); %0 if individual score lower than cutoff
+%%%
+
 %protein_protein_zinc_blast = ceil(protein_protein_zinc_blast);
 chem_chem_zinc = chem_chem_zinc + chem_chem_zinc';
 %protein_protein_zinc_blast = protein_protein_zinc_blast + protein_protein_zinc_blast';
