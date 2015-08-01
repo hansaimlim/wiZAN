@@ -68,7 +68,7 @@ end
 function [topN_byRow] = getTopNbyRow(A, N) %A: predicted score matrix, N: how many you want to see from the top
 %topN_byRow contains column indices from top rank(by score) to Nth rank
 %row indices are equal to the line number
-si(size(A));
+si = (size(A));
 topN_byRow = zeros(si(1), N);
 for K = 1:si(1)
  [sortval, sorti] = sort(A(K,:), 'descend');
@@ -77,7 +77,7 @@ end
 end
 
 function [row_col_rank] = WhereAreTrues(A, TM) %A: predicted score matrix, TM: True Matrix (either true positive or true negative)
-si(size(A));
+si = (size(A));
 row_col_rank = zeros(sum(TM(:)),3);
 rcr_count = 1;
 for row = 1:si(1)
