@@ -27,7 +27,7 @@ sumn = sum(protein_protein_zinc_blast,2); %sum by rows
 Dn = spdiags(sumn,0,n,n);
 Lv = Dn - protein_protein_zinc_blast;
 
-[U, V] = updateUV(train, Lu, Lv, para);
+[U, V] = updateUV(TP, Lu, Lv, para);
 Pred = U*V';	%Predicted score matrix
 
 rstat = getRowStat(Pred);
