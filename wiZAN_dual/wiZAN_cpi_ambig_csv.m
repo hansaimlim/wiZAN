@@ -3,11 +3,11 @@ function wiZAN_cpi_ambig_csv(true_positive_csv, true_negative_csv, ambiguous_csv
 para = [0.1, 0.1, 0.01, 300, 100, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
 
 %chem_chem_zinc and protein_protein_zinc_blast matrices from chem-chem and prot-prot files
-load /scratch/hansaim.lim/wiZAN/ZINC_ChEMBL/chem_chem/chem_chem_zinc_chembl;
-load /scratch/hansaim.lim/wiZAN/ZINC_ChEMBL/prot_prot/prot_prot_zinc_chembl;
+load /scratch/hansaim.lim/wiZAN/ZINC_ChEMBL/chem_chem/chem_chem_zinc_chembl;	%loads chem_chem_zc
+load /scratch/hansaim.lim/wiZAN/ZINC_ChEMBL/prot_prot/prot_prot_zinc_chembl;	%loads prot_prot_zc
 %get number of chemical and protein
-temp_c=size(chem_chem_zinc_chembl);
-temp_p=size(prot_prot_zinc_chembl);
+temp_c=size(chem_chem_zc);
+temp_p=size(prot_prot_zc);
 m = temp_c(1);
 n = temp_p(1);
 %convert csv to matrix
@@ -18,16 +18,16 @@ TN = sparse(tn_line(:,1), tn_line(:,2), 1, m, n);      %True Negative activities
 am_line = csvread(ambiguous_csv);
 AM = sparse(am_line(:,1), am_line(:,2), 1, m, n);      %AMbiguous activities (multiple tests in both TP and TN range)
 %protein_protein_zinc_blast = ceil(protein_protein_zinc_blast);
-chem_chem_zinc_chembl = chem_chem_zinc_chembl + chem_chem_zinc_chembl';
+chem_chem_zc = chem_chem_zc + chem_chem_zc';
 %protein_protein_zinc_blast = protein_protein_zinc_blast + protein_protein_zinc_blast';
 
-summ = sum(chem_chem_zinc_chembl,2); %sum by rows
+summ = sum(chem_chem_zc,2); %sum by rows
 Dm = spdiags(summ,0,m,m);
-Lu = Dm - chem_chem_zinc_chembl;
+Lu = Dm - chem_chem_zc;
 
-sumn = sum(prot_prot_zinc_chembl,2); %sum by rows
+sumn = sum(prot_prot_zc,2); %sum by rows
 Dn = spdiags(sumn,0,n,n);
-Lv = Dn - prot_prot_zinc_chembl;
+Lv = Dn - prot_prot_zc;
 
 [U, V] = updateUV(TP, Lu, Lv, para);
 Pred = U*V';	%Predicted score matrix
