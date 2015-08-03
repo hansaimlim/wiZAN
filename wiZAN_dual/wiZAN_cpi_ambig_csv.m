@@ -35,18 +35,18 @@ Pred = U*V';	%Predicted score matrix
 rstat = getRowStat(Pred);
 gstat = getGlobStat(Pred);
 top35 = getTopNbyRow(Pred, 35);
-rcrTP = WhereAreTrues(Pred, TP);	%where are True Positives ranked
-rcrTN = WhereAreTrues(Pred, TN);	%where are True Negatives ranked
-rcrAM = WhereAreTrues(Pred, AM);
+rcrsTP = FindTrues(Pred, TP);	%where are True Positives ranked
+rcrsTN = FindTrues(Pred, TN);	%where are True Negatives ranked
+rcrsAM = FindTrues(Pred, AM);
 %set output filenames
 lrank_u = [outfile_prefix '_lowrank_U.csv'];
 lrank_v = [outfile_prefix '_lowrank_V.csv'];
 rstat_filename = [outfile_prefix '_rowstat.csv'];
 gstat_filename = [outfile_prefix '_globstat.csv'];
 top35_filename = [outfile_prefix '_top35.csv'];
-rcrTP_filename = [outfile_prefix '_TruePositive_rank.csv'];
-rcrTN_filename = [outfile_prefix '_TrueNegative_rank.csv'];
-rcrAM_filename = [outfile_prefix '_AMbiguous_rank.csv'];
+rcrsTP_filename = [outfile_prefix '_TruePositive_rank_score.csv'];
+rcrsTN_filename = [outfile_prefix '_TrueNegative_rank_score.csv'];
+rcrsAM_filename = [outfile_prefix '_AMbiguous_rank_score.csv'];
 %set output filenames
 csvwrite(lrank_u, U);
 csvwrite(lrank_v, V);	%NOT transposed
@@ -56,17 +56,18 @@ csvwrite(top35_filename, top35);
 csvwrite(rcrTP_filename, rcrTP);
 csvwrite(rcrTN_filename, rcrTN);
 csvwrite(rcrAM_filename, rcrAM);
+
 clear;
 end
 
 function [row_stat] = getRowStat(A) %A is the predicted score matrix; A = U*V'
 si = size(A);
 row_stat = zeros(si(1), 5);
-row_stat = [(1:si(1))', max(A')', min(A')', mean(A')', median(A')'];
+row_stat = [(1:si(1))', max(A')', min(A')', mean(A')', std(A')'];
 end
 
 function [global_stat] = getGlobStat(A) %A is the predicted score matrix
-global_stat = [max(A(:)), min(A(:)), mean(A(:)), median(A(:))];
+global_stat = [max(A(:)), min(A(:)), mean(A(:)), std(A(:))];
 end
 
 function [topN_byRow] = getTopNbyRow(A, N) %A: predicted score matrix, N: how many you want to see from the top
@@ -80,17 +81,18 @@ for K = 1:si(1)
 end
 end
 
-function [row_col_rank] = WhereAreTrues(A, TM) %A: predicted score matrix, TM: True Matrix (either true positive or true negative)
+function [row_col_rank_score] = FindTrues(A, TM) %A: predicted score matrix, TM: True Matrix (either true positive or true negative)
 si = (size(A));
-row_col_rank = zeros(sum(TM(:)),3);
-rcr_count = 1;
+row_col_rank_score = zeros(sum(TM(:)),4);
+rcrs_count = 1;
 for row = 1:si(1)
  true_index = find(TM(row,:));
  for ind = 1:length(true_index)
   col = true_index(ind);
   drank = sum(A(row,:) >= A(row, col));
-  row_col_rank(rcr_count,:) = [row, col, drank];
-  rcr_count = rcr_count + 1;
+  predscore = A(row, col);
+  row_col_rank_score(rcr_count,:) = [row, col, drank, predscore];
+  rcrs_count = rcrs_count + 1;
  end
 end
 
