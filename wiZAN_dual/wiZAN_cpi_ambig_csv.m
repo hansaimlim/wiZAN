@@ -1,6 +1,7 @@
 function wiZAN_cpi_ambig_csv(true_positive_csv, true_negative_csv, ambiguous_csv, outfile_prefix)
 %fixed parameter as of 5/27/2015
-para = [0.1, 0.1, 0.01, 300, 100, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
+%parameter(5) updated to 400 (iterations)
+para = [0.1, 0.1, 0.01, 300, 400, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
 
 %chem_chem_zinc and protein_protein_zinc_blast matrices from chem-chem and prot-prot files
 load /scratch/hansaim.lim/wiZAN/ZINC_ChEMBL/chem_chem/chem_chem_zinc_chembl;	%loads chem_chem_zc
