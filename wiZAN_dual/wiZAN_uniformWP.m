@@ -32,9 +32,9 @@ Lv = Dn - prot_prot_zc;
 
 Record=zeros(35,3);	%matrix to contain [cutoffRank, TPcount, TPR]
 TrueCount=0;		%total true positives
-	for n=1:10
-	 trainfile=[input_dir 'train' num2str(n) '.csv'];
-	 testfile =[input_dir 'test' num2str(n) '.csv'];
+	for k=1:10
+	 trainfile=[input_dir 'train' num2str(k) '.csv'];
+	 testfile =[input_dir 'test' num2str(k) '.csv'];
 	 trline=csvread(trainfile);
 	 tsline=csvread(testfile);
 	 TR=sparse(trline(:,1), trline(:,2), 1, m, n);
