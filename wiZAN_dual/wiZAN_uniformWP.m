@@ -100,8 +100,8 @@ function [U, V] = updateUV(R, Lu, Lv, para)
 % para: lambda, r, T, rank, maxIte, ite_of_bisection method, topN
 [m, n] = size(R);
 alpha = para(1);
-w = para(2);
-p = para(3);
+W = para(2);
+P = para(3);
 rank = para(4);
 maxIte = para(5);
 gamma = para(6);
