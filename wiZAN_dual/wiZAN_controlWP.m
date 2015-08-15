@@ -1,4 +1,12 @@
-function wiZAN_controlWP(true_positive_csv, true_negative_csv, ambiguous_csv, input_dir, outfile_dir, outfile_prefix)
+function wiZAN_controlWP()
+%this script is for running in background using 'nohup' command
+true_positive_csv='/scratch/hansaim.lim/wiZAN/ZINC_ChEMBL/chem_prot/zc_active.csv';
+true_negative_csv='/scratch/hansaim.lim/wiZAN/ZINC_ChEMBL/chem_prot/zc_inactive.csv';
+ambiguous_csv='/scratch/hansaim.lim/wiZAN/ZINC_ChEMBL/chem_prot/zc_ambiguous.csv';
+input_dir='/scratch/hansaim.lim/wiZAN/ZINC_ChEMBL/chem_prot/10fold/';
+outfile_dir='/scratch/hansaim.lim/wiZAN_on_zinc_chembl/WPcontrol/';
+outfile_prefix='controlWP_10fold';
+
 %fixed parameter as of 5/27/2015
 %parameter(5) updated to 400 (iterations)
 %W and P matrices are controlled by true negative pairs
