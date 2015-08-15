@@ -1,4 +1,4 @@
-function wiZAN_cpi_ambig_csv(true_positive_csv, true_negative_csv, ambiguous_csv, input_dir, outfile_prefix)
+function wiZAN_cpi_ambig_csv(true_positive_csv, true_negative_csv, ambiguous_csv, input_dir, outfile_dir, outfile_prefix)
 %fixed parameter as of 5/27/2015
 %parameter(5) updated to 400 (iterations)
 %W and P matrices are controlled by true negative pairs
@@ -63,7 +63,8 @@ TrueCount=0;		%total true positives
 	 Record(r,1)=r;	%cutoff rank
 	 Record(r,3)=Record(r,2)/TrueCount;
 	end
-
+outfile=[ outfile_dir outfile_prefix '_TPR.csv'];
+csvwrite(outfile, [Record(:,1), Record(:,2), Record(:,3)]);
 clear;
 end
 
