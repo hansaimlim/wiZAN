@@ -37,7 +37,8 @@ P=ones(m,n).*(~(TP+TN)).*0.01;	%0.01 if unobserved, 0 otherwise
 W=ones(m,n).*(~(TP+TN)).*0.1 + TN;	%0.1 if unobserved, 1 if unassociated, 0 otherwise
 Record=zeros(35,3);	%matrix to contain [cutoffRank, TPcount, TPR]
 TrueCount=0;		%total true positives
-	for k=1:10
+	parfor k=1:10
+	 tempRecord=zeros(35,3);
 	 trainfile=[input_dir 'train' num2str(k) '.csv'];
 	 testfile =[input_dir 'test' num2str(k) '.csv'];
 	 trline=csvread(trainfile);
@@ -51,12 +52,15 @@ TrueCount=0;		%total true positives
 	 for rank = [rcrs(:,3)]
 	  if rank <= 35
 	   for row = [rank : 35]
-	    Record(row,2)=Record(row,2)+1;
+	    tempRecord(row,2)=tempRecord(row,2)+1;
 	   end
 	  end
 	 end
+	 Record=Record+tempRecord
 	end
+
 	for r=1:35
+	 Record(r,1)=r;	%cutoff rank
 	 Record(r,3)=Record(r,2)/TrueCount;
 	end
 
