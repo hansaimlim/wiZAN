@@ -1,4 +1,4 @@
-function wiZAN_cpi_ambig_csv(true_positive_csv, true_negative_csv, ambiguous_csv, input_dir, outfile_dir, outfile_prefix)
+function wiZAN_uniformWP(true_positive_csv, true_negative_csv, ambiguous_csv, input_dir, outfile_dir, outfile_prefix)
 %fixed parameter as of 5/27/2015
 %parameter(5) updated to 400 (iterations)
 para = [0.1, 0.1, 0.01, 300, 400, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
