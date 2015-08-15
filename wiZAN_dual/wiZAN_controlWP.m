@@ -56,7 +56,7 @@ TrueCount=0;		%total true positives
 	   end
 	  end
 	 end
-	 Record=Record+tempRecord
+	 Record=Record+tempRecord;
 	end
 
 	for r=1:35
