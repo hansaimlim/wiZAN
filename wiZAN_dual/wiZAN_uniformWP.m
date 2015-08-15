@@ -32,7 +32,8 @@ Lv = Dn - prot_prot_zc;
 
 Record=zeros(35,3);	%matrix to contain [cutoffRank, TPcount, TPR]
 TrueCount=0;		%total true positives
-	for k=1:10
+	parfor k=1:10
+	 tempRecord=zeros(35,3);
 	 trainfile=[input_dir 'train' num2str(k) '.csv'];
 	 testfile =[input_dir 'test' num2str(k) '.csv'];
 	 trline=csvread(trainfile);
@@ -46,12 +47,14 @@ TrueCount=0;		%total true positives
 	 for rank = [rcrs(:,3)]
 	  if rank <= 35
 	   for row = [rank : 35]
-	    Record(row,2)=Record(row,2)+1;
+	    tempRecord(row,2)=tempRecord(row,2)+1;
 	   end
 	  end
 	 end
+	 Record=Record+tempRecord;
 	end
 	for r=1:35
+	 Record(r,1)=r;	%cutoff rank
 	 Record(r,3)=Record(r,2)/TrueCount;
 	end
 
@@ -89,7 +92,7 @@ for row = 1:si(1)
   col = true_index(ind);
   drank = sum(A(row,:) >= A(row, col));
   predscore = A(row, col);
-  row_col_rank_score(rcr_count,:) = [row, col, drank, predscore];
+  row_col_rank_score(rcrs_count,:) = [row, col, drank, predscore];
   rcrs_count = rcrs_count + 1;
  end
 end
