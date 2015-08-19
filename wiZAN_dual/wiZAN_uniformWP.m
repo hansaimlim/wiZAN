@@ -38,10 +38,8 @@ sumn = sum(prot_prot_zc,2); %sum by rows
 Dn = spdiags(sumn,0,n,n);
 Lv = Dn - prot_prot_zc;
 
-%Record=zeros(1500,3);	%matrix to contain [cutoffRank, TPcount, TPR]
 TrueCount=0;		%total true positives
 	parfor k=1:10
-%	 tempRecord=zeros(1500,3);
 	 tic;
 	 trainfile=[input_dir 'train' num2str(k) '.csv'];
 	 testfile =[input_dir 'test' num2str(k) '.csv'];
@@ -53,25 +51,13 @@ TrueCount=0;		%total true positives
 	 [U, V] = updateUV(TR, Lu, Lv, para);
 	 Pred = U*V';	%Predicted score matrix
 	 toc
+	 tic;
 	 rcrs = FindTrues(Pred, TS);	%get the ranks for Test pairs
 	 outfile  =[outfile_dir outfile_prefix num2str(k) '_TPs.csv'];
 	 csvwrite(outfile, [rcrs(:,1), rcrs(:,2), rcrs(:,3), rcrs(:,4)]);
-	 for rank = [rcrs(:,3)]
-	  if rank <= 1500
-%	   for row = [rank : 1500]
-%	    tempRecord(row,2)=tempRecord(row,2)+1;
-%	   end
-	  end
-	 end
-%	 Record=Record+tempRecord;
+	 toc
 	end
-%	for r=1:1500
-%	 Record(r,1)=r;	%cutoff rank
-%	 Record(r,3)=Record(r,2)/TrueCount;
-%	end
 TrueCount
-%outfile=[ outfile_dir outfile_prefix '_TPR.csv'];
-%csvwrite(outfile, [Record(:,1), Record(:,2), Record(:,3)]);
 clear;
 end
 
