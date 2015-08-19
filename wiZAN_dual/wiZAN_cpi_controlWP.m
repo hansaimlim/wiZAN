@@ -33,6 +33,10 @@ sumn = sum(prot_prot_zc,2); %sum by rows
 Dn = spdiags(sumn,0,n,n);
 Lv = Dn - prot_prot_zc;
 
+tpline=csvread(true_positive_csv);
+tnline=csvread(true_negative_csv);
+TP=sparse(tpline(:,1), tpline(:,2), 1, m, n);
+TN=sparse(tnline(:,1), tnline(:,2), 1, m, n);
 W=(ones(m,n).*(~(TP+TN))).*0.1 + TN;	%0.1 if unobserved, 1 if unassociated, 0 otherwise
 P=(ones(m,n).*(~(TP+TN))).*0.01;	%0.01 if unobserved, 0 otherwise
  tic;
