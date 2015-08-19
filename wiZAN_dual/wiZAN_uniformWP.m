@@ -1,4 +1,12 @@
-function wiZAN_uniformWP(true_positive_csv, true_negative_csv, ambiguous_csv, input_dir, outfile_dir, outfile_prefix)
+function wiZAN_uniformWP
+%this script is for running in background using 'nohup' command
+true_positive_csv='/scratch/hansaim.lim/wiZAN/ZINC_ChEMBL/chem_prot/zc_active.csv';
+true_negative_csv='/scratch/hansaim.lim/wiZAN/ZINC_ChEMBL/chem_prot/zc_inactive.csv';
+ambiguous_csv='/scratch/hansaim.lim/wiZAN/ZINC_ChEMBL/chem_prot/zc_ambiguous.csv';
+input_dir='/scratch/hansaim.lim/wiZAN/ZINC_ChEMBL/chem_prot/10fold/';
+outfile_dir='/scratch/hansaim.lim/wiZAN_on_zinc_chembl/WPcontrol/';
+outfile_prefix='uniformWP_10fold';
+
 %fixed parameter as of 5/27/2015
 %parameter(5) updated to 400 (iterations)
 para = [0.1, 0.1, 0.01, 300, 400, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
@@ -30,10 +38,11 @@ sumn = sum(prot_prot_zc,2); %sum by rows
 Dn = spdiags(sumn,0,n,n);
 Lv = Dn - prot_prot_zc;
 
-Record=zeros(35,3);	%matrix to contain [cutoffRank, TPcount, TPR]
+%Record=zeros(1500,3);	%matrix to contain [cutoffRank, TPcount, TPR]
 TrueCount=0;		%total true positives
 	parfor k=1:10
-	 tempRecord=zeros(35,3);
+%	 tempRecord=zeros(1500,3);
+	 tic;
 	 trainfile=[input_dir 'train' num2str(k) '.csv'];
 	 testfile =[input_dir 'test' num2str(k) '.csv'];
 	 trline=csvread(trainfile);
@@ -43,22 +52,26 @@ TrueCount=0;		%total true positives
 	 TrueCount = TrueCount + sum(TS(:)>0);	%count total true positives
 	 [U, V] = updateUV(TR, Lu, Lv, para);
 	 Pred = U*V';	%Predicted score matrix
+	 toc
 	 rcrs = FindTrues(Pred, TS);	%get the ranks for Test pairs
+	 outfile  =[outfile_dir outfile_prefix num2str(k) '_TPs.csv'];
+	 csvwrite(outfile, [rcrs(:,1), rcrs(:,2), rcrs(:,3), rcrs(:,4)]);
 	 for rank = [rcrs(:,3)]
-	  if rank <= 35
-	   for row = [rank : 35]
-	    tempRecord(row,2)=tempRecord(row,2)+1;
-	   end
+	  if rank <= 1500
+%	   for row = [rank : 1500]
+%	    tempRecord(row,2)=tempRecord(row,2)+1;
+%	   end
 	  end
 	 end
-	 Record=Record+tempRecord;
+%	 Record=Record+tempRecord;
 	end
-	for r=1:35
-	 Record(r,1)=r;	%cutoff rank
-	 Record(r,3)=Record(r,2)/TrueCount;
-	end
-outfile=[ outfile_dir outfile_prefix '_TPR.csv'];
-csvwrite(outfile, [Record(:,1), Record(:,2), Record(:,3)]);
+%	for r=1:1500
+%	 Record(r,1)=r;	%cutoff rank
+%	 Record(r,3)=Record(r,2)/TrueCount;
+%	end
+TrueCount
+%outfile=[ outfile_dir outfile_prefix '_TPR.csv'];
+%csvwrite(outfile, [Record(:,1), Record(:,2), Record(:,3)]);
 clear;
 end
 
@@ -81,23 +94,6 @@ for K = 1:si(1)
  [sortval, sorti] = sort(A(K,:), 'descend');
  topN_byRow(K,:) = sorti(1:N);
 end
-end
-
-function [row_col_rank_score] = FindTrues(A, TM) %A: predicted score matrix, TM: True Matrix (either true positive or true negative)
-si = (size(A));
-row_col_rank_score = zeros(sum(TM(:)),4);
-rcrs_count = 1;
-for row = 1:si(1)
- true_index = find(TM(row,:));
- for ind = 1:length(true_index)
-  col = true_index(ind);
-  drank = sum(A(row,:) >= A(row, col));
-  predscore = A(row, col);
-  row_col_rank_score(rcrs_count,:) = [row, col, drank, predscore];
-  rcrs_count = rcrs_count + 1;
- end
-end
-
 end
 
 function [U, V] = updateUV(R, Lu, Lv, para)
