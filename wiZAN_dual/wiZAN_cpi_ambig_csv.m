@@ -82,23 +82,6 @@ for K = 1:si(1)
 end
 end
 
-function [row_col_rank_score] = FindTrues(A, TM) %A: predicted score matrix, TM: True Matrix (either true positive or true negative)
-si = (size(A));
-row_col_rank_score = zeros(sum(TM(:)),4);
-rcrs_count = 1;
-for row = 1:si(1)
- true_index = find(TM(row,:));
- for ind = 1:length(true_index)
-  col = true_index(ind);
-  drank = sum(A(row,:) >= A(row, col));
-  predscore = A(row, col);
-  row_col_rank_score(rcr_count,:) = [row, col, drank, predscore];
-  rcrs_count = rcrs_count + 1;
- end
-end
-
-end
-
 function [U, V] = updateUV(R, Lu, Lv, para)
 % para: lambda, r, T, rank, maxIte, ite_of_bisection method, topN
 [m, n] = size(R);
