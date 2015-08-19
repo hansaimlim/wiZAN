@@ -43,26 +43,26 @@ Lv = Dn - prot_prot_zc;
 
 P=ones(m,n).*(~(TP+TN)).*0.01;	%0.01 if unobserved, 0 otherwise
 W=ones(m,n).*(~(TP+TN)).*0.1 + TN;	%0.1 if unobserved, 1 if unassociated, 0 otherwise
-TrueCount=0;		%total true positives
-parfor k=1:10
- tic;
- trainfile=[input_dir 'train' num2str(k) '.csv'];
- testfile =[input_dir 'test' num2str(k) '.csv'];
- trline=csvread(trainfile);
- tsline=csvread(testfile);
- TR=sparse(trline(:,1), trline(:,2), 1, m, n);
- TS=sparse(tsline(:,1), tsline(:,2), 1, m, n);
- TrueCount = TrueCount + sum(TS(:)>0);	%count total true positives
- [U, V] = updateUV(TR, Lu, Lv, para, W, P);
- Pred = U*V';	%Predicted score matrix
- rcrs = FindTrues(Pred, TS);	%get the ranks for Test pairs
- outfile =[outfile_dir outfile_prefix num2str(k) '_TPs.csv'];
- csvwrite(outfile, [rcrs(:,1), rcrs(:,2), rcrs(:,3), rcrs(:,4)]);
- toc
-end
+TrueCount=0;            %total true positives
+        parfor k=1:10
+         tic;
+         trainfile=[input_dir 'train' num2str(k) '.csv'];
+         testfile =[input_dir 'test' num2str(k) '.csv'];
+         trline=csvread(trainfile);
+         tsline=csvread(testfile);
+         TR=sparse(trline(:,1), trline(:,2), 1, m, n);
+         TS=sparse(tsline(:,1), tsline(:,2), 1, m, n);
+         TrueCount = TrueCount + sum(TS(:)>0);  %count total true positives
+         [U, V] = updateUV(TR, Lu, Lv, para);
+         Pred = U*V';   %Predicted score matrix
+         toc
+         tic;
+         rcrs = FindTrues(Pred, TS);    %get the ranks for Test pairs
+         outfile  =[outfile_dir outfile_prefix num2str(k) '_TPs.csv'];
+         csvwrite(outfile, [rcrs(:,1), rcrs(:,2), rcrs(:,3), rcrs(:,4)]);
+         toc
+        end
 TrueCount
-outfile=[ outfile_dir outfile_prefix '_TPR.csv'];
-csvwrite(outfile, [Record(:,1), Record(:,2), Record(:,3)]);
 clear;
 end
 
