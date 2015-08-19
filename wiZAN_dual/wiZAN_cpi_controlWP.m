@@ -33,8 +33,8 @@ sumn = sum(prot_prot_zc,2); %sum by rows
 Dn = spdiags(sumn,0,n,n);
 Lv = Dn - prot_prot_zc;
 
-P=ones(m,n).*(~(TP+TN)).*0.01;	%0.01 if unobserved, 0 otherwise
-W=ones(m,n).*(~(TP+TN)).*0.1 + TN;	%0.1 if unobserved, 1 if unassociated, 0 otherwise
+W=(ones(m,n).*(~(TP+TN))).*0.1 + TN;	%0.1 if unobserved, 1 if unassociated, 0 otherwise
+P=(ones(m,n).*(~(TP+TN))).*0.01;	%0.01 if unobserved, 0 otherwise
  tic;
  [U, V] = updateUV(TP, Lu, Lv, para, W, P);
  toc
@@ -67,23 +67,6 @@ for K = 1:si(1)
  [sortval, sorti] = sort(A(K,:), 'descend');
  topN_byRow(K,:) = sorti(1:N);
 end
-end
-
-function [row_col_rank_score] = FindTrues(A, TM) %A: predicted score matrix, TM: True Matrix (either true positive or true negative)
-si = (size(A));
-row_col_rank_score = zeros(sum(TM(:)),4);
-rcrs_count = 1;
-for row = 1:si(1)
- true_index = find(TM(row,:));
- for ind = 1:length(true_index)
-  col = true_index(ind);
-  drank = sum(A(row,:) >= A(row, col));
-  predscore = A(row, col);
-  row_col_rank_score(rcr_count,:) = [row, col, drank, predscore];
-  rcrs_count = rcrs_count + 1;
- end
-end
-
 end
 
 function [U, V] = updateUV(R, Lu, Lv, para, W, P)
