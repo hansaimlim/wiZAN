@@ -146,7 +146,7 @@ while ite <maxIte
 
     UVT = get_UVT(R, U0, V0);
     U0 = updateU(R, UVT, w, p, Lu_plus, Lu_minus, U0, V0, alpha, gamma);
-    V0 = updateU(R', UVT, w, p, Lv_plus, Lv_minus, V0, U0, alpha, lambda);
+    V0 = updateU(R', UVT', w, p, Lv_plus, Lv_minus, V0, U0, alpha, lambda);
     
     ite = ite + 1;
 end
