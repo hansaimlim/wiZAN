@@ -45,8 +45,10 @@ Pred_tn=U_tn*V_tn';
 toc
 %predict Inactive associations
 
+tpcountbyRank_tponly=zeros(35,3);
+tpcountbyRank_tptn=zeros(35,3);
 TrueCount=0;		%total true positives
-	parfor k=1:10
+	for k=1:10
 	 tic;
 	 trainfile=[input_dir 'train' num2str(k) '.csv'];
 	 testfile =[input_dir 'test' num2str(k) '.csv'];
@@ -59,15 +61,33 @@ TrueCount=0;		%total true positives
 	 Pred = U*V';	%Predicted score matrix
 	 toc
 	 rcrs = FindTrues(Pred, TS);	%get the ranks for Test pairs from Positive trains only
-	 outfile  =[outfile_dir tp_prefix num2str(k) '_TPs.csv'];
-	 csvwrite(outfile, [rcrs(:,1), rcrs(:,2), rcrs(:,3), rcrs(:,4)]);
+	 for rank=[rcrs(:,3)]
+	  if rank <= 35
+	   for row=rank:35
+	    tpcountbyRank_tponly(row,2)=tpcountbyRank_tponly(row,2)+1;
+	   end
+	  end
+	 end
+%	 outfile  =[outfile_dir tp_prefix num2str(k) '_TPs.csv'];
+%	 csvwrite(outfile, [rcrs(:,1), rcrs(:,2), rcrs(:,3), rcrs(:,4)]);
 	
 	 Pred_tptn=Pred-Pred_tn;	%may contain negative values if tnscore > tpscore
 	 rcrs_tptn = FindTrues(Pred_tptn, TS);	%get the ranks for Test pairs from Positive trains only
-	 outfile  =[outfile_dir tn_prefix num2str(k) '_TPs.csv'];
-	 csvwrite(outfile, [rcrs_tptn(:,1), rcrs_tptn(:,2), rcrs_tptn(:,3), rcrs_tptn(:,4)]);
+	 for rank=[rcrs_tptn(:,3)]
+	  if rank <= 35
+	   for row=rank:35
+	    tpcountbyRank_tptn(row,2)=tpcountbyRank_tptn(row,2)+1;
+	   end
+	  end
+	 end
+%	 outfile  =[outfile_dir tn_prefix num2str(k) '_TPs.csv'];
+%	 csvwrite(outfile, [rcrs_tptn(:,1), rcrs_tptn(:,2), rcrs_tptn(:,3), rcrs_tptn(:,4)]);
 	end
 TrueCount
+tpcountbyRank_tponly(:,3)=tpcountbyRank_tponly(:,3)/TrueCount;
+tpcountbyRank_tptn(:,3)=tpcountbyRank_tptn(:,3)/TrueCount;
+csvwrite('./TPRbyRank_trainTPonly.csv',tpcountbyRank_tponly);
+csvwrite('./TPRbyRank_trainTPTN.csv',tpcountbyRank_tptn);
 clear;
 end
 
@@ -96,8 +116,8 @@ function [U, V] = updateUV(R, Lu, Lv, para)
 % para: lambda, r, T, rank, maxIte, ite_of_bisection method, topN
 [m, n] = size(R);
 alpha = para(1);
-W = para(2);
-P = para(3);
+w = para(2);
+p = para(3);
 rank = para(4);
 maxIte = para(5);
 gamma = para(6);
@@ -125,8 +145,8 @@ while ite <maxIte
     
 
     UVT = get_UVT(R, U0, V0);
-    U0 = updateU(R, W, P, Lu_plus, Lu_minus, U0, V0, alpha, gamma);
-    V0 = updateU(R', W', P', Lv_plus, Lv_minus, V0, U0, alpha, lambda);
+    U0 = updateU(R, UVT, w, p, Lu_plus, Lu_minus, U0, V0, alpha, gamma);
+    V0 = updateU(R', UVT, w, p, Lv_plus, Lv_minus, V0, U0, alpha, lambda);
     
     ite = ite + 1;
 end
