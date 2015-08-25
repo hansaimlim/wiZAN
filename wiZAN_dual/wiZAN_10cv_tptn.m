@@ -61,33 +61,37 @@ TrueCount=0;		%total true positives
 	 Pred = U*V';	%Predicted score matrix
 	 toc
 	 rcrs = FindTrues(Pred, TS);	%get the ranks for Test pairs from Positive trains only
-	 for rank=[rcrs(:,3)]
-	  if rank <= 35
-	   for row=rank:35
-	    tpcountbyRank_tponly(row,2)=tpcountbyRank_tponly(row,2)+1;
-	   end
+	 ranks=rcrs(:,3);
+	 rank=ranks(ranks<=35);
+	 for i=1:length(rank)
+	  rmin=rank(i);
+	  for row=rmin:35
+	   tpcountbyRank_tponly(row,2)=tpcountbyRank_tponly(row,2) + 1;
 	  end
 	 end
+	 clear rcrs rank ranks i rmin row;
 %	 outfile  =[outfile_dir tp_prefix num2str(k) '_TPs.csv'];
 %	 csvwrite(outfile, [rcrs(:,1), rcrs(:,2), rcrs(:,3), rcrs(:,4)]);
 	
 	 Pred_tptn=Pred-Pred_tn;	%may contain negative values if tnscore > tpscore
 	 rcrs_tptn = FindTrues(Pred_tptn, TS);	%get the ranks for Test pairs from Positive trains only
-	 for rank=[rcrs_tptn(:,3)]
-	  if rank <= 35
-	   for row=rank:35
-	    tpcountbyRank_tptn(row,2)=tpcountbyRank_tptn(row,2)+1;
-	   end
+	 ranks_tptn=rcrs_tptn(:,3);
+	 rank_tptn=ranks_tptn(ranks_tptn<=35);
+	 for i=1:length(rank_tptn)
+	  rmin=rank(i);
+	  for row=rmin:35
+	   tpcountbyRank_tptn(row,2)=tpcountbyRank_tptn(row,2) + 1;
 	  end
 	 end
+	 clear rcrs_tptn rank_tptn ranks_tptn i rmin row;
 %	 outfile  =[outfile_dir tn_prefix num2str(k) '_TPs.csv'];
 %	 csvwrite(outfile, [rcrs_tptn(:,1), rcrs_tptn(:,2), rcrs_tptn(:,3), rcrs_tptn(:,4)]);
 	end
 TrueCount
 tpcountbyRank_tponly(:,3)=tpcountbyRank_tponly(:,3)/TrueCount;
 tpcountbyRank_tptn(:,3)=tpcountbyRank_tptn(:,3)/TrueCount;
-csvwrite('./TPRbyRank_trainTPonly.csv',tpcountbyRank_tponly);
-csvwrite('./TPRbyRank_trainTPTN.csv',tpcountbyRank_tptn);
+csvwrite([outfile_dir tp_prefix 'TPRbyRank.csv'],tpcountbyRank_tponly);
+csvwrite([outfile_dir tn_prefix 'TPRbyRank.csv'],tpcountbyRank_tptn);
 clear;
 end
 
