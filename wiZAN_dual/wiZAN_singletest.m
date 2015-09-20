@@ -22,7 +22,7 @@ sumn = sum(prot_prot_sim,2); %sum by rows
 Dn = spdiags(sumn,0,n,n);
 Lv = Dn - prot_prot_sim;
 
-[U, V] = updateUV(TR, Lu, Lv, para);
+[U, V] = updateUV(chem_prot, Lu, Lv, para);
 Pred = U*V';	%Predicted score matrix
 lrank_u = [outfile_dir outfile_prefix '_lowrank_U.csv'];
 lrank_v = [outfile_dir outfile_prefix '_lowrank_V.csv'];
