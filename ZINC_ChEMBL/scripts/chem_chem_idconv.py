@@ -1,7 +1,5 @@
 #!/usr/bin/python
 import sys
-import MySQLdb
-import csv
 
 chem_index_name={}
 chem_index_ikey={}
@@ -14,7 +12,7 @@ with open(mapfile, "rb") as mp:
 		name=str(row[2])
 		chem_index_name[index]=name
 		chem_index_ikey[index]=ikey
-infile='./chem_chem/FDAdrug_TanimotoSim_CosineSim.tsv'
+infile='./chem_chem/FDA_drugs_tanimoto_cosine.tsv'
 with open(infile, "rb") as sim:
 	for line in sim:
 		row=line.strip().split("\t")
