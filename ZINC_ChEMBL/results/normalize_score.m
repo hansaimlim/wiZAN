@@ -2,7 +2,7 @@ function normalize_score(normscore, P)
 %normscore: array of normalized scores ordered by bin
 %P: predicted raw score matrix
 filehandles=[];
-for i=1:size(normscore,1)
+for i=1:size(normscore,2)
  nscore=normscore(i);
  filename=['./pairs_in_normScore_' num2str(nscore) '.txt'];
  fh=fopen(filename, 'a');
