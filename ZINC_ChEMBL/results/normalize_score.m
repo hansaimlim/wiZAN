@@ -1,7 +1,7 @@
 function N=normalize_score(normscore, P)
 %normscore: array of normalized scores ordered by bin
 %P: predicted raw score matrix
-N=zeros(size(P,1),size(P,2);
+N=zeros(size(P,1),size(P,2));
 for i=1:size(P,1)
  for j=1:size(P,2)
   raw=20*P(i,j);
