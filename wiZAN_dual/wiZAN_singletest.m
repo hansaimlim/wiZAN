@@ -5,10 +5,8 @@ para = [0.1, 0.1, 0.01, 300, 400, 0.75, 0.1]; % para: lambda, squared global wei
 
 %chem_chem_zinc and protein_protein_zinc_blast matrices from chem-chem and prot-prot files
 %get number of chemical and protein
-temp_c=size(chem_chem_sim);
-temp_p=size(prot_prot_sim);
-m = temp_c(1);
-n = temp_p(1);
+m=size(chem_chem_sim,1);	%number of chemicals
+n=size(prot_prot_sim,1);	%number of proteins
 %convert csv to matrix
 %protein_protein_zinc_blast = ceil(protein_protein_zinc_blast);
 chem_chem_sim = chem_chem_sim + chem_chem_sim';
