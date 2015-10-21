@@ -1,4 +1,5 @@
 function wiZAN_singletest(chem_chem_sim, prot_prot_sim, chem_prot, outfile_dir, outfile_prefix)
+tic;	%measuring the running time
 %fixed parameter as of 5/27/2015
 %parameter(5) updated to 400 (iterations)
 para = [0.1, 0.1, 0.01, 300, 400, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
@@ -22,10 +23,13 @@ Lv = Dn - prot_prot_sim;
 
 [U, V] = updateUV(chem_prot, Lu, Lv, para);
 Pred = U*V';	%Predicted score matrix
+toc	%First running time-how long the program runs
+tic;	%second running time-for writing file output
 lrank_u = [outfile_dir outfile_prefix '_lowrank_U.csv'];
 lrank_v = [outfile_dir outfile_prefix '_lowrank_V.csv'];
 csvwrite(lrank_u, U);
 csvwrite(lrank_v, V);
+toc	%second running time-for writing file output
 clear;
 end
 
