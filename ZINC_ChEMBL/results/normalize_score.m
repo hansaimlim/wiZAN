@@ -14,6 +14,9 @@ for i=1:size(P,1)
 	   nscore=normscore(f+1);
 	   N(i,j)=nscore;
 	  end
+  else
+	   N(i,j)=P(i,j);	%raw score itself if greater than 1.5
+  end
   end
  end
 end
