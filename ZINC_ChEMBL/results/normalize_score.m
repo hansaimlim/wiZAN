@@ -4,20 +4,19 @@ function N=normalize_score(normscore, P)
 N=zeros(size(P,1),size(P,2));
 for i=1:size(P,1)
  for j=1:size(P,2)
-  if P(i,j)<=1.5
-	  raw=20*P(i,j);
-	  f=fix(raw);
-	  if (raw-f)==0
-	   nscore=normscore(f);
-	   N(i,j)=nscore;
+	  if P(i,j)<=1.5
+		  raw=20*P(i,j);
+		  f=fix(raw);
+		  if (raw-f)==0
+		   nscore=normscore(f);
+		   N(i,j)=nscore;
+		  else
+		   nscore=normscore(f+1);
+		   N(i,j)=nscore;
+		  end
 	  else
-	   nscore=normscore(f+1);
-	   N(i,j)=nscore;
+		   N(i,j)=P(i,j);	%raw score itself if greater than 1.5
 	  end
-  else
-	   N(i,j)=P(i,j);	%raw score itself if greater than 1.5
-  end
-  end
  end
 end
 end
