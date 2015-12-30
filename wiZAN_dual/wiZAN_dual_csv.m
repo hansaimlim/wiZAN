@@ -1,7 +1,7 @@
 function wiZAN_dual_csv(train_csv, test_csv, rank, outfile)
 tic;
 %fixed parameter as of 5/27/2015
-para = [0.1, 0.1, 0.01, rank, 400, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
+para = [0.1, 0.1, 0.01, 300, 400, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
 
 %chem_chem_zinc and protein_protein_zinc_blast matrices from chem-chem and prot-prot files
 load /scratch/hansaim.lim/wiZAN/ZINC_data/chem_chem/chem_chem_zinc;
@@ -36,10 +36,7 @@ test_result = TPRbyRowRank(FindTrues(U*V', testmat), 100);   %max cutoff rank 10
 %[MAP, MPR, HLU, AUC] = get_diff(test, U, V, para);	%to calculate performance scores 
 %fprintf('MAP = %0.4f, MPR = %0.4f, HLU = %0.4f, AUC = %0.4f\n', MAP, MPR, HLU, AUC);
 
-outfileId=fopen(outfile, 'w');
-fprintf(outfileId, '%5d %12.8f\n', test_result');
-fclose(outfileId);
-fprintf('Result file saved: %s\n',outfile);
+dlmwrite(outfile, test_result, 'delimiter', '\t', 'precision', 7)
 clear train;
 clear test;
 clear test_result;
