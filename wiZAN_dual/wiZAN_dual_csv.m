@@ -1,4 +1,5 @@
 function wiZAN_dual_csv(train_csv, test_csv, rank, outfile)
+tic;
 %fixed parameter as of 5/27/2015
 para = [0.1, 0.1, 0.01, rank, 400, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
 
@@ -6,14 +7,13 @@ para = [0.1, 0.1, 0.01, rank, 400, 0.75, 0.1]; % para: lambda, squared global we
 load /scratch/hansaim.lim/wiZAN/ZINC_data/chem_chem/chem_chem_zinc;
 load /scratch/hansaim.lim/wiZAN/ZINC_data/prot_prot/protein_protein_zinc_blast;
 %get number of chemical and protein
-temp_c=size(chem_chem_zinc);
-temp_p=size(protein_protein_zinc_blast);
-m = temp_c(1);
-n = temp_p(1);
+m=size(chem_chem_zinc, 1);
+n=size(protein_protein_zinc_blast, 1);
 %convert csv to matrix
 train_line = csvread(train_csv);
 train = sparse(train_line(:,1), train_line(:,2), 1, m, n);      %12384 chemicals and 3500 proteins in ZINC
 test = csvread(test_csv);
+testmat = sparse(test(:,1), test(:,2), 1, m, n);	%matrix form for test set
 %protein_protein_zinc_blast = ceil(protein_protein_zinc_blast);
 chem_chem_zinc = chem_chem_zinc + chem_chem_zinc';
 %protein_protein_zinc_blast = protein_protein_zinc_blast + protein_protein_zinc_blast';
@@ -30,7 +30,7 @@ Lv = Dn - protein_protein_zinc_blast;
 
 
 %get predicted scores and ranks based on updated U and V
-test_result = TPRbyRowRank(get_test_result(test, U, V), 100);   %max cutoff rank 100
+test_result = TPRbyRowRank(FindTrues(U*V', testmat), 100);   %max cutoff rank 100
 
 %[MPR_C, MPR_U, MPR_I] = get_diff_coldstart(train, test, U, V);
 %[MAP, MPR, HLU, AUC] = get_diff(test, U, V, para);	%to calculate performance scores 
@@ -43,39 +43,18 @@ fprintf('Result file saved: %s\n',outfile);
 clear train;
 clear test;
 clear test_result;
+toc
 
-end
-
-
-function test_result = get_test_result(test, U, V)
-%to get the actual scores (and rank)
-%result matrix contains 5 columns: chemical index, protein index, predicted
-%score, row rank, column rank
-scores = U * V';
-test_size = size(test);
-test_row_size = test_size(1);
-test_result = zeros(test_row_size, 5);
-for test_r = 1:test_row_size
-    chem_index = test(test_r, 1);
-    prot_index = test(test_r, 2);
-    pred_score = scores(chem_index, prot_index);
-
-    temp_row = scores(chem_index, :);
-    row_rank = sum(temp_row >= pred_score) + 1; %the dense rank of the prediction score in the row (chemicals)
-    temp_col = scores(:, prot_index);
-    col_rank = sum(temp_col >= pred_score) + 1; %the rank of the prediction score in the column (proteins)
-    test_result(test_r, :) = [chem_index, prot_index, pred_score, row_rank, col_rank];
-end
 end
 
 function TPRbyRow = TPRbyRowRank(testResult, maxRank)
 %to get TPR by cutoff Row rank
 %output contains vector of dimension (maxRank, 2)
-%testResult input must contain row rank on the 4th column
+%testResult input must contain row rank on the 3rd column
 %testResult input must contain ONLY test pairs, since the number of lines will be used as condition positive
 [cp, col] = size(testResult); %cp: condition positive, col: number of columns
 TPRbyRow = zeros(maxRank, 2);
-row_rank = testResult(:, 4);    %Rank by Rows on 4th column
+row_rank = testResult(:, 3);    %Rank by Rows on 3rd column
 rank = 1;       %cutoff rank
 while rank <= maxRank
         tpr = sum(row_rank<=rank)/cp;
