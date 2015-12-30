@@ -1,6 +1,6 @@
-function [MAP, MPR, HLU, AUC] = wiZAN_dual_csv(train_csv, test_csv, outfile)
+function wiZAN_dual_csv(train_csv, test_csv, rank, outfile)
 %fixed parameter as of 5/27/2015
-para = [0.1, 0.1, 0.01, 300, 100, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
+para = [0.1, 0.1, 0.01, rank, 400, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
 
 %chem_chem_zinc and protein_protein_zinc_blast matrices from chem-chem and prot-prot files
 load /scratch/hansaim.lim/wiZAN/ZINC_data/chem_chem/chem_chem_zinc;
@@ -30,11 +30,12 @@ Lv = Dn - protein_protein_zinc_blast;
 
 
 %get predicted scores and ranks based on updated U and V
-test_result = TPRbyRowRank(get_test_result(test, U, V), 200);   %max cutoff rank 200
+test_result = TPRbyRowRank(get_test_result(test, U, V), 100);   %max cutoff rank 100
 
 %[MPR_C, MPR_U, MPR_I] = get_diff_coldstart(train, test, U, V);
-[MAP, MPR, HLU, AUC] = get_diff(test, U, V, para);
-fprintf('MAP = %0.4f, MPR = %0.4f, HLU = %0.4f, AUC = %0.4f\n', MAP, MPR, HLU, AUC);
+%[MAP, MPR, HLU, AUC] = get_diff(test, U, V, para);	%to calculate performance scores 
+%fprintf('MAP = %0.4f, MPR = %0.4f, HLU = %0.4f, AUC = %0.4f\n', MAP, MPR, HLU, AUC);
+
 outfileId=fopen(outfile, 'w');
 fprintf(outfileId, '%5d %12.8f\n', test_result');
 fclose(outfileId);
