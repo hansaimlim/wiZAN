@@ -3,7 +3,6 @@ function wiZAN_timetest(iter, rank, rowsize, colsize)
 %rank: factorization low-rank (lower than both row and colsize
 %rowsize: number of chemicals
 %colsize: number of proteins
-tic;
 %fixed parameter as of 5/27/2015
 para = [0.1, 0.1, 0.01, rank, 400, 0.75, 0.1]; % para: lambda, squared global weight, r, rank, maxIte, gamma, lambda
 
@@ -18,25 +17,31 @@ n=size(prot_prot_ZCD, 1);	%number of unique proteins
 %prots = ceil(prots);
 chem_chem_ZCD = chem_chem_ZCD + chem_chem_ZCD';
 %prots = prots + prots';
-chem_rows=datasample(chem_chem_ZCD,rowsize,1);
-chems=datasample(chem_rows,rowsize,2);	%chemical-chemical matrix is square
-prot_cols=datasample(prot_prot_ZCD,colsize,1);
-prots=datasample(prot_cols,colsize,2);	%protein-protein matrix is square
+for k=1:iter
+	%random sampling of data in specified size
+	chem_rows=datasample(chem_chem_ZCD,rowsize,1);
+	prot_cols=datasample(prot_prot_ZCD,colsize,1);
+	chems=datasample(chem_rows,rowsize,2);	%chemical-chemical matrix is square
+	prots=datasample(prot_cols,colsize,2);	%protein-protein matrix is square
 
-chemprot_row=datasample(chem_prot_ZCD,rowsize,1);	%contains rowsize-chemicals
-chemprots=datasample(chem_prot_row,colsize,2);	%contains colsize-proteins
+	chemprot_row=datasample(chem_prot_ZCD,rowsize,1);	%contains rowsize-chemicals
+	chemprots=datasample(chem_prot_row,colsize,2);	%contains colsize-proteins
+	%random sampling data finished
+	%wiZAN starts
+	tic;	%time mesaurement starts
+	summ = sum(chems,2); %sum by rows
+	Dm = spdiags(summ,0,m,m);
+	Lu = Dm - chems;
 
-summ = sum(chems,2); %sum by rows
-Dm = spdiags(summ,0,m,m);
-Lu = Dm - chems;
+	sumn = sum(prots,2); %sum by rows
+	Dn = spdiags(sumn,0,n,n);
+	Lv = Dn - prots;
 
-sumn = sum(prots,2); %sum by rows
-Dn = spdiags(sumn,0,n,n);
-Lv = Dn - prots;
+	[U, V] = updateUV(chemprots, Lu, Lv, para);
+	P=U*V';	%P is the prediction score matrix
+	toc
+end
 
-[U, V] = updateUV(chemprots, Lu, Lv, para);
-P=U*V';	%P is the prediction score matrix
-toc
 clear
 end
 
