@@ -9,10 +9,10 @@ para = [0.1, 0.1, 0.01, rank, 400, 0.75, 0.1]; % para: lambda, squared global we
 %chems and prots matrices from chem-chem and prot-prot files
 load /scratch/hansaim.lim/wiZAN/ZINC_ChEMBL_DrugBank/chem_chem/chem_chem_ZCD;
 load /scratch/hansaim.lim/wiZAN/ZINC_ChEMBL_DrugBank/prot_prot/prot_prot_ZCD;
-load /scratch/hansaim.lim/wiZAN/ZINC_ChEMBL_DrugBank/prot_prot/chem_prot_ZCD;
+load /scratch/hansaim.lim/wiZAN/ZINC_ChEMBL_DrugBank/chem_prot/chem_prot_ZCD;
 %get number of chemical and protein
-m=size(chem_chem_ZCD, 1);	%number of unique chemicals
-n=size(prot_prot_ZCD, 1);	%number of unique proteins
+Nchem=size(chem_chem_ZCD, 1);	%number of unique chemicals
+Nprot=size(prot_prot_ZCD, 1);	%number of unique proteins
 %convert csv to matrix
 %prots = ceil(prots);
 chem_chem_ZCD = chem_chem_ZCD + chem_chem_ZCD';
@@ -23,9 +23,10 @@ for k=1:iter
 	prot_cols=datasample(prot_prot_ZCD,colsize,1);
 	chems=datasample(chem_rows,rowsize,2);	%chemical-chemical matrix is square
 	prots=datasample(prot_cols,colsize,2);	%protein-protein matrix is square
-
+	m=size(chems,1);
+	n=size(prots,1);
 	chemprot_row=datasample(chem_prot_ZCD,rowsize,1);	%contains rowsize-chemicals
-	chemprots=datasample(chem_prot_row,colsize,2);	%contains colsize-proteins
+	chemprots=datasample(chemprot_row,colsize,2);	%contains colsize-proteins
 	%random sampling data finished
 	%wiZAN starts
 	tic;	%time mesaurement starts
