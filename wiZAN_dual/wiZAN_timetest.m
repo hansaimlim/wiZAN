@@ -39,7 +39,7 @@ for k=1:iter
 	Lv = Dn - prots;
 
 	[U, V] = updateUV(chemprots, Lu, Lv, para);
-	P=U*V';	%P is the prediction score matrix
+%	P=U*V';	%P is the prediction score matrix %commented to avoid memory shortage
 	toc
 end
 

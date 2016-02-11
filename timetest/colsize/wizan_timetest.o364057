@@ -1,0 +1,62 @@
+>>>> Begin wiZAN runningtime test
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 4535.693790 seconds.
+Elapsed time is 4627.716043 seconds.
+Elapsed time is 4567.909992 seconds.
+Elapsed time is 4597.455718 seconds.
+Elapsed time is 4646.987980 seconds.
+Elapsed time is 4650.059395 seconds.
+Elapsed time is 4693.399391 seconds.
+Elapsed time is 4606.473650 seconds.
+Elapsed time is 4557.938895 seconds.
+Elapsed time is 4568.648776 seconds.
+Elapsed time is 6872.547895 seconds.
+Elapsed time is 7409.343437 seconds.
+Elapsed time is 7435.710475 seconds.
+Elapsed time is 7098.171388 seconds.
+Elapsed time is 7133.580253 seconds.
+Elapsed time is 7075.778677 seconds.
+Elapsed time is 7008.279839 seconds.
+Elapsed time is 6883.568740 seconds.
+Elapsed time is 6815.215844 seconds.
+Elapsed time is 6903.388770 seconds.
+Elapsed time is 6745.811345 seconds.
+Elapsed time is 6974.736332 seconds.
+Elapsed time is 6765.202212 seconds.
+Elapsed time is 6688.224931 seconds.
+Elapsed time is 6689.140364 seconds.
+Elapsed time is 7041.782606 seconds.
+Elapsed time is 7048.083089 seconds.
+Elapsed time is 6847.378124 seconds.
+Elapsed time is 6540.561199 seconds.
+Elapsed time is 6579.326267 seconds.
+Elapsed time is 6794.916708 seconds.
+Elapsed time is 6747.953089 seconds.
+Elapsed time is 6825.870133 seconds.
+Elapsed time is 6796.178342 seconds.
+Elapsed time is 6598.872283 seconds.
+Elapsed time is 6532.988790 seconds.
+Elapsed time is 6617.752482 seconds.
+Elapsed time is 6783.188858 seconds.
+Elapsed time is 6804.936081 seconds.
+Elapsed time is 6938.242497 seconds.
+Elapsed time is 6690.527766 seconds.
+Elapsed time is 6867.469001 seconds.
+Elapsed time is 6613.612699 seconds.
+Elapsed time is 6839.436518 seconds.
+Elapsed time is 6979.214390 seconds.
+Elapsed time is 6703.739126 seconds.
+Elapsed time is 6561.044614 seconds.
+Elapsed time is 5911.838577 seconds.
+Elapsed time is 5700.660499 seconds.
+Elapsed time is 5094.780758 seconds.
+>> Rank = 200, iteration = 50, rowsize = 200000, colsize = 14000

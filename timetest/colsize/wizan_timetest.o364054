@@ -1,0 +1,41 @@
+>>>> Begin wiZAN runningtime test
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 5184.576206 seconds.
+Elapsed time is 5191.699238 seconds.
+Elapsed time is 5323.034755 seconds.
+Elapsed time is 5438.974173 seconds.
+Elapsed time is 5764.573005 seconds.
+Elapsed time is 5254.315492 seconds.
+Elapsed time is 5282.992282 seconds.
+Elapsed time is 5249.599999 seconds.
+Elapsed time is 4995.457911 seconds.
+Elapsed time is 5055.611820 seconds.
+Elapsed time is 5578.657251 seconds.
+Elapsed time is 5260.421717 seconds.
+Elapsed time is 4684.708392 seconds.
+Elapsed time is 4384.659456 seconds.
+Elapsed time is 4411.361314 seconds.
+Elapsed time is 4568.902871 seconds.
+Elapsed time is 4217.393889 seconds.
+Elapsed time is 4615.987743 seconds.
+Elapsed time is 4324.780075 seconds.
+Elapsed time is 4316.769289 seconds.
+Elapsed time is 4116.473765 seconds.
+Elapsed time is 4139.793930 seconds.
+Elapsed time is 4058.955715 seconds.
+Elapsed time is 4160.104111 seconds.
+Elapsed time is 4386.231152 seconds.
+Elapsed time is 4314.034533 seconds.
+Elapsed time is 4401.317584 seconds.
+Elapsed time is 4228.137352 seconds.
+Elapsed time is 4160.706131 seconds.
+>> Rank = 200, iteration = 50, rowsize = 200000, colsize = 17000
