@@ -44,22 +44,6 @@ toc
 
 end
 
-function TPRbyRow = TPRbyRowRank(testResult, maxRank)
-%to get TPR by cutoff Row rank
-%output contains vector of dimension (maxRank, 2)
-%testResult input must contain row rank on the 3rd column
-%testResult input must contain ONLY test pairs, since the number of lines will be used as condition positive
-[cp, col] = size(testResult); %cp: condition positive, col: number of columns
-TPRbyRow = zeros(maxRank, 2);
-row_rank = testResult(:, 3);    %Rank by Rows on 3rd column
-rank = 1;       %cutoff rank
-while rank <= maxRank
-        tpr = sum(row_rank<=rank)/cp;
-        TPRbyRow(rank, :) = [rank, tpr];        %update result row
-        rank = rank + 1;
-end
-end
-
 function [U, V] = updateUV(R, Lu, Lv, para)
 % para: lambda, r, T, rank, maxIte, ite_of_bisection method, topN
 [m, n] = size(R);
