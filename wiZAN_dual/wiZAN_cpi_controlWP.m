@@ -22,7 +22,7 @@ m = temp_c(1);
 n = temp_p(1);
 %convert csv to matrix
 %protein_protein_zinc_blast = ceil(protein_protein_zinc_blast);
-chem_chem_zc = chem_chem_zc + chem_chem_zc';
+%chem_chem_zc = chem_chem_zc + chem_chem_zc';
 %protein_protein_zinc_blast = protein_protein_zinc_blast + protein_protein_zinc_blast';
 
 summ = sum(chem_chem_zc,2); %sum by rows

@@ -15,7 +15,7 @@ train = sparse(train_line(:,1), train_line(:,2), 1, m, n);      %12384 chemicals
 test = csvread(test_csv);
 testmat = sparse(test(:,1), test(:,2), 1, m, n);	%matrix form for test set
 %protein_protein_zinc_blast = ceil(protein_protein_zinc_blast);
-chem_chem_zinc = chem_chem_zinc + chem_chem_zinc';
+%chem_chem_zinc = chem_chem_zinc + chem_chem_zinc';
 %protein_protein_zinc_blast = protein_protein_zinc_blast + protein_protein_zinc_blast';
 
 summ = sum(chem_chem_zinc,2); %sum by rows

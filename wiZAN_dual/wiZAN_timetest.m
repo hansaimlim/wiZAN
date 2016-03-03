@@ -15,7 +15,7 @@ Nchem=size(chem_chem_ZCD, 1);	%number of unique chemicals
 Nprot=size(prot_prot_ZCD, 1);	%number of unique proteins
 %convert csv to matrix
 %prots = ceil(prots);
-chem_chem_ZCD = chem_chem_ZCD + chem_chem_ZCD';
+%chem_chem_ZCD = chem_chem_ZCD + chem_chem_ZCD';
 %prots = prots + prots';
 for k=1:iter
 	%random sampling of data in specified size

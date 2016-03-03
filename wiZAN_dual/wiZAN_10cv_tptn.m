@@ -27,7 +27,7 @@ TN = sparse(tn_line(:,1), tn_line(:,2), 1, m, n);      %True Negative activities
 am_line = csvread(ambiguous_csv);
 AM = sparse(am_line(:,1), am_line(:,2), 1, m, n);      %AMbiguous activities (multiple tests in both TP and TN range)
 %protein_protein_zinc_blast = ceil(protein_protein_zinc_blast);
-chem_chem_zc = chem_chem_zc + chem_chem_zc';
+%chem_chem_zc = chem_chem_zc + chem_chem_zc';
 %protein_protein_zinc_blast = protein_protein_zinc_blast + protein_protein_zinc_blast';
 
 summ = sum(chem_chem_zc,2); %sum by rows

@@ -10,7 +10,7 @@ m=size(chem_chem_sim,1);	%number of chemicals
 n=size(prot_prot_sim,1);	%number of proteins
 %convert csv to matrix
 %protein_protein_zinc_blast = ceil(protein_protein_zinc_blast);
-chem_chem_sim = chem_chem_sim + chem_chem_sim';
+%chem_chem_sim = chem_chem_sim + chem_chem_sim';
 %protein_protein_zinc_blast = protein_protein_zinc_blast + protein_protein_zinc_blast';
 
 summ = sum(chem_chem_sim,2); %sum by rows
