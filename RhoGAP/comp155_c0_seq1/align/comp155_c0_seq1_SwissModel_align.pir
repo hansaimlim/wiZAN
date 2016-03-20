@@ -6,6 +6,14 @@ AYLMVHLQKVVEKKEINRMNPKNIGIVFGPTLMNSQ--Y--DDLMAAAALNN--QQTKIIEKLLELPSSFWK
 ELINYESTKTESNVSISKEDKEGAWGGAASADASASDEIVHPRSHLWSQIQGAKLKPISQVPRRIVLSKPED
 DLMDEES*
 
+>P1;2mbg
+structure:2mbg:356:  A  :  446  :  A : : : :
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+----------------------------------------------------------VLYVFFTHVQELFG
+NVVLKQVMKPLRWSNMATMPTLPETQAGIKEEIRRQEFLLNCLHRDLQGGIKDLSKEERLWEVQRILTALKR
+KLREA--*
+
 >P1;3wpq
 structure:3wpq:347:A:545:A::::
 -----GEGMLADFVSQTSPMIPSIVVHCVNEIEQRGLTETGLYRIAGCDRTVKELKEKFLRVKT----VPL-
