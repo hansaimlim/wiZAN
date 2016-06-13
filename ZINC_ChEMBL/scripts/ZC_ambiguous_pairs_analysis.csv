@@ -1,4 +1,4 @@
-Standard_InChI_Key, UniProt_Accession, Ambiguity, Count_below10uM, Count_over10uM, max_IC50, min_IC50
+Standard_InChI_Key, UniProt_Accession, Ambiguity, Count_below10uM, Count_over10uM, max_IC50(nM), min_IC50(nM)
 AABRILTZMFCPOO-KZNAEPCWSA-N, P56524, Ambiguous_MaxIC50_too_high, 2, 1, 50000.0, 40.0
 AACFPJSJOWQNBN-UHFFFAOYSA-N, Q15139, Ambiguous_byMajorityVote, 1, 1, 11800.0, 182.0
 AADKPDGTJHDJAJ-UHFFFAOYSA-N, P97612, Ambiguous_byMajorityVote, 1, 1, 10232.93, 10000.0
