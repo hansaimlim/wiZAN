@@ -2,7 +2,7 @@
 
 import httplib2 as http
 import json
-import MySQLdb as db
+#import MySQLdb as db
 import sys
 try:
  from urlparse import urlparse
@@ -282,7 +282,9 @@ def get_canonicalsmiles_by_CID(cid):
 
 # for each inchikey, needed [synonym, CID, CAS RN, CanonicalSMILES]
 chem_info=[]
-for line in open('./uniq_ikeys.txt',"r").xreadlines():
+infile=sys.argv[1]
+outfile=sys.argv[2]
+for line in open(infile,"r").xreadlines():
 	line = line.strip().split("\t")
 	ikey = str(line[0])
 	cid=None
@@ -313,7 +315,7 @@ for line in open('./uniq_ikeys.txt',"r").xreadlines():
 			chem_info.append(cheminfo)
 		
 
-s=open('./ZCDPH_chemical_info.tsv',"w")
+s=open(outfile,"w")
 for cheminfo in chem_info:
 	ikey=str(cheminfo[0])
 	syn=str(cheminfo[1])
