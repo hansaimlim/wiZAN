@@ -1,0 +1,7 @@
+CREATE TABLE disease(
+disease_index INT(10) UNSIGNED NOT NULL AUTO_INCREMENT,
+DOID INT(10) UNSIGNED NOT NULL,
+disease_name VARCHAR(255),
+pathophysiology VARCHAR(255),
+PRIMARY KEY(disease_index),
+UNIQUE KEY(DOID));

@@ -1,0 +1,12 @@
+CREATE TABLE chemical(
+chemical_index INT(10) UNSIGNED NOT NULL AUTO_INCREMENT,
+InChIKey VARCHAR(40) NOT NULL,
+Alternate_InChIKey VARCHAR(40),
+chemical_name VARCHAR(5000),
+PubChem_CID VARCHAR(40),
+CAS VARCHAR(40),
+ChEMBL_id VARCHAR(100),
+Alternate_id VARCHAR(100),
+canonical_SMILES VARCHAR(40000) NOT NULL,
+PRIMARY KEY (chemical_index),
+UNIQUE KEY (InChIKey));
