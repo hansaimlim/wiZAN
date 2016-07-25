@@ -8,9 +8,36 @@ try:
 except ImportError:
  from urllib.parse import urlparse
 
-con = db.connect('localhost', 'hlim', 'w31c0m3', 'hetio');
+con = db.connect('localhost', 'root', 'rhkdlf2043', 'hetio');
 cur=con.cursor()
+def get_canonicalsmiles_by_InChIKey(ikey):
+        smi=None
+        headers = {
+         'Accept': 'application/json',
+        }
+        method = 'GET'
+        pre_uri='https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/'
+        suf_uri='/property/canonicalsmiles/json'
+        path = pre_uri + ikey + suf_uri
+        target = urlparse(path)
+        body = ''
+        h = http.Http()
+        response, content = h.request(
+         target.geturl(),
+         method,
+         body,
+         headers)
 
+        if response['status'] == '200':
+         # assume that content is a json reply
+         # parse content with the json module 
+                data = json.loads(content)
+                try:
+                        smi=str(data['PropertyTable']['Properties'][0]['CanonicalSMILES'])
+                except:
+			None
+                       # print "CanonicalSMILES not found from PubChem for: %s" % (ikey)
+        return smi
 def get_synonym_by_InChIKey(ikey):
         syn=None
         headers = {
@@ -105,11 +132,18 @@ def insert_chemical(ikey,altikey,chemname,cid,cas,chembl,altid,smiles):
                 except:
                         con.rollback()
 
+def get_chemical_index_by_InChIKey(ikey):
+        #ind is None if chemical not found
+        qry="SELECT chemical_index FROM chemical WHERE InChIKey=%s"
+        cur.execute(qry,(ikey))
+        ind=cur.fetchone()
+        return ind
+
 
 pubchemfile='../output/chem_info_from_PubChem.tsv'
 smifile='../output/ikey_infoFound_smilesOnly.txt'
 drugfile='../output/ikey_infoFound_drugname.txt'
-
+addfile='../output/ikey_infoNotFound.txt'
 for line in open(pubchemfile,"r").xreadlines():
 	line=line.strip().split("\t")
 	ikey=str(line[0])
@@ -176,6 +210,34 @@ for  line in open(smifile,"r").xreadlines():
 	altid=None
 	insert_chemical(ikey,altikey,syn,cid,cas,chembl,altid,smi)
 
+for line in open(addfile,"r").xreadlines():
+	line=line.strip().split("\t")
+	ikey=str(line[0])
+	syn=None
+	try:
+		syn=get_synonym_by_InChIKey(ikey)
+	except:
+		None
+	cid=None
+	try:
+		cid=get_CID_by_InChIKey(ikey)
+	except:
+		cid=None
+	cas=None
+	try:
+		cas=get_CAS_by_InChIkey(ikey)
+	except:
+		cas=None
+	try:
+		smi=get_canonicalsmiles_by_InChIKey(ikey)
+	except:
+		smi=None
+	if smi is None:
+		continue
+	altikey=None
+	chembl=None
+	altid=None
+	insert_chemical(ikey,altikey,syn,cid,cas,chembl,altid,smi)
 #chemfile='../chems_from_chembl.tsv'
 #for line in open(chemfile, "r").xreadlines():
 #        line=line.strip().split("\t")
