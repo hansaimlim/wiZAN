@@ -8,7 +8,7 @@ try:
 except ImportError:
  from urllib.parse import urlparse
 
-con = db.connect('localhost', 'hlim', 'rhkdlf2043', 'hetio');
+con = db.connect('localhost', 'hlim', 'w31c0m3', 'hetio');
 cur=con.cursor()
 
 def get_synonym_by_InChIKey(ikey):
@@ -36,7 +36,8 @@ def get_synonym_by_InChIKey(ikey):
                 try:
                         syn=str(data['InformationList']['Information'][0]['Synonym'][0])
                 except:
-                        print "Synonym not found from PubChem for: %s" % (ikey)
+			None
+                       #print "Synonym not found from PubChem for: %s" % (ikey)
         return syn
 def get_CID_by_InChIKey(ikey):
         cid=None
@@ -105,16 +106,25 @@ def insert_chemical(ikey,altikey,chemname,cid,cas,chembl,altid,smiles):
                         con.rollback()
 
 
-pubchemfile='./output/chem_info_from_PubChem.tsv'
-smifile='./output/ikey_infoFound_smilesOnly.txt'
-drugfile='./output/ikey_infoFound_drugname.txt'
+pubchemfile='../output/chem_info_from_PubChem.tsv'
+smifile='../output/ikey_infoFound_smilesOnly.txt'
+drugfile='../output/ikey_infoFound_drugname.txt'
 
 for line in open(pubchemfile,"r").xreadlines():
 	line=line.strip().split("\t")
 	ikey=str(line[0])
-	syn=str(line[1])
-	cid=str(line[2])
-	cas=str(line[3])
+	if line[1] is not None:
+		syn=str(line[1])
+	else:
+		syn=None
+	if line[2] is not None:
+		cid=str(line[2])
+	else:
+		cid=None
+	if line[3] is not None:
+		cas=str(line[3])
+	else:
+		cas=None
 	smi=str(line[4])
 	altikey=None
 	chembl=None
@@ -166,16 +176,19 @@ for  line in open(smifile,"r").xreadlines():
 	altid=None
 	insert_chemical(ikey,altikey,syn,cid,cas,chembl,altid,smi)
 
-chemfile='./chems_from_chembl.tsv'
-for line in open(chemfile, "r").xreadlines():
-        line=line.strip().split("\t")
-        ikey=str(line[0])
-        smi=str(line[1])
-        prefname=str(line[2]) #often None
-        chembl=str(line[3])
-        compname=str(line[4]) #long compound name
-	altikey=None
-	altid=None
-	insert_chemical(ikey,altikey,prefname,cid,cas,chembl,altid,smi)
-	
+#chemfile='../chems_from_chembl.tsv'
+#for line in open(chemfile, "r").xreadlines():
+#        line=line.strip().split("\t")
+#        ikey=str(line[0])
+#        smi=str(line[1])
+#	if line[2] is not None:
+#	        prefname=str(line[2]) #often None
+#	else:
+#		prefname=None
+#        chembl=str(line[3])
+#        compname=str(line[4]) #long compound name
+#	altikey=None
+#	altid=None
+#	insert_chemical(ikey,altikey,prefname,cid,cas,chembl,altid,smi)
+#	
 con.close()	

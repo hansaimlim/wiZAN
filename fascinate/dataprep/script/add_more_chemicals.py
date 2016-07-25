@@ -8,9 +8,9 @@ try:
 except ImportError:
  from urllib.parse import urlparse
 
-con = db.connect('localhost', 'hlim', 'rhkdlf2043', 'hetio');
+con = db.connect('localhost', 'hlim', 'w31c0m3', 'hetio');
 cur=con.cursor()
-cdfile='./chemicals_to_add.csv'
+cdfile='../output/chemicals_to_add.csv'
 
 def get_synonym_by_InChIKey(ikey):
         syn=None

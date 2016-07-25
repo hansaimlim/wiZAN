@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import MySQLdb as db
 
-con = db.connect('localhost', 'hlim', 'rhkdlf2043', 'hetio');
+con = db.connect('localhost', 'hlim', 'w31c0m3', 'hetio');
 cur=con.cursor()
 
 def get_chemical_index_by_InChIKey(ikey):
@@ -39,9 +39,9 @@ def check_chem_prot(chemind,protind):
 	dat=cur.fetchall()
 	return dat
 
-S=open('./combined_chem_prot_index_add.csv',"w")
-NF=open('./chemical_ikey_notfound_from_chemprot.txt',"w")
-for line in open('./combined_chem_prot_source.tsv',"r").xreadlines():
+S=open('../combined_chem_prot_index_add.csv',"w")
+NF=open('../chemical_ikey_notfound_from_chemprot.txt',"w")
+for line in open('../combined_chem_prot_source.tsv',"r").xreadlines():
 	line=line.strip().split("\t")
 	ikey=str(line[0])
 	uni=str(line[1])

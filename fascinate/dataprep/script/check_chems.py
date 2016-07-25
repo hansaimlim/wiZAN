@@ -1,10 +1,10 @@
 #!/usr/bin/python
 
-ikeyfile='./uniq_ikeys.txt'
-infofile='./chem_info_from_PubChem.tsv'
-cmapfile='./cMap_InChIKey_drugname.tsv'
-ZCDfile='../../ZINC_ChEMBL_DrugBank/chem_chem/ZINC_ChEMBL_DrugBank_chemicals.tsv'
-FDAfile='../../ZINC_ChEMBL_DrugBank/chem_chem/FDA_InChIKey_compoundname.tsv'
+ikeyfile='../uniq_ikeys.txt'
+infofile='../output/chem_info_from_PubChem.tsv'
+cmapfile='../cMap_InChIKey_drugname.tsv'
+ZCDfile='../../../ZINC_ChEMBL_DrugBank/chem_chem/ZINC_ChEMBL_DrugBank_chemicals.tsv'
+FDAfile='../../../ZINC_ChEMBL_DrugBank/chem_chem/FDA_InChIKey_compoundname.tsv'
 ikeys=[]
 ikeys_found=[]
 ikey_name={}
@@ -48,9 +48,9 @@ for line in open(infofile, "r").xreadlines():
 	smiles=str(line[4])
 	ikeys_found.append(ikey)
 
-notfile='./ikey_infoNotFound.txt'
-addfile1='./ikey_infoFound_drugname.txt'
-addfile2='./ikey_infoFound_smilesOnly.txt'
+notfile='../output/ikey_infoNotFound.txt'
+addfile1='../output/ikey_infoFound_drugname.txt'
+addfile2='../output/ikey_infoFound_smilesOnly.txt'
 NF=open(notfile,"w")
 A1=open(addfile1,"w")
 A2=open(addfile2,"w")

@@ -8,7 +8,7 @@ try:
 except ImportError:
  from urllib.parse import urlparse
 
-con = db.connect('localhost', 'hlim', 'rhkdlf2043', 'hetio');
+con = db.connect('localhost', 'hlim', 'w31c0m3', 'hetio');
 cur=con.cursor()
 def get_canonicalsmiles_by_InChIKey(ikey):
         smi=None
@@ -262,12 +262,12 @@ def insert_chemical(ikey,altikey,chemname,cid,cas,chembl,altid,smiles):
 
 diseasename_index=get_disease()
 
-S=open('./therapeutic_chemical_disease_index.csv',"w")
-notfound_file='./output/chemicals_notfound_from_chemdisease.txt'
+S=open('../output/therapeutic_chemical_disease_index.csv',"w")
+notfound_file='../output/chemicals_notfound_from_chemdisease.txt'
 NF=open(notfound_file,"w")
-notfound_file2='./output/chemicals_notfound_from_chemdisease2.txt'
+notfound_file2='../output/chemicals_notfound_from_chemdisease2.txt'
 NF2=open(notfound_file2,"w")
-for line in open('./therapeuticChemical_disease_CTD.txt',"r").xreadlines():
+for line in open('../therapeuticChemical_disease_CTD.txt',"r").xreadlines():
 	line=line.strip().split("\t")
 	diseasename_lower=str(line[0])
 	chemicalname=str(line[1])
