@@ -158,37 +158,38 @@ def get_chemicals_ikey():
 		ikeys.append(ikey)
         return ikeys
 def get_smiles_from_chembl(ikey):
-	qry="SELECT cstr.canonical_smiles\
-	FROM chembl_20.compound_structures cstr\
-	INNER JOIN chembl_20.molecule_dictionary mdic ON cstr=molregno=mdic=molregno\
-	WHERE cstr.standard_inchi_key=%s"
-	cur.execute(qry,(ikey,))
-	dat=cur.fetchone()
-	if dat is None:
-		return None
-	else:
-		return str(dat)
+        qry="SELECT cstr.canonical_smiles\
+        FROM chembl_20.compound_structures cstr\
+        INNER JOIN chembl_20.molecule_dictionary mdic ON cstr.molregno=mdic.molregno\
+        WHERE cstr.standard_inchi_key=%s"
+        cur.execute(qry,(ikey,))
+        dat=cur.fetchone()
+        if dat is None:
+                return None
+        else:
+                return str(dat)
 def get_synonym_from_chembl(ikey):
-	qry="SELECT mdic.pref_name\
-	FROM chembl_20.compound_structures cstr\
-	INNER JOIN chembl_20.molecule_dictionary mdic ON cstr=molregno=mdic=molregno\
-	WHERE cstr.standard_inchi_key=%s"
-	cur.execute(qry,(ikey,))
-	if dat is None:
-		return None
-	else:
-		return str(dat)
+        qry="SELECT mdic.pref_name\
+        FROM chembl_20.compound_structures cstr\
+        INNER JOIN chembl_20.molecule_dictionary mdic ON cstr.molregno=mdic.molregno\
+        WHERE cstr.standard_inchi_key=%s"
+        cur.execute(qry,(ikey,))
+        dat=cur.fetchone()
+        if dat is None:
+                return None
+        else:
+                return str(dat)
 def get_chembl_id_from_chembl(ikey):
-	qry="SELECT mdic.chembl_id\
-	FROM chembl_20.compound_structures cstr\
-	INNER JOIN chembl_20.molecule_dictionary mdic ON cstr=molregno=mdic=molregno\
-	WHERE cstr.standard_inchi_key=%s"
-	cur.execute(qry,(ikey,))
-	if dat is None:
-		return None
-	else:
-		return str(dat)
-
+        qry="SELECT mdic.chembl_id\
+        FROM chembl_20.compound_structures cstr\
+        INNER JOIN chembl_20.molecule_dictionary mdic ON cstr.molregno=mdic.molregno\
+        WHERE cstr.standard_inchi_key=%s"
+        cur.execute(qry,(ikey,))
+        dat=cur.fetchone()
+        if dat is None:
+                return None
+        else:
+                return str(dat)
 ikeys=get_chemicals_ikey()
 addfile='../output/ikey_infoNotFound.txt'
 count_new=0
