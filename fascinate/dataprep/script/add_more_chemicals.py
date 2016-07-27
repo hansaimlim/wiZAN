@@ -383,6 +383,15 @@ def get_chembl_id_from_chembl(ikey):
         else:
                 return str(dat[0])
 
+def get_compound_name_from_chembl(ikey):
+	qry="SELECT crec.compound_name FROM chembl_20.compound_structures cstr\
+	INNER JOIN chembl_20.compound_records crec ON cstr.molregno=crec.molregno WHERE cstr.standard_inchi_key=%s"
+        cur.execute(qry,(ikey,))
+        dat=cur.fetchone()
+        if dat is None:
+                return None
+        else:
+                return str(dat[0])
 
 linenum=1
 for line in open(cdfile,"r").xreadlines():
@@ -416,6 +425,9 @@ for line in open(cdfile,"r").xreadlines():
 		chembl=get_chembl_id_from_chembl(ikey)
 	if (altid=='') or (altid is None):
 		altid=None	
+	if syn==chembl:
+		syn=get_compound_name_from_chembl(ikey)
 	insert_chemical(ikey,altikey,chemname,cid,cas,chembl,altid,smiles)
-	
+	if (linenum % 2000) == 0:
+		print "%d lines processed"%(linenum)
 con.close()	
