@@ -308,6 +308,24 @@ def insert_chem_disease(chemind,disind):
 		con.commit()
 	except:
 		con.rollback()
+def update_chem_CAS(chemind,cas):
+        chemind=str(chemind)
+        cas=str(cas)
+        qry="UPDATE chemical SET CAS = %s WHERE chemical_index = %s"
+        try:
+                cur.execute(qry,(cid,chemind,))
+                con.commit()
+        except:
+                con.rollback()
+def update_chem_CID(chemind,cid):
+        chemind=str(chemind)
+        cid=str(cid)
+        qry="UPDATE chemical SET PubChem_CID = %s WHERE chemical_index = %s"
+        try:
+                cur.execute(qry,(cid,chemind,))
+                con.commit()
+        except:
+                con.rollback()
 def update_chem_altid(chemind,altid):
 	chemind=str(chemind)
 	altid=str(altid)
@@ -340,6 +358,21 @@ def get_disease():
 		except:
 			name_index[name]=ind
 	return name_index
+def get_chemical_noCAS():
+	chems=[]
+	qry="SELECT chemical_index, InChIKey, PubChem_CID FROM chemical WHERE CAS IS NULL"
+	cur.execute(qry)
+	dat=cur.fetchall()
+	for row in dat:
+		ind=str(row[0])
+		ikey=str(row[1])
+		if row[2] is None:
+			cid=None
+		else:
+			cid=str(row[2])
+		r=(ind,ikey,cid)
+		chems.append(r)
+	return chems
 def insert_chemical(ikey,altikey,chemname,cid,cas,chembl,altid,smiles):
         qry="INSERT INTO chemical(InChIKey,Alternate_InChIKey,chemical_name,PubChem_CID,CAS,ChEMBL_id,Alternate_id,canonical_SMILES)\
 		 VALUES (%s,%s,%s,%s,%s,%s,%s,%s)"
@@ -430,4 +463,29 @@ for line in open(cdfile,"r").xreadlines():
 	insert_chemical(ikey,altikey,chemname,cid,cas,chembl,altid,smiles)
 	if (linenum % 2000) == 0:
 		print "%d lines processed"%(linenum)
+
+print "Processing CAS update"
+chems=get_chemical_noCAS()
+cid_count=0
+cas_count=0
+for chem in chems:
+        ind=chem[0]
+        ikey=chem[1]
+        cid=chem[2]
+	if cid is None:
+		cid=get_CID_by_InChIKey(ikey)
+		if cid is not None:
+			#new CID found, update
+			update_chem_CID(ind,cid)
+			cid_count+=1
+	if cid is None:
+		None
+	else:
+		cas=get_CAS_by_CID(cid)
+		if cas is not None:
+			#CAS found. update
+			update_chem_CAS(ind,cas)
+			cas_count+=1
 con.close()	
+print "%d CID updated"%(cid_count)
+print "%d CAS updated"%(cas_count)
