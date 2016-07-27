@@ -119,8 +119,14 @@ def get_CAS_by_InChIKey(ikey):
                 try:
                         cas=str(data['InformationList']['Information'][0]['RN'][0])
                 except:
-                        None
-                       # print "CanonicalSMILES not found from PubChem for: %s" % (ikey)
+                        try:
+                                cas=str(data['InformationList']['Information'][1]['RN'][0])
+                        except:
+                                try:
+                                        cas=str(data['InformationList']['Information'][2]['RN'][0])
+                                except:
+                                        cas=None
+
         return cas
 def insert_chemical(ikey,altikey,chemname,cid,cas,chembl,altid,smiles):
 	val=(ikey,altikey,chemname,cid,cas,chembl,altid,smiles,)
