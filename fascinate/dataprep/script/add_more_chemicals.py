@@ -10,7 +10,7 @@ except ImportError:
 
 con = db.connect('localhost', 'hlim', 'w31c0m3', 'hetio');
 cur=con.cursor()
-cdfile='../output/chemicals_to_add.csv'
+cdfile='../output/more_chemicals.tsv'
 
 def get_synonym_by_InChIKey(ikey):
         syn=None
@@ -96,6 +96,73 @@ def get_CID_by_CTD(meshID):
 			None
                        # print "CID not found from PubChem for: %s" % (meshID)
         return cid
+def get_CAS_by_CID(cid):
+        cas=None
+        headers = {
+         'Accept': 'application/json',
+        }
+        method = 'GET'
+        pre_uri='https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/'
+        suf_uri='/xrefs/rn/json'
+        path = pre_uri + cid + suf_uri
+        target = urlparse(path)
+        body = ''
+        h = http.Http()
+        response, content = h.request(
+         target.geturl(),
+         method,
+         body,
+         headers)
+
+        if response['status'] == '200':
+         # assume that content is a json reply
+         # parse content with the json module 
+                data = json.loads(content)
+                try:
+                        cas=str(data['InformationList']['Information'][0]['RN'][0])
+                except:
+                        try:
+                                cas=str(data['InformationList']['Information'][1]['RN'][0])
+                        except:
+                                try:
+                                        cas=str(data['InformationList']['Information'][2]['RN'][0])
+                                except:
+                                        cas=None
+        return cas
+def get_CAS_by_InChIKey(ikey):
+        cas=None
+        headers = {
+         'Accept': 'application/json',
+        }
+        method = 'GET'
+        pre_uri='https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/'
+        suf_uri='/xrefs/rn/json'
+        path = pre_uri + ikey + suf_uri
+        target = urlparse(path)
+        body = ''
+        h = http.Http()
+        response, content = h.request(
+         target.geturl(),
+         method,
+         body,
+         headers)
+
+        if response['status'] == '200':
+         # assume that content is a json reply
+         # parse content with the json module 
+                data = json.loads(content)
+                try:
+                        cas=str(data['InformationList']['Information'][0]['RN'][0])
+                except:
+                        try:
+                                cas=str(data['InformationList']['Information'][1]['RN'][0])
+                        except:
+                                try:
+                                        cas=str(data['InformationList']['Information'][2]['RN'][0])
+                                except:
+                                        cas=None
+        return cas
+
 def get_canonicalsmiles_by_InChIKey(ikey):
         smi=None
         headers = {
@@ -212,24 +279,24 @@ def get_InChIKey_by_CAS(cas):
 def get_chemical_index_by_InChIKey(ikey):
 	#ind is None if chemical not found
 	qry="SELECT chemical_index FROM chemical WHERE InChIKey=%s"
-	cur.execute(qry,(ikey))
+	cur.execute(qry,(ikey,))
 	ind=cur.fetchone()
 	return ind
 def get_chemical_index_by_CID(cid):
 	#ind is None if chemical not found
 	qry="SELECT chemical_index FROM chemical WHERE PubChem_CID=%s"
-	cur.execute(qry,(cid))
+	cur.execute(qry,(cid,))
 	ind=cur.fetchone()
 	return ind
 def get_chemical_index_by_CAS(cas):
 	#ind is None if chemical not found
 	qry="SELECT chemical_index FROM chemical WHERE CAS=%s"
-	cur.execute(qry,(cas))
+	cur.execute(qry,(cas,))
 	ind=cur.fetchone()
 	return ind
 def get_disease_index_by_name(name):
 	qry="SELECT disease_index FROM disease WHERE disease_name=%s"
-	cur.execute(qry,(name))
+	cur.execute(qry,(name,))
 	ind=cur.fetchone()
 	return ind
 def insert_chem_disease(chemind,disind):
@@ -237,7 +304,7 @@ def insert_chem_disease(chemind,disind):
 	disind=str(disind)
 	qry="INSERT INTO chemical_disease(chemical_index,disease_index) VALUES (%s, %s)"
 	try:
-		cur.execute(qry,(chemind,disind))
+		cur.execute(qry,(chemind,disind,))
 		con.commit()
 	except:
 		con.rollback()
@@ -246,7 +313,7 @@ def update_chem_altid(chemind,altid):
 	altid=str(altid)
 	qry="UPDATE chemical SET Alternate_id = %s WHERE chemical_index = %s"
 	try:
-		cur.execute(qry,(altid,chemind))
+		cur.execute(qry,(altid,chemind,))
 		con.commit()
 	except:
 		con.rollback()
@@ -255,7 +322,7 @@ def update_chem_altikey(chemind,altikey):
 	altikey=str(altikey)
 	qry="UPDATE chemical SET Alternate_InChIKey = %s WHERE chemical_index = %s"
 	try:
-		cur.execute(qry,(altikey,chemind))
+		cur.execute(qry,(altikey,chemind,))
 		con.commit()
 	except:
 		con.rollback()
@@ -278,36 +345,77 @@ def insert_chemical(ikey,altikey,chemname,cid,cas,chembl,altid,smiles):
 		 VALUES (%s,%s,%s,%s,%s,%s,%s,%s)"
         if get_chemical_index_by_InChIKey(ikey) is None:
                 try:
-                        cur.execute(qry,(ikey,altikey,chemname,cid,cas,chembl,altid,smiles))
+                        cur.execute(qry,(ikey,altikey,chemname,cid,cas,chembl,altid,smiles,))
                         con.commit()
                 except:
                         con.rollback()
+def get_smiles_from_chembl(ikey):
+        qry="SELECT cstr.canonical_smiles\
+        FROM chembl_20.compound_structures cstr\
+        INNER JOIN chembl_20.molecule_dictionary mdic ON cstr.molregno=mdic.molregno\
+        WHERE cstr.standard_inchi_key=%s"
+        cur.execute(qry,(ikey,))
+        dat=cur.fetchone()
+        if dat is None:
+                return None
+        else:
+                return str(dat[0])
+def get_synonym_from_chembl(ikey):
+        qry="SELECT mdic.pref_name\
+        FROM chembl_20.compound_structures cstr\
+        INNER JOIN chembl_20.molecule_dictionary mdic ON cstr.molregno=mdic.molregno\
+        WHERE cstr.standard_inchi_key=%s"
+        cur.execute(qry,(ikey,))
+        dat=cur.fetchone()
+        if dat is None:
+                return None
+        else:
+                return str(dat[0])
+def get_chembl_id_from_chembl(ikey):
+        qry="SELECT mdic.chembl_id\
+        FROM chembl_20.compound_structures cstr\
+        INNER JOIN chembl_20.molecule_dictionary mdic ON cstr.molregno=mdic.molregno\
+        WHERE cstr.standard_inchi_key=%s"
+        cur.execute(qry,(ikey,))
+        dat=cur.fetchone()
+        if dat is None:
+                return None
+        else:
+                return str(dat[0])
 
-diseasename_index=get_disease()
 
+linenum=1
 for line in open(cdfile,"r").xreadlines():
-	line=line.strip().split("\t")
-	ikey=str(line[0])
-	cas=str(line[1])
-	ctd=str(line[2])
-	
-	cid=None
-	chemind=None
-	
-	chem=get_CID_by_InChIKey(ikey)
-	chem=get_chemical_index_by_CAS(cas)
-	if chem is None:
-		#no way to find the chemical
+	if linenum == 1:
+		linenum+=1
 		continue
 	else:
-		#CAS works
-		cid=str(chem[0])
-		ikey=get_InChIKey_by_CID(cid)
+		linenum+=1
+	line=line.strip().split("\t")
+	ikey=str(line[0])
+	altikey=str(line[1])
+	syn=str(line[2])
+	cid=str(line[3])
+	cas=str(line[4])
+	chembl=str(line[5])
+	altid=str(line[6])
+	smi=str(line[7])
+	
+	if (altikey=='') or (altikey is None):
 		altikey=None
-		chemname=get_synonym_by_InChIKey(ikey)
-		chembl=None
-		altid=None
-		smiles=get_canonicalsmiles_by_InChIKey(ikey)
-		insert_chemical(ikey,altikey,chemname,cid,cas,chembl,altid,smiles)
+	if (syn=='') or (syn is None):
+		syn=get_synonym_from_chembl(ikey)
+	if (cid=='') or (cid is None):
+		cid=None
+	if (cas=='') or (cas is None):
+		if cid is not None:
+			cas=get_CAS_by_CID(cid)
+		else:
+			cas=None
+	if (chembl=='') or (chembl is None):
+		chembl=get_chembl_id_from_chembl(ikey)
+	if (altid=='') or (altid is None):
+		altid=None	
+	insert_chemical(ikey,altikey,chemname,cid,cas,chembl,altid,smiles)
 	
 con.close()	
