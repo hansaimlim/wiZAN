@@ -229,7 +229,23 @@ for line in open(addfile,"r").xreadlines():
 	altikey=None
 	chembl=get_chembl_id_from_chembl(ikey)
 	altid=None
+	if ikey is None:
+		ikey=''
+	if altikey is None:
+		altikey=''
+	if syn is None:
+		syn=''
+	if cid is None:
+		cid=''
+	if cas is None:
+		cas=''
+	if chembl is None:
+		chembl=''
+	if altid is None:
+		altid=''
+	if smi is None:
+		smi=''
 #	insert_chemical(ikey,altikey,syn,cid,cas,chembl,altid,smi)
-	print "%s\t%s\t%s\t%s\t%s\t%s\t%s"%(ikey, altikey, syn, cid, cas, chembl, altid, smi)
+	print "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s"%(str(ikey), str(altikey), str(syn), str(cid), str(cas), str(chembl), str(altid), str(smi))
 #print "%d new chemicals; $d chemicals without smiles"%(count_new,smi_notfound)
 con.close()	
