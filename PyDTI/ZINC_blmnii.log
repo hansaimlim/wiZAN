@@ -1,0 +1,2 @@
+Dataset:ZINC CVS:2
+Model:BLMNII, alpha:0.7, gamma:1.0, sigma:1.0, avg:False

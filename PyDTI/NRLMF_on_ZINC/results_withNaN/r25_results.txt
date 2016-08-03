@@ -1,0 +1,60 @@
+Dataset:N1L1to5
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.69408, TPR100: 0.72697, TPR350: 0.81579
+Time: 5463.000000
+Dataset:N1L6to10
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.76380, TPR100: 0.81288, TPR350: 0.87423
+Time: 5310.940000
+Dataset:N1L11to15
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.89928, TPR100: 0.90647, TPR350: 0.92086
+Time: 5293.090000
+Dataset:N1L16to20
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.88966, TPR100: 0.90345, TPR350: 0.92414
+Time: 5412.530000
+Dataset:N1L21more
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.87840, TPR100: 0.90313, TPR350: 0.92828
+Time: 6658.380000
+Dataset:N2L1to5
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.16372, TPR100: 0.30973, TPR350: 0.54425
+Time: 5202.690000
+Dataset:N2L6to10
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.45763, TPR100: 0.67232, TPR350: 0.83616
+Time: 5289.300000
+Dataset:N2L11to15
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.56250, TPR100: 0.66667, TPR350: 0.78646
+Time: 5056.540000
+Dataset:N2L16to20
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.74825, TPR100: 0.84615, TPR350: 0.92308
+Time: 5226.390000
+Dataset:N2L21more
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.75115, TPR100: 0.83235, TPR350: 0.89325
+Time: 5154.940000
+Dataset:N3upL1to5
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.21537, TPR100: 0.36243, TPR350: 0.59677
+Time: 5424.690000
+Dataset:N3upL6to10
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.26152, TPR100: 0.41110, TPR350: 0.79680
+Time: 5225.270000
+Dataset:N3upL11to15
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.32903, TPR100: 0.51075, TPR350: 0.85699
+Time: 5253.370000
+Dataset:N3upL16to20
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.44782, TPR100: 0.64597, TPR350: 0.89960
+Time: 5202.570000
+Dataset:N3upL21more
+Model: NRLMF, c:5, K1:5, K2:5, r:25, lambda_d:0.125, lambda_t:0.125, alpha:0.25, beta:0.125, theta:0.5, max_iter:100
+TPR35: 0.59731, TPR100: 0.74234, TPR350: 0.88251
+Time: 5169.650000

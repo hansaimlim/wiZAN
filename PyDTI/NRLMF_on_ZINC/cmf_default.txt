@@ -1,0 +1,60 @@
+Dataset:N1L1to5
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.00000, TPR100: 0.00000, TPR350: 0.00329
+Time: 6604.110000
+Dataset:N1L6to10
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.00920, TPR100: 0.01534, TPR350: 0.08589
+Time: 5577.910000
+Dataset:N1L11to15
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.00000, TPR100: 0.00719, TPR350: 0.15108
+Time: 5483.750000
+Dataset:N1L16to20
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.08621, TPR100: 0.14138, TPR350: 0.33448
+Time: 7239.090000
+Dataset:N1L21more
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.06925, TPR100: 0.16488, TPR350: 0.28607
+Time: 6064.700000
+Dataset:N2L1to5
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.00000, TPR100: 0.00442, TPR350: 0.18142
+Time: 7602.600000
+Dataset:N2L6to10
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.00000, TPR100: 0.02260, TPR350: 0.46893
+Time: 6249.770000
+Dataset:N2L11to15
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.01042, TPR100: 0.14583, TPR350: 0.38021
+Time: 5758.080000
+Dataset:N2L16to20
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.00000, TPR100: 0.11888, TPR350: 0.36364
+Time: 5683.010000
+Dataset:N2L21more
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.05697, TPR100: 0.20367, TPR350: 0.36346
+Time: 6982.200000
+Dataset:N3upL1to5
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.00000, TPR100: 0.00000, TPR350: 0.13852
+Time: 9462.840000
+Dataset:N3upL6to10
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.00000, TPR100: 0.00941, TPR350: 0.30574
+Time: 14508.370000
+Dataset:N3upL11to15
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.01075, TPR100: 0.03333, TPR350: 0.32796
+Time: 8666.400000
+Dataset:N3upL16to20
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.02642, TPR100: 0.07662, TPR350: 0.39102
+Time: 8662.220000
+Dataset:N3upL21more
+Model: CMF, K:50, lambda_l:0.5, lambda_d:0.125, lambda_t:0.125, max_iter:30
+TPR35: 0.05688, TPR100: 0.16075, TPR350: 0.37514
+Time: 8650.760000
