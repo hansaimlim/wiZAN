@@ -1,0 +1,32 @@
+Dataset:N1L1to5
+Model: RLSWNN, T:0.8, sigma:1.0, alpha:0.2, gamma:1.0
+TPR35: 0.07237, TPR100: 0.13816, TPR350: 0.24671
+Time: 20720.080000
+Dataset:N1L6to10
+Model: RLSWNN, T:0.8, sigma:1.0, alpha:0.2, gamma:1.0
+TPR35: 0.09509, TPR100: 0.20552, TPR350: 0.41104
+Time: 20054.230000
+Dataset:N1L11to15
+Model: RLSWNN, T:0.8, sigma:1.0, alpha:0.2, gamma:1.0
+TPR35: 0.11871, TPR100: 0.23022, TPR350: 0.42806
+Time: 18086.310000
+Dataset:N1L16to20
+Model: RLSWNN, T:0.8, sigma:1.0, alpha:0.2, gamma:1.0
+TPR35: 0.02759, TPR100: 0.16207, TPR350: 0.38276
+Time: 20897.680000
+Dataset:N1L21more
+Model: RLSWNN, T:0.8, sigma:1.0, alpha:0.2, gamma:1.0
+TPR35: 0.03421, TPR100: 0.09893, TPR350: 0.24856
+Time: 19451.860000
+Dataset:N2L1to5
+Model: RLSWNN, T:0.8, sigma:1.0, alpha:0.2, gamma:1.0
+TPR35: 0.07080, TPR100: 0.11504, TPR350: 0.34513
+Time: 19070.460000
+Dataset:N2L6to10
+Model: RLSWNN, T:0.8, sigma:1.0, alpha:0.2, gamma:1.0
+TPR35: 0.05085, TPR100: 0.14124, TPR350: 0.32768
+Time: 21910.500000
+Dataset:N2L11to15
+Model: RLSWNN, T:0.8, sigma:1.0, alpha:0.2, gamma:1.0
+TPR35: 0.02604, TPR100: 0.09375, TPR350: 0.28125
+Time: 22361.400000

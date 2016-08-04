@@ -1,0 +1,60 @@
+Dataset:N1L1to5
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 5161.700000
+Dataset:N1L6to10
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 5965.960000
+Dataset:N1L11to15
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 8530.640000
+Dataset:N1L16to20
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 5239.250000
+Dataset:N1L21more
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 6920.110000
+Dataset:N2L1to5
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 7463.080000
+Dataset:N2L6to10
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 7560.580000
+Dataset:N2L11to15
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 6651.120000
+Dataset:N2L16to20
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 7776.890000
+Dataset:N2L21more
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 8231.010000
+Dataset:N3upL1to5
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 4972.960000
+Dataset:N3upL6to10
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 7342.220000
+Dataset:N3upL11to15
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 8082.810000
+Dataset:N3upL16to20
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 6720.750000
+Dataset:N3upL21more
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+TPR35: 1.00000, TPR100: 1.00000, TPR350: 1.00000
+Time: 6025.780000

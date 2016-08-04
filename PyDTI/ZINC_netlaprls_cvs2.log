@@ -1,0 +1,3 @@
+Dataset:ZINC CVS:2
+Model: NetLapRLS, gamma_d:10.0, gamma_t:10.0, beta_d:1e-05, beta_t:1e-05
+auc:0.502251, aupr: 0.000748, auc_conf:0.005803, aupr_conf:0.000022, Time:200485.790000
