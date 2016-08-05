@@ -1,4 +1,4 @@
-function N_fold_sampling(N, R_csv, nrow, ncol)
+function N_fold_sampling(N, R_csv, nrow, ncol, outdir)
 %returns training and test sets from input R matrix
 %each training+test equals to the R (e.g. train1 + test1 = train2 + test2 = R)
 %N=10;	%N fold
@@ -30,8 +30,8 @@ train = R - test;	%train + test = R
 Rupdate = Rupdate - test;	%update R
 [z x c] = find(test);
 [j k l] = find(train);
-testfile=['test' num2str(n) '.csv'];
-trainfile=['train' num2str(n) '.csv'];
+testfile=[outdir 'test' num2str(n) '.csv'];
+trainfile=[outdir 'train' num2str(n) '.csv'];
 csvwrite(testfile, [z, x]);
 csvwrite(trainfile, [j, k]);
 end
