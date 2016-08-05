@@ -1,0 +1,109 @@
+Index	DOID	Disease name	Pathophysiology
+1	90	degenerative disc disease	degenerative
+2	216	dental caries	infectious
+3	289	endometriosis	neoplastic
+4	332	amyotrophic lateral sclerosis	degenerative
+5	418	systemic scleroderma	immunologic
+6	585	nephrolithiasis	metabolic
+7	594	panic disorder	psychiatric
+8	635	acquired immunodeficiency syndrome	infectious
+9	684	hepatocellular carcinoma	neoplastic
+10	706	mature B-cell neoplasm	neoplastic
+11	769	neuroblastoma	neoplastic
+12	784	chronic kidney failure	unspecific
+13	824	periodontitis	infectious
+14	986	alopecia areata	immunologic
+15	1024	leprosy	infectious
+16	1040	chronic lymphocytic leukemia	neoplastic
+17	1094	attention deficit hyperactivity disorder	psychiatric
+18	1107	esophageal carcinoma	neoplastic
+19	1312	focal segmental glomerulosclerosis	unspecific
+20	1380	endometrial cancer	neoplastic
+21	1459	hypothyroidism	immunologic
+22	1595	endogenous depression	psychiatric
+23	1686	glaucoma	degenerative
+24	1826	epilepsy syndrome	unspecific
+25	1909	melanoma	neoplastic
+26	1936	atherosclerosis	metabolic
+27	2043	hepatitis B	infectious
+28	2355	anemia	unspecific
+29	2377	multiple sclerosis	immunologic
+30	2841	asthma	immunologic
+31	2986	IgA glomerulonephritis	immunologic
+32	3083	chronic obstructive pulmonary disease	toxic
+33	3310	atopic dermatitis	immunologic
+34	3312	bipolar disorder	psychiatric
+35	3324	mood disorder	psychiatric
+36	3393	coronary artery disease	metabolic
+37	3459	breast carcinoma	neoplastic
+38	3905	lung carcinoma	neoplastic
+39	3963	thyroid carcinoma	neoplastic
+40	4001	ovarian carcinoma	neoplastic
+41	4007	bladder carcinoma	neoplastic
+42	4450	renal cell carcinoma	neoplastic
+43	4481	allergic rhinitis	immunologic
+44	4905	pancreatic carcinoma	neoplastic
+45	4960	bone marrow cancer	neoplastic
+46	4989	pancreatitis	unspecific
+47	5408	Paget's disease of bone	immunologic
+48	5419	schizophrenia	psychiatric
+49	5517	stomach carcinoma	immunologic
+50	5844	myocardial infarction	metabolic
+51	6364	migraine	unspecific
+52	6713	cerebrovascular disease	unspecific
+53	7147	ankylosing spondylitis	immunologic
+54	7148	rheumatoid arthritis	immunologic
+55	7693	abdominal aortic aneurysm	unspecific
+56	8398	osteoarthritis	degenerative
+57	8552	chronic myeloid leukemia	neoplastic
+58	8567	Hodgkin's lymphoma	neoplastic
+59	8577	ulcerative colitis	immunologic
+60	8778	Crohn's disease	immunologic
+61	8893	psoriasis	immunologic
+62	8986	narcolepsy	unspecific
+63	9008	psoriatic arthritis	immunologic
+64	9074	systemic lupus erythematosus	immunologic
+65	9206	Barrett's esophagus	neoplastic
+66	9296	cleft lip	congenital
+67	9352	type 2 diabetes mellitus	immunologic
+68	9538	multiple myeloma	neoplastic
+69	9744	type 1 diabetes mellitus	immunologic
+70	9835	refractive error	degenerative
+71	9952	acute lymphocytic leukemia	neoplastic
+72	9970	obesity	metabolic
+73	10286	prostate carcinoma	neoplastic
+74	10608	celiac disease	immunologic
+75	10652	Alzheimer's disease	degenerative
+76	10763	hypertension	idiopathic
+77	10871	age related macular degeneration	degenerative
+78	10941	intracranial aneurysm	unspecific
+79	10976	membranous glomerulonephritis	immunologic
+80	11119	Gilles de la Tourette syndrome	psychiatric
+81	11476	osteoporosis	metabolic
+82	11555	Fuchs' endothelial dystrophy	degenerative
+83	11612	polycystic ovary syndrome	metabolic
+84	11714	gestational diabetes	metabolic
+85	11829	degenerative myopia	degenerative
+86	11949	Creutzfeldt-Jakob syndrome	idiopathic
+87	12185	otosclerosis	idiopathic
+88	12236	primary biliary cirrhosis	immunologic
+89	12306	vitiligo	immunologic
+90	12361	Graves' disease	immunologic
+91	12365	malaria	infectious
+92	12849	autistic disorder	idiopathic
+93	12930	dilated cardiomyopathy	unspecific
+94	12995	conduct disorder	psychiatric
+95	13189	gout	metabolic
+96	13223	uterine fibroid	neoplastic
+97	13241	Behcet's disease	immunologic
+98	13378	Kawasaki disease	immunologic
+99	13641	exfoliation syndrome	degenerative
+100	14004	thoracic aortic aneurysm	unspecific
+101	14221	metabolic syndrome X	metabolic
+102	14227	azoospermia	unspecific
+103	14268	sclerosing cholangitis	immunologic
+104	14330	Parkinson's disease	degenerative
+105	50156	idiopathic pulmonary fibrosis	degenerative
+106	50425	restless legs syndrome	unspecific
+107	50741	alcohol dependence	psychiatric
+108	50742	nicotine dependence	psychiatric
