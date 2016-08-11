@@ -12,9 +12,9 @@ chem_chem=chem_chem-speye(size(chem_chem)); %remove self-identity
 prot_prot=prot_prot-speye(size(prot_prot)); %remove self-identity
 
 %classify functions
-NT=sum(chem_prot(chemIdx,:)); %get number of targets by chemical index
-NL=sum(chem_prot(:,protIdx)); %get number of ligands by protein index
-maxTC=max(chem_chem(chemIdx,:));
+%NT=sum(chem_prot(chemIdx,:)); %get number of targets by chemical index
+%NL=sum(chem_prot(:,protIdx)); %get number of ligands by protein index
+%maxTC=max(chem_chem(chemIdx,:));
 %classification end
 
 N3upL21more_rc=[];
