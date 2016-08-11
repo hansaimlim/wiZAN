@@ -11,7 +11,7 @@ mkdir(outdir);
 b=floor(numedge_sample/N);	%base num edges in testfile
 r=rem(numedge_sample, N);	%remainder
 %testarray=createArrays(N, siz);	%cell array to contain test sets
-testcumulative=zeros(nrow,ncol);	%to check sum(all_tests) == R
+testcumulative=zeros(size(Sample_mat));	%to check sum(all_tests) == Sample_mat
 Sample_up=Sample_mat; %Sample_up will be updated each iteration
 for n=1:N
     num=b;	%num edge in test
@@ -34,12 +34,12 @@ for n=1:N
     csvwrite(trainfile, [j, k]);
 end
 
-%to compare the sum of all test sets with R
-mustequal = isequal(testcumulative, R);
+%to compare the sum of all test sets with Sample_mat
+mustequal = isequal(testcumulative, Sample_mat);
 if mustequal
- mustequal
+ disp('N-fold sampling well done!')
 else
- msg = 'Sum of all test sets NOT equal to R. Please check the code.';
+ msg = 'Sum of all test sets NOT equal to the given sample matrix. Please check the code.';
  error(msg);
 end
 
