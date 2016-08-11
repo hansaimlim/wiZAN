@@ -183,44 +183,44 @@ for i=1:numel(chemIdxs)
     
 end
 
-N3L21more=sparse(N3upL21more_rc(:,1),N3upL21more_rc(:,2),1,nchem,nprot);
-N3L1620=sparse(N3upL16to20_rc(:,1),N3upL16to20_rc(:,2),1,nchem,nprot);
-N3L1115=sparse(N3upL11to15_rc(:,1),N3upL11to15_rc(:,2),1,nchem,nprot);
-N3L610=sparse(N3upL6to10_rc(:,1),N3upL6to10_rc(:,2),1,nchem,nprot);
-N3L15=sparse(N3upL1to5_rc(:,1),N3upL1to5_rc(:,2),1,nchem,nprot);
-N_fold_sampling(R, N3L21more, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N3/L21more/');
-N_fold_sampling(R, N3L1620, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N3/L16to20/');
-N_fold_sampling(R, N3L1115, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N3/L11to15/');
-N_fold_sampling(R, N3L610, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N3/L6to10/');
-N_fold_sampling(R, N3L15, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N3/L1to5/');
+%N3L21more=sparse(N3upL21more_rc(:,1),N3upL21more_rc(:,2),1,nchem,nprot);
+%N3L1620=sparse(N3upL16to20_rc(:,1),N3upL16to20_rc(:,2),1,nchem,nprot);
+%N3L1115=sparse(N3upL11to15_rc(:,1),N3upL11to15_rc(:,2),1,nchem,nprot);
+%N3L610=sparse(N3upL6to10_rc(:,1),N3upL6to10_rc(:,2),1,nchem,nprot);
+%N3L15=sparse(N3upL1to5_rc(:,1),N3upL1to5_rc(:,2),1,nchem,nprot);
+%N_fold_sampling(R, N3L21more, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N3/L21more/');
+%N_fold_sampling(R, N3L1620, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N3/L16to20/');
+%N_fold_sampling(R, N3L1115, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N3/L11to15/');
+%N_fold_sampling(R, N3L610, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N3/L6to10/');
+%N_fold_sampling(R, N3L15, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N3/L1to5/');
 
-N2L21more=sparse(N2L21more_rc(:,1),N2L21more_rc(:,2),1,nchem,nprot);
-N2L1620=sparse(N2L16to20_rc(:,1),N2L16to20_rc(:,2),1,nchem,nprot);
-N2L1115=sparse(N2L11to15_rc(:,1),N2L11to15_rc(:,2),1,nchem,nprot);
-N2L610=sparse(N2L6to10_rc(:,1),N2L6to10_rc(:,2),1,nchem,nprot);
-N2L15=sparse(N2L1to5_rc(:,1),N2L1to5_rc(:,2),1,nchem,nprot);
-N_fold_sampling(R, N2L21more, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N2/L21more/');
-N_fold_sampling(R, N2L1620, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N2/L16to20/');
-N_fold_sampling(R, N2L1115, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N2/L11to15/');
-N_fold_sampling(R, N2L610, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N2/L6to10/');
-N_fold_sampling(R, N2L15, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N2/L1to5/');
+%N2L21more=sparse(N2L21more_rc(:,1),N2L21more_rc(:,2),1,nchem,nprot);
+%N2L1620=sparse(N2L16to20_rc(:,1),N2L16to20_rc(:,2),1,nchem,nprot);
+%N2L1115=sparse(N2L11to15_rc(:,1),N2L11to15_rc(:,2),1,nchem,nprot);
+%N2L610=sparse(N2L6to10_rc(:,1),N2L6to10_rc(:,2),1,nchem,nprot);
+%N2L15=sparse(N2L1to5_rc(:,1),N2L1to5_rc(:,2),1,nchem,nprot);
+%N_fold_sampling(R, N2L21more, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N2/L21more/');
+%N_fold_sampling(R, N2L1620, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N2/L16to20/');
+%N_fold_sampling(R, N2L1115, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N2/L11to15/');
+%N_fold_sampling(R, N2L610, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N2/L6to10/');
+%N_fold_sampling(R, N2L15, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N2/L1to5/');
 
-N1L21more=sparse(N1L21more_rc(:,1),N1L21more_rc(:,2),1,nchem,nprot);
-N1L1620=sparse(N1L16to20_rc(:,1),N1L16to20_rc(:,2),1,nchem,nprot);
-N1L1115=sparse(N1L11to15_rc(:,1),N1L11to15_rc(:,2),1,nchem,nprot);
-N1L610=sparse(N1L6to10_rc(:,1),N1L6to10_rc(:,2),1,nchem,nprot);
-N1L15=sparse(N1L1to5_rc(:,1),N1L1to5_rc(:,2),1,nchem,nprot);
-N_fold_sampling(R, N1L21more, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N1/L21more/');
-N_fold_sampling(R, N1L1620, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N1/L16to20/');
-N_fold_sampling(R, N1L1115, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N1/L11to15/');
-N_fold_sampling(R, N1L610, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N1/L6to10/');
-N_fold_sampling(R, N1L15, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N1/L1to5/');
+%N1L21more=sparse(N1L21more_rc(:,1),N1L21more_rc(:,2),1,nchem,nprot);
+%N1L1620=sparse(N1L16to20_rc(:,1),N1L16to20_rc(:,2),1,nchem,nprot);
+%N1L1115=sparse(N1L11to15_rc(:,1),N1L11to15_rc(:,2),1,nchem,nprot);
+%N1L610=sparse(N1L6to10_rc(:,1),N1L6to10_rc(:,2),1,nchem,nprot);
+%N1L15=sparse(N1L1to5_rc(:,1),N1L1to5_rc(:,2),1,nchem,nprot);
+%N_fold_sampling(R, N1L21more, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N1/L21more/');
+%N_fold_sampling(R, N1L1620, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N1/L16to20/');
+%N_fold_sampling(R, N1L1115, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N1/L11to15/');
+%N_fold_sampling(R, N1L610, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N1/L6to10/');
+%N_fold_sampling(R, N1L15, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTNL/N1/L1to5/');
 
 
 N3T910=sparse(N3upTc9to10_rc(:,1),N3upTc9to10_rc(:,2),1,nchem,nprot);
 N3T89=sparse(N3upTc8to9_rc(:,1),N3upTc8to9_rc(:,2),1,nchem,nprot);
 N3T78=sparse(N3upTc7to8_rc(:,1),N3upTc7to8_rc(:,2),1,nchem,nprot);
-N3T67=sprase(N3upTc6to7_rc(:,1),N3upTc6to7_rc(:,2),1,nchem,nprot);
+N3T67=sparse(N3upTc6to7_rc(:,1),N3upTc6to7_rc(:,2),1,nchem,nprot);
 N3T56=sparse(N3upTc5to6_rc(:,1),N3upTc5to6_rc(:,2),1,nchem,nprot);
 N_fold_sampling(R, N3T910, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTMaxTc/N3/Tc9_10/');
 N_fold_sampling(R, N3T89, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTMaxTc/N3/Tc8_9/');
@@ -232,7 +232,7 @@ N_fold_sampling(R, N3T56, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_p
 N2T910=sparse(N2Tc9to10_rc(:,1),N2Tc9to10_rc(:,2),1,nchem,nprot);
 N2T89=sparse(N2Tc8to9_rc(:,1),N2Tc8to9_rc(:,2),1,nchem,nprot);
 N2T78=sparse(N2Tc7to8_rc(:,1),N2Tc7to8_rc(:,2),1,nchem,nprot);
-N2T67=sprase(N2Tc6to7_rc(:,1),N2Tc6to7_rc(:,2),1,nchem,nprot);
+N2T67=sparse(N2Tc6to7_rc(:,1),N2Tc6to7_rc(:,2),1,nchem,nprot);
 N2T56=sparse(N2Tc5to6_rc(:,1),N2Tc5to6_rc(:,2),1,nchem,nprot);
 N_fold_sampling(R, N2T910, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTMaxTc/N2/Tc9_10/');
 N_fold_sampling(R, N2T89, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTMaxTc/N2/Tc8_9/');
@@ -244,7 +244,7 @@ N_fold_sampling(R, N2T56, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_p
 N1T910=sparse(N1Tc9to10_rc(:,1),N1Tc9to10_rc(:,2),1,nchem,nprot);
 N1T89=sparse(N1Tc8to9_rc(:,1),N1Tc8to9_rc(:,2),1,nchem,nprot);
 N1T78=sparse(N1Tc7to8_rc(:,1),N1Tc7to8_rc(:,2),1,nchem,nprot);
-N1T67=sprase(N1Tc6to7_rc(:,1),N1Tc6to7_rc(:,2),1,nchem,nprot);
+N1T67=sparse(N1Tc6to7_rc(:,1),N1Tc6to7_rc(:,2),1,nchem,nprot);
 N1T56=sparse(N1Tc5to6_rc(:,1),N1Tc5to6_rc(:,2),1,nchem,nprot);
 N_fold_sampling(R, N1T910, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTMaxTc/N1/Tc9_10/');
 N_fold_sampling(R, N1T89, 10, '/scratch/hansaim.lim/wizan/wiZAN/ZINC_data/chem_prot/NTMaxTc/N1/Tc8_9/');
