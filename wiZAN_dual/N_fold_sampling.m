@@ -1,39 +1,37 @@
-function N_fold_sampling(N, R_csv, nrow, ncol, outdir)
-%returns training and test sets from input R matrix
-%each training+test equals to the R (e.g. train1 + test1 = train2 + test2 = R)
+function N_fold_sampling(R_whole, Sample_mat, N, outdir)
+%returns training and test sets 10-folded from Sample_mat (could be same as R_whole if whole sample test)
+%Sample_mat must be a part of the R_whole matrix (could be equal)
+%Each training set = R_whole - test_set
 %N=10;	%N fold
-%rline='some_csv_file.csv';
-%nrow=198712;
-%ncol=3549;
-rline=csvread(R_csv);
-R=sparse(rline(:,1), rline(:,2), 1, nrow, ncol);
-numedge=sum(R(:)>0);
-siz=size(R);
+numedge_whole=sum(R_whole(:)>0);
+numedge_sample=sum(Sample_mat(:)>0);
+siz=size(R_whole);
+mkdir(outdir);
 
-Rupdate=R;	%matrix R updated by iteration
-b=floor(numedge/N);	%base num edges in testfile
-r=rem(numedge, N);	%remainder
+b=floor(numedge_sample/N);	%base num edges in testfile
+r=rem(numedge_sample, N);	%remainder
 %testarray=createArrays(N, siz);	%cell array to contain test sets
 testcumulative=zeros(nrow,ncol);	%to check sum(all_tests) == R
+Sample_up=Sample_mat; %Sample_up will be updated each iteration
 for n=1:N
- num=b;	%num edge in test
- if r>0
-  num = num + 1;
-  r = r - 1;
- end
-idx = find(Rupdate);	%must sample from updated R
-idxpick = datasample(idx, num, 'Replace', false);	%pick num random indexes from idx
-[i j] = ind2sub(siz, idxpick);
-test = sparse(i(:), j(:), 1, siz(1), siz(2));
-testcumulative = testcumulative + test;
-train = R - test;	%train + test = R
-Rupdate = Rupdate - test;	%update R
-[z x c] = find(test);
-[j k l] = find(train);
-testfile=[outdir 'test' num2str(n) '.csv'];
-trainfile=[outdir 'train' num2str(n) '.csv'];
-csvwrite(testfile, [z, x]);
-csvwrite(trainfile, [j, k]);
+    num=b;	%num edge in test
+    if r>0
+        num = num + 1;
+        r = r - 1;
+    end
+    idx = find(Sample_up);	%must sample from updated R
+    idxpick = datasample(idx, num, 'Replace', false);	%pick num random indexes from idx
+    [i j] = ind2sub(siz, idxpick);
+    test = sparse(i(:), j(:), 1, siz(1), siz(2));
+    testcumulative = testcumulative + test;
+    train = R_whole - test;	%train + test = R
+    Sample_up = Sample_up - test;	%update R
+    [z x c] = find(test);
+    [j k l] = find(train);
+    testfile=[outdir 'test' num2str(n) '.csv'];
+    trainfile=[outdir 'train' num2str(n) '.csv'];
+    csvwrite(testfile, [z, x]);
+    csvwrite(trainfile, [j, k]);
 end
 
 %to compare the sum of all test sets with R
