@@ -1,9 +1,10 @@
-
+#!/usr/bin/python
 import os
 import numpy as np
 from scipy import sparse
 import scipy.io as sio
 from collections import defaultdict
+np.seterr(divide='ignore', invalid='ignore')
 
 def get_rcrs(sarr, testPair):
     #smat=score matrix
@@ -59,6 +60,44 @@ def load_data_from_file_demo(dataset, folder):
     test=sparse.coo_matrix((val,(row,col)), shape=(m, n)).toarray()
     testMat=np.array(test, dtype=np.float64).T
     return trainMat, testMat, testdd, testtt
+
+def load_data_from_file_csv_10cv(dataset, folder):
+    #dataset is the number of CV (e.g. 1 or 2,...)
+    dataset=str(dataset)
+    with open('/scratch/hansaim.lim/wiZAN/ZINC_data/chem_chem/chem_chem_zinc.txt', "r") as inf:  # the drug similarity file
+        drug_sim = [line.strip("\n").split()[0:] for line in inf]
+
+    with open('/scratch/hansaim.lim/wiZAN/ZINC_data/prot_prot/prot_prot_zinc.txt', "r") as inf:  # the target similarity file
+        target_sim = [line.strip("\n").split()[0:] for line in inf]
+    n=12384	#number of chemicals in ZINC data
+    m=3500	#number of proteins in ZINC data
+    with open(os.path.join(folder, "train"+ dataset+".csv"), "r") as inf:
+        row=[]
+        col=[]
+        val=[]
+        for line in inf:
+            z=line.strip().split(",")
+            row.append(int(z[1])-1)
+            col.append(int(z[0])-1)
+            val.append(1)
+        int_array=sparse.coo_matrix((val,(row,col)), shape=(m,n)).toarray()
+        
+    with open(os.path.join(folder, "test"+ dataset+".csv"), "r") as inf:
+        row=[]
+        col=[]
+        val=[]
+        for line in inf:
+            z=line.strip().split(",")
+            row.append(int(z[1])-1)
+            col.append(int(z[0])-1)
+            val.append(1)
+        test_array=sparse.coo_matrix((val,(row,col)), shape=(m,n)).toarray()
+
+    intMat = np.array(int_array, dtype=np.float64).T    # drug-target interaction matrix
+    testMat = np.array(test_array, dtype=np.float64).T    # drug-target interaction matrix
+    drugMat = np.array(drug_sim, dtype=np.float64)      # drug similarity matrix
+    targetMat = np.array(target_sim, dtype=np.float64)  # target similarity matrix
+    return intMat, testMat, drugMat, targetMat
 
 def load_data_from_file_csv(dataset, folder):
     with open('/scratch/hansaim.lim/wiZAN/ZINC_data/chem_chem/chem_chem_zinc.txt', "r") as inf:  # the drug similarity file
