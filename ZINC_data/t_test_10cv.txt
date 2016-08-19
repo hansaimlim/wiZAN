@@ -1,0 +1,49 @@
+# Two-pair t-test results using matlab ttest2(x,y) function
+# Comparison between REMAP and PRW, or between REMAP and NRLMF
+
+# category=number of targets per chemical
+# subcategory=number of ligands (L) or maximum Tanimoto similarity (Tc)
+# TPR_10CV=True Positive Rate at top 1% for each of 10-fold cross validation on ZINC dataset
+
+# ** for p<0.05
+# *** for p<0.001
+
+category=N1
+subcategory=L1to5
+
+TPR_10CV
+  remap=[0.3934    0.3115    0.3279    0.4590    0.2951    0.3607    0.3279    0.4262    0.4098    0.3500]
+  prw=[0.5574    0.5902    0.5574    0.5410    0.4918    0.4098    0.5410    0.5738    0.5902    0.5500]
+  nrlmf=[0.5082    0.4918    0.4918    0.5246    0.3607    0.4098    0.4426    0.4098    0.4262    0.4333]
+
+REMAP vs. PRW  *** 
+h = 1
+p = 1.0180e-06
+ci = -0.2247   -0.1235
+stats = 
+    tstat: -7.2226
+       df: 18
+       sd: 0.0539
+
+REMAP vs. NRLMF **
+h = 1
+p = 0.0024
+ci = -0.1336   -0.0339
+stats = 
+    tstat: -3.5283
+       df: 18
+       sd: 0.0531
+
+
+category=N1
+subcategory=L6to10
+
+TPR_10CV
+  remap=
+  prw=
+  nrlmf=
+  
+REMAP vs. PRW
+
+REMAP vs. NRLMF
+
