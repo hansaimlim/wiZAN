@@ -1,4 +1,9 @@
 function N_fold_sampling(R_whole, Sample_mat, N, outdir)
+%R_whole: whole association matrix (e.g. chemical-protein)
+%Sample_mat: a part of R_whole that needs to be sampled (may be equal to R_whole)
+%N: number of folds (e.g. 10 for 10-fold cross-validation)
+%outdir: path to the output directory
+
 %returns training and test sets 10-folded from Sample_mat (could be same as R_whole if whole sample test)
 %Sample_mat must be a part of the R_whole matrix (could be equal)
 %Each training set = R_whole - test_set
