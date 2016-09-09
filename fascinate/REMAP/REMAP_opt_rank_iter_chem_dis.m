@@ -13,7 +13,8 @@ load /scratch/hansaim.lim/wiZAN/fascinate/data/similarity/dis_dis_sim_blank
 %load /scratch/hansaim.lim/wiZAN/fascinate/data/chem_gene/chem_gene
 %load /scratch/hansaim.lim/wiZAN/fascinate/data/chem_dis/chem_dis
 %load /scratch/hansaim.lim/wiZAN/fascinate/data/gene_dis/gene_dis
-outfile='/scratch/hansaim.lim/wiZAN/fascinate/REMAP_opt_rank_iter_chem_dis_forFascinate.txt'
+outfile='/scratch/hansaim.lim/wiZAN/fascinate/REMAP/para_opt/REMAP_opt_rank_iter_chem_dis_forFascinate.txt'
+input_dir='/scratch/hansaim.lim/wiZAN/fascinate/data/chem_dis/10fold/'
 m=size(chem_chem_mat, 1);
 n=size(prot_prot_mat, 1);
 
