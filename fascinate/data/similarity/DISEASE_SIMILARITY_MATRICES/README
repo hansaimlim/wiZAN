@@ -1,0 +1,42 @@
+Below I describe the strategy used to generate the matrices.
+
+I have first converted DOIDS to UMLS CUIS using the Institute for Genome Sciences (IGS) mapping provided at 
+https://github.com/IGS/disease-ontology/blob/master/disease_ontology/code/DO_info_files/doid_xref.txt 
+
+
+All DOIDS, except the following four, converted sucesfully:
+
+0050425
+0050741
+0050742
+0050156
+
+The four DOIDs above were converted manualy at "www.disease-ontology.org":
+
+DOID:   CUI:
+
+0050425 C0035258
+0050741 C0031347
+0050742 C0028043
+0050156 C1800706
+
+The complete list of DOIDs and corresponding CUI's is given in the file "DOID_CUI.txt". 
+
+To generate similarity matrices, I ran "umls-similarity" software using MeSH vocabulary and PAR/CHD 
+relations. I used semantic similarity measures "resnik", "lin" and "path" (these were recommended to me by 
+Ted Pedersen, the author of umls-similarity). 
+
+To get a better populated matrix, I also used the "vector" measure, which is the measure of relatedness of terms.
+To generate this matrix, I used the disease names in place of CUIs (hence, pay special attention when parsing it,
+because the disease names often consist of multiple words). 
+
+For more info on the above measures, see http://atlas.ahc.umn.edu/umls_similarity//similarity_measures.html.
+
+The matrices are stored in the "similarity_matrices" directory. PLEASE NOTE that these are raw, unnormalized matrices. 
+They can be easily normalized by setting each -1 score to 0 and then dividing each score by the maximum score
+occuring in the matrix.
+
+
+*************** Note *****************************************************************************
+For alternative and more complete matrices, see the README file in "new_developments" subdirectory.
+**************************************************************************************************

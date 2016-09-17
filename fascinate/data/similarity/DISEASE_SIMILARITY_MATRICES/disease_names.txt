@@ -1,0 +1,108 @@
+degenerative disc disease
+dental caries
+endometriosis
+amyotrophic lateral sclerosis
+systemic scleroderma
+nephrolithiasis
+panic disorder
+acquired immunodeficiency syndrome
+hepatocellular carcinoma
+mature B-cell neoplasm
+neuroblastoma
+chronic kidney failure
+periodontitis
+alopecia areata
+leprosy
+chronic lymphocytic leukemia
+attention deficit hyperactivity disorder
+esophageal carcinoma
+focal segmental glomerulosclerosis
+endometrial cancer
+hypothyroidism
+endogenous depression
+glaucoma
+epilepsy syndrome
+melanoma
+atherosclerosis
+hepatitis B
+anemia
+multiple sclerosis
+asthma
+IgA glomerulonephritis
+chronic obstructive pulmonary disease
+atopic dermatitis
+bipolar disorder
+mood disorder
+coronary artery disease
+breast carcinoma
+lung carcinoma
+thyroid carcinoma
+ovarian carcinoma
+bladder carcinoma
+renal cell carcinoma
+allergic rhinitis
+pancreatic carcinoma
+bone marrow cancer
+pancreatitis
+Paget's disease of bone
+schizophrenia
+stomach carcinoma
+myocardial infarction
+migraine
+cerebrovascular disease
+ankylosing spondylitis
+rheumatoid arthritis
+abdominal aortic aneurysm
+osteoarthritis
+chronic myeloid leukemia
+Hodgkin's lymphoma
+ulcerative colitis
+Crohn's disease
+psoriasis
+narcolepsy
+psoriatic arthritis
+systemic lupus erythematosus
+Barrett's esophagus
+cleft lip
+type 2 diabetes mellitus
+multiple myeloma
+type 1 diabetes mellitus
+refractive error
+acute lymphocytic leukemia
+obesity
+prostate carcinoma
+celiac disease
+Alzheimer's disease
+hypertension
+age related macular degeneration
+intracranial aneurysm
+membranous glomerulonephritis
+Gilles de la Tourette syndrome
+osteoporosis
+Fuchs' endothelial dystrophy
+polycystic ovary syndrome
+gestational diabetes
+degenerative myopia
+Creutzfeldt-Jakob syndrome
+otosclerosis
+primary biliary cirrhosis
+vitiligo
+Graves' disease
+malaria
+autistic disorder
+dilated cardiomyopathy
+conduct disorder
+gout
+uterine fibroid
+Behcet's disease
+Kawasaki disease
+exfoliation syndrome
+thoracic aortic aneurysm
+metabolic syndrome X
+azoospermia
+sclerosing cholangitis
+Parkinson's disease
+idiopathic pulmonary fibrosis
+restless legs syndrome
+alcohol dependence
+nicotine dependence

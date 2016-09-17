@@ -1,0 +1,5 @@
+September 2, 2016
+
+We noted that some CUI specified by ISG mapping are missing from MeSH and hence those CUIs do not produce any scores against the others. 
+As a remedy, we replaced those CUI with the closest CUIs found in MeSH (see the file Lei_Mapping.ods in this directory). The new matrices 
+can be found under the subdirectory "improved_similarity_matrices").  
