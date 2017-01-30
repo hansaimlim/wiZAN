@@ -1,6 +1,8 @@
 function P=COSINE_Predict(R,M,N,rnk,lR,lM,lN,WP,imp,FacOpt,RowCol,Index)
 % Using user-defined parameters to get prediction matrix
 % Returns (m by n) matrix P, containing predicted scores for each pair
+% If specific rows or columns are selected, the P matrix contains
+% only the selected rows or columns, in the same order as selected in 'Index' variable
 
 % R: knwon association matrix (m by n)
 % M: similarity score matrix (m by m)
