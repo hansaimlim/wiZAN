@@ -1,9 +1,18 @@
 function P=COSINE_Predict(R,M,N,rnk,lR,lM,lN,WP,imp,FacOpt,RowCol,Index)
+% Reference:
+% Lim, H. et al. Improved genome-scale multi-target virtual screening via a novel collaborative filtering approach to cold-start problem. 
+% Sci. Rep. 6, 38860; doi: 10.1038/srep38860 (2016).
+
 % Using user-defined parameters to get prediction matrix
 % Returns (m by n) matrix P, containing predicted scores for each pair
 % If specific rows or columns are selected, the P matrix contains
 % only the selected rows or columns, in the same order as selected in 'Index' variable
 
+%Example code:
+% P=COSINE_Predict(chem_protein,chem_chem,prot_prot,200,0.1,0.1,0.1,0.2,0.1,'Log', 'Rows', [22, 45, 123])
+% P contains prediction scores for chemical number 22, 45 and 123.
+
+%Short descriptions for parameters:
 % R: knwon association matrix (m by n)
 % M: similarity score matrix (m by m)
 % N: similarity score matrix (n by n)
@@ -16,6 +25,7 @@ function P=COSINE_Predict(R,M,N,rnk,lR,lM,lN,WP,imp,FacOpt,RowCol,Index)
 % FacOpt: 'Lin' for Linear Factorization; anything else for Logistic Factorization
 % RowCol: 'Row' for testing selected rows only; 'Col' for columns
 % Index: Index of Rows (or Columns) of interest
+
 if nargin ~= 12
     disp('Generating whole prediction matrix as output.');
     testtype=1;
