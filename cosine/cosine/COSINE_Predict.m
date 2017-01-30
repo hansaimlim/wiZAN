@@ -1,4 +1,4 @@
-function P=COSINE_Predict(R,M,N,rnk,lR,lM,lN,WP,imp,FacOpt)
+function P=COSINE_Predict(R,M,N,rnk,lR,lM,lN,WP,imp,FacOpt,RowCol,Index)
 % Using user-defined parameters to get prediction matrix
 % Returns (m by n) matrix P, containing predicted scores for each pair
 
@@ -12,6 +12,24 @@ function P=COSINE_Predict(R,M,N,rnk,lR,lM,lN,WP,imp,FacOpt)
 % WP: weight (scalar in [0,1])
 % imp: imputation value (scalar in [0,1])
 % FacOpt: 'Lin' for Linear Factorization; anything else for Logistic Factorization
+% RowCol: 'Row' for testing selected rows only; 'Col' for columns
+% Index: Index of Rows (or Columns) of interest
+if nargin ~= 12
+    disp('Generating whole prediction matrix as output.');
+    testtype=1;
+elseif strcmpi(RowCol,'Row') || strcmpi(RowCol,'Rows')
+    nIdx=numel(Index);
+    disp(['Generating scores for selected ' num2str(nIdx) 'rows']);
+    testtype=2;
+elseif strcmpi(RowCol,'Col') || strcmpi(RowCol,'Cols')
+    nIdx=numel(Index);
+    disp(['Generating scores for selected ' num2str(nIdx) 'columns']);
+    testtype=3;
+else
+    msg=['Please choose correct RowCol (Row or Column) type.\n' ...
+        'To get entire prediction matrix, omit RowCol and Index inputs.'];
+    error(msg);
+end
 if lR>1
     msg='Parameter lR should be between 0 and 1.';
     error(msg);
@@ -30,10 +48,10 @@ elseif imp>1
 end
 [m,n]=size(R);
 if size(M,1)~=m
-    msg='Matrix size does not match.';
+    msg='Matrix size does not match. Please check using size(R) command.';
     error(msg);
 elseif size(N,1)~=n
-    msg='Matrix size does not match.';
+    msg='Matrix size does not match. Please check using size(R) command.';
     error(msg);
 end
 if rnk > min(m,n)
@@ -41,7 +59,7 @@ if rnk > min(m,n)
         ' for your data.'];
     error(msg);
 end
-if strcmp(FacOpt, 'Lin')
+if strcmpi(FacOpt,'Lin')||strcmpi(FacOpt,'Linear')
     disp('Linear Factorization selected.');
 else
     disp('Logistic Factorization selected.'); 
@@ -58,7 +76,7 @@ end
     DNN = DN-nN;
     [~,ColdStartCols]=find(sum(R,1)==0);
     [ColdStartRows,~]=find(sum(R,2)==0);
-    if strcmp(FacOpt, 'Lin')
+    if strcmpi(FacOpt,'Lin')||strcmpi(FacOpt,'Linear')
         [F, G] = WeightImputeLinFactorization(R,M,N,W,Q,lR,lM,lN,iter,rnk);
         [nF, nG, HI_IND] = WeightedProfile(F, G, nM, nN, ColdStartRows, ColdStartCols, J+2, TANIM, WP, M_cut, N_cut);
         EXC = nF*nG';
@@ -75,7 +93,7 @@ end
     W(HI_IND > 0, :) = WGHT;
     EXC = max(EXC,R);
 
-    if strcmp(FacOpt, 'Lin')
+    if strcmpi(FacOpt,'Lin')||strcmpi(FacOpt,'Linear')
         [F, G] =  WeightImputeLinFactorization(EXC,M,N,W,Q,lR,lM,lN,iter,rnk);    
         [nF, nG, ~] = WeightedProfile(F, G, nM, nN, ColdStartRows, ColdStartCols, J+2, TANIM, WP, M_cut, N_cut);
     else
@@ -84,10 +102,22 @@ end
     end
     
     
-    if strcmp(FacOpt, 'Lin')
-        P=nF*nG';
+    if strcmpi(FacOpt,'Lin')||strcmpi(FacOpt,'Linear')
+        if testtype==1 %whole prediction
+            P=nF*nG';
+        elseif testtype==2 %Rows
+            P=nF(Index,:)*nG';
+        else %Cols
+            P=nF*nG(Index,:)';
+        end
     else
-        P=GetP(nF*nG'); 
+        if testtype==1 %whole prediction
+            P=GetP(nF*nG'); 
+        elseif testtype==2 %Rows
+            P=GetP(nF(Index,:)*nG');
+        else %Cols
+            P=GetP(nF*nG(Index,:)');
+        end
     end
 
 end
