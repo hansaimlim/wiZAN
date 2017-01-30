@@ -1,0 +1,12 @@
+Target-Target:Drug_Target_Associations/Yamanishi_2008/e_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/e_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/e_admat_dgc.txt,  K-fold:5
+mean AUC: 0.643853239993 (std. 0.0210286343803), mean AUPR: 0.00460582989519 (std. 0.000737237294936), time: 607.752079964
+Target-Target:Drug_Target_Associations/Yamanishi_2008/e_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/e_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/e_admat_dgc.txt,  K-fold:5
+mean AUC: 0.658501537288 (std. 0.0125097298098), mean AUPR: 0.00498018679603 (std. 0.000495867110023), time: 1300.97982287
+Target-Target:Drug_Target_Associations/Yamanishi_2008/e_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/e_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/e_admat_dgc.txt,  K-fold:5
+mean AUC: 0.633327890689 (std. 0.0182359671662), mean AUPR: 0.00431264313413 (std. 0.000693101736814), time: 1301.05318499
+Target-Target:Drug_Target_Associations/Yamanishi_2008/e_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/e_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/e_admat_dgc.txt,  K-fold:5
+mean AUC: 0.654681027878 (std. 0.0190888978196), mean AUPR: 0.00486271410733 (std. 0.000574420237811), time: 1306.644665
+Target-Target:Drug_Target_Associations/Yamanishi_2008/e_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/e_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/e_admat_dgc.txt,  K-fold:5
+mean AUC: 0.647741284857 (std. 0.00972297042386), mean AUPR: 0.0048335335016 (std. 0.000256418619742), time: 1309.88649607
+Target-Target:Drug_Target_Associations/Yamanishi_2008/e_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/e_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/e_admat_dgc.txt,  K-fold:5
+mean AUC: 0.650803405799 (std. 0.0231118088433), mean AUPR: 0.00476607879498 (std. 0.0003267578657), time: 1310.07501912

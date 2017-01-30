@@ -1,0 +1,20 @@
+Target-Target:Drug_Target_Associations/Yamanishi_2008/gpcr_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/gpcr_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/gpcr_admat_dgc.txt,  K-fold:5
+mean AUC: 0.675605433284 (std. 0.0214335608086), mean AUPR: 0.0337400429118 (std. 0.0066019018449), time: 22.5072879791
+AUC values:
+[0.70381342424800486, 0.67334631473937812, 0.68990034401818456, 0.67100880756023529, 0.63995827585292697]
+Target-Target:Drug_Target_Associations/Yamanishi_2008/gpcr_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/gpcr_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/gpcr_admat_dgc.txt,  K-fold:5
+mean AUC: 0.669882257776 (std. 0.0289883345577), mean AUPR: 0.0337758682774 (std. 0.00818753904155), time: 28.2025830746
+AUC values:
+[0.64502392779668816, 0.64502609497572594, 0.65332306199544088, 0.71875988413710434, 0.68727831997501621]
+Target-Target:Drug_Target_Associations/Yamanishi_2008/gpcr_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/gpcr_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/gpcr_admat_dgc.txt,  K-fold:5
+mean AUC: 0.668838384173 (std. 0.0227859054097), mean AUPR: 0.0317800693031 (std. 0.00660227540928), time: 33.4446020126
+AUC values:
+[0.64107005692935515, 0.68984903540268905, 0.68647821034340661, 0.68590381815850043, 0.64089080003328103]
+Target-Target:Drug_Target_Associations/Yamanishi_2008/gpcr_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/gpcr_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/gpcr_admat_dgc.txt,  K-fold:5
+mean AUC: 0.673891190546 (std. 0.0403041931986), mean AUPR: 0.0352203921758 (std. 0.0117880308754), time: 38.8712110519
+AUC values:
+[0.62546432097917026, 0.64357765129959998, 0.66100320649891731, 0.70398778112566796, 0.73542299282706525]
+Target-Target:Drug_Target_Associations/Yamanishi_2008/gpcr_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/gpcr_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/gpcr_admat_dgc.txt,  K-fold:5
+mean AUC: 0.683362834159 (std. 0.0313958612952), mean AUPR: 0.0358234907864 (std. 0.00843643165203), time: 41.906293869
+AUC values:
+[0.63247106527321417, 0.66941437007874005, 0.72520364211568711, 0.68683668982338542, 0.70288840350195092]

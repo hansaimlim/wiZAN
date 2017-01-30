@@ -1,0 +1,10 @@
+Target-Target:Drug_Target_Associations/Yamanishi_2008/nr_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/nr_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/nr_admat_dgc.txt,  K-fold:5
+mean AUC: 0.321059804393 (std. 0.06372208775), mean AUPR: 0.016712095079 (std. 0.0134323487185), time: 4.27510404587
+Target-Target:Drug_Target_Associations/Yamanishi_2008/nr_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/nr_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/nr_admat_dgc.txt,  K-fold:5
+mean AUC: 0.324787558121 (std. 0.0363601792734), mean AUPR: 0.0153265011992 (std. 0.00896815151354), time: 5.94824004173
+Target-Target:Drug_Target_Associations/Yamanishi_2008/nr_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/nr_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/nr_admat_dgc.txt,  K-fold:5
+mean AUC: 0.358633958634 (std. 0.0274197159185), mean AUPR: 0.0148377249094 (std. 0.00682707084093), time: 6.75051212311
+Target-Target:Drug_Target_Associations/Yamanishi_2008/nr_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/nr_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/nr_admat_dgc.txt,  K-fold:5
+mean AUC: 0.323063973064 (std. 0.0619642354997), mean AUPR: 0.0148431210128 (std. 0.00696753884167), time: 7.03384709358
+Target-Target:Drug_Target_Associations/Yamanishi_2008/nr_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2008/nr_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2008/nr_admat_dgc.txt,  K-fold:5
+mean AUC: 0.320618887286 (std. 0.0665372475855), mean AUPR: 0.0157906379195 (std. 0.010398174185), time: 7.03458380699

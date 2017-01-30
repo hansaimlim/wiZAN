@@ -1,0 +1,1880 @@
+hsa:2099	C02537	0.781276	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estradiol-17alpha;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C15073	0.760427	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	17alpha-Chloroethynylestradiol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:2099	C14483	0.742999	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	17alpha-Methylestradiol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:2099	D00575	0.73479	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Mestranol (JP15/USP/INN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:7421	D01009	0.731115	hsa:7421	D00187
+  predicted_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+  predicted_compound_name:	Doxercalciferol (INN);
+   mimicked_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+   mimicked_compound_name:	Ergocalciferol (JP15/USP);
+hsa:2099	C15020	0.722097	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	17beta-Methylestra-1,3,5(10)-trien-3-ol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C02453	0.719486	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Phenolic steroid
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:5914	C15493	0.711849	hsa:5914	D00094
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	9-cis-Retinoic acid
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Tretinoin (JAN/USP/INN);
+hsa:5914	D02815	0.711849	hsa:5914	D00094
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	Alitretinoin (USAN);
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Tretinoin (JAN/USP/INN);
+hsa:2099	C14731	0.711516	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	16alpha-Bromo-17beta-estradiol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C05298	0.708293	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	2-Hydroxyestrone
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	C14892	0.70683	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	17-Allylestra-1,3,5(10)-triene-3,17beta-diol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:2099	C05300	0.700037	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	16alpha-Hydroxyestrone
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	C14757	0.699665	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Moxestrol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:5241	D00953	0.695891	hsa:5241	D01294
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Norethisterone acetate (JAN);
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Ethynodiol diacetate (JAN/USP)
+hsa:2099	C15261	0.681868	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estra-1,3,5(10)-triene-3,16beta-diol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C15062	0.681765	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	17beta-Hydroxy-3-methoxyestra-1,3,5(10)-triene-17-carbonitrile
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:2099	C15005	0.681649	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4-Aminoestra-1,3,5(10)-triene-3,17beta-diol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C14307	0.681444	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	11beta-Chloromethylestradiol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:5241	D04104	0.679988	hsa:5241	D02367
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Etonogestrel (USAN);
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:7421	D01518	0.677792	hsa:7421	D00129
+  predicted_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+  predicted_compound_name:	Alfacalcidol (JAN/INN);
+   mimicked_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+   mimicked_compound_name:	Calcitriol (JAN/USAN/INN);
+hsa:2099	C14383	0.677473	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	16-Ketoestradiol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C15006	0.67657	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	2-Aminoestra-1,3,5(10)-triene-3,17beta-diol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C14239	0.676011	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Deoxyestradiol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:7421	D01472	0.675446	hsa:7421	D00129
+  predicted_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+  predicted_compound_name:	Tacalcitol (JAN);
+   mimicked_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+   mimicked_compound_name:	Calcitriol (JAN/USAN/INN);
+hsa:2099	C15315	0.671919	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	1-Methylestra-1,3,5(10)-triene-3,17beta-diol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C14209	0.669423	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4-Hydroxyestradiol-17beta;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	D00185	0.665262	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estriol (JP15/USP);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	D04061	0.662872	hsa:2099	D04066
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estradiol acetate (USAN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estramustine (USAN)
+hsa:2099	C15163	0.661957	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	17-[(Benzylamino)methyl]estra-1,3,5(10)-triene-3,17beta-diol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:2099	C15340	0.661249	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	20,21,21-Trifluoro-3-methoxy-19-nor-17alpha-pregna-1,3,5(10),20-
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:2099	C08357	0.660728	hsa:2099	D00312
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estradiol-17beta 3-sulfate
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone sodium sulfate;
+hsa:2099	C05301	0.65989	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	2-Hydroxyestradiol-17beta;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	D04068	0.659551	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estrazinol hydrobromide (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:2099	C05302	0.659087	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	2-Methoxyestradiol-17beta
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C15117	0.657959	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Methyl-19-nor-17alpha-pregna-1,3,5(10)-trien-17-ol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:7421	C01561	0.651464	hsa:7421	D00129
+  predicted_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+  predicted_compound_name:	Calcidiol;
+   mimicked_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+   mimicked_compound_name:	Calcitriol (JAN/USAN/INN);
+hsa:7421	D00628	0.651191	hsa:7421	D00129
+  predicted_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+  predicted_compound_name:	Secalciferol (JAN/USAN/INN);
+   mimicked_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+   mimicked_compound_name:	Calcitriol (JAN/USAN/INN);
+hsa:2099	C15388	0.647253	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Methoxy-19-nor-17alpha-pregna-1,3,5(10),20-tetraen-17-ol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:2099	C14590	0.644787	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estra-1,3,5(10),6-tetraen-3,17beta-diol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C14496	0.643495	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estrololactone;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C15277	0.640176	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Hydroxy-19-norpregna-1,3,5(10)-trien-20-one
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:7421	D01098	0.639999	hsa:7421	D00129
+  predicted_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+  predicted_compound_name:	Maxacalcitol (JAN/USAN/INN);
+   mimicked_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+   mimicked_compound_name:	Calcitriol (JAN/USAN/INN);
+hsa:2099	C03935	0.639346	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	6beta-Hydroxyestradiol-17beta
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C15129	0.63822	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estra-1,3,5(10)-triene-2,17beta-diol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C14988	0.637867	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4-Nitroestra-1,3,5(10)-triene-3,17beta-diol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C14485	0.636598	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	17beta-Dihydroequilin
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C15007	0.634187	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	2-Nitroestra-1,3,5(10)-triene-3,17beta-diol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	D00576	0.633852	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Quinestrol (USAN/INN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:7421	D00122	0.630553	hsa:7421	D00129
+  predicted_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+  predicted_compound_name:	Calcifediol (USP/INN);
+   mimicked_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+   mimicked_compound_name:	Calcitriol (JAN/USAN/INN);
+hsa:2099	C15215	0.627924	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Hydroxyestra-1,3,5(10)-trien-16-one
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	C15323	0.627448	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Hydroxy-1-methylestra-1,3,5(10)-trien-17-one;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	C14661	0.627215	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Methoxy-19-nor-17alpha-pregna-1,3,5(10)-trien-17beta-ol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:2099	C14441	0.62234	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	16-Ketoestrone;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	C15295	0.619431	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	17beta-Hydroxy-3-methoxyestra-1,3,5(10)-trien-16-one;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C15424	0.617712	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estra-1,3,5(10)-triene-3,17beta-diol 3-phosphate;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C02538	0.612551	hsa:2099	D00312
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estrone 3-sulfate
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone sodium sulfate;
+hsa:5241	D04316	0.611936	hsa:5241	D00954
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Gestodene (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Norgestrel (JP15/USP/INN);
+hsa:2099	D01953	0.611628	hsa:2099	D04066
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estradiol benzoate (JP15);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estramustine (USAN)
+hsa:2099	C05299	0.610342	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	2-Methoxyestrone
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	C15366	0.607393	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estrone 16-oxime;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:5241	D05209	0.604678	hsa:5241	D01294
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Norgestimate (USP)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Ethynodiol diacetate (JAN/USP)
+hsa:2099	C14972	0.604187	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Deoxyestrone;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	C15362	0.604067	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4-Nitroestrone;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	C15216	0.603016	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Methoxyestriol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	D04021	0.603016	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Epimestrol (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C15228	0.601967	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	beta-Estradiol 17-acetate;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:5241	C14487	0.601049	hsa:5241	D00950
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Ethisterone;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Levonorgestrel (USP/INN);
+hsa:367	C14204	0.600498	hsa:367	D00586
+  predicted_gene_function:	androgen receptor (dihydrotestosterone receptor; testicular
+  predicted_compound_name:	Hydroxyflutamide
+   mimicked_gene_function:	androgen receptor (dihydrotestosterone receptor; testicular
+   mimicked_compound_name:	Flutamide (JAN/USP/INN);
+hsa:2099	C02590	0.598424	hsa:2099	D00312
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Steroid O-sulfate;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone sodium sulfate;
+hsa:2099	D04104	0.593766	hsa:2099	D02367
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Etonogestrel (USAN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:2099	C15018	0.592409	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Hydroxy-2-nitroestra-1,3,5(10)-trien-17-one;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	C14650	0.591952	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Hydroxyestra-1,3,5(10),6-tetraen-17-one;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:5241	D05205	0.588714	hsa:5241	D02367
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Norelgestromin (USAN);
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:5914	C00376	0.587407	hsa:5914	D00094
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	Retinal;
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Tretinoin (JAN/USP/INN);
+hsa:5914	C02110	0.587407	hsa:5914	D00094
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	11-cis-Retinal;
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Tretinoin (JAN/USP/INN);
+hsa:5241	D05204	0.586488	hsa:5241	D00954
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Norbolethone (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Norgestrel (JP15/USP/INN);
+hsa:2908	D03696	0.585768	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Desonide (USAN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	C14498	0.585431	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	17alpha-Dihydroequilenin
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	D01580	0.585025	hsa:2099	D02367
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Lynestrenol (JAN/USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:5241	D01580	0.578141	hsa:5241	D02367
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Lynestrenol (JAN/USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:2099	C08359	0.573385	hsa:2099	D00312
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	2-Methoxyestradiol-17beta 3-sulfate
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone sodium sulfate;
+hsa:2099	C15254	0.571568	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-(Allyloxy)estra-1,3,5(10)-triene-16alpha,17beta-diol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C15443	0.571568	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-(Allyloxy)estra-1,3,5(10)-triene-16beta,17beta-diol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2908	D02886	0.57144	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Amcinafal (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	D02758	0.570992	hsa:2099	D02217
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Acolbifene hydrochloride (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Raloxifene hydrochloride (JAN/USAN);
+hsa:5914	D01621	0.569459	hsa:5914	D00094
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	Retinol acetate (JP15)
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Tretinoin (JAN/USP/INN);
+hsa:2908	D00983	0.568101	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Triamcinolone acetonide (JP15/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:5914	C00473	0.567688	hsa:5914	D00094
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	Retinol;
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Tretinoin (JAN/USP/INN);
+hsa:5914	C00899	0.567688	hsa:5914	D00094
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	11-cis-Retinol
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Tretinoin (JAN/USP/INN);
+hsa:5914	D00069	0.567688	hsa:5914	D00094
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	Vitamin A Oil (JP15);
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Tretinoin (JAN/USP/INN);
+hsa:5914	D06543	0.567688	hsa:5914	D00094
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	Vitamin A (USP);
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Tretinoin (JAN/USP/INN);
+hsa:2099	D04041	0.566689	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Equilin (USP)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	C15430	0.565624	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Hydroxyestra-1,3,5(10)-trien-17-one O-(carboxymethyl)oxime;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C15174	0.562447	hsa:2099	D00312
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estra-1,3,5-(10)-trien-17-one-3-oxyacetic acid;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone sodium sulfate;
+hsa:2099	C15107	0.561782	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Methoxyestra-1,3,5(10),16-tetraene
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	D04316	0.561075	hsa:2099	D00954
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Gestodene (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Norgestrel (JP15/USP/INN);
+hsa:2099	D05212	0.559878	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Nylestriol (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:2099	D05205	0.559291	hsa:2099	D02367
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Norelgestromin (USAN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:5241	D05210	0.557735	hsa:5241	D00951
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Norgestomet (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Medroxyprogesterone acetate (JAN/USP);
+hsa:2099	C15255	0.557098	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	1-Methylestra-1,3,5(10),6-tetraene-3,17beta-diol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C07228	0.55311	hsa:2099	D02217
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Raloxifene;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Raloxifene hydrochloride (JAN/USAN);
+hsa:7421	D01125	0.551318	hsa:7421	D00930
+  predicted_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+  predicted_compound_name:	Calcipotriol (JAN);
+   mimicked_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+   mimicked_compound_name:	Paricalcitol (USAN/INN);
+hsa:5241	C14648	0.549942	hsa:5241	D00951
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	6alpha-Chloro-17-acetoxyprogesterone;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Medroxyprogesterone acetate (JAN/USP);
+hsa:5241	C15310	0.549942	hsa:5241	D00951
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	6alpha-Fluoro-17-hydroxypregn-4-ene-3,20-dione acetate
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Medroxyprogesterone acetate (JAN/USP);
+hsa:2099	C14242	0.548587	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Mytatrienediol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:5241	C14670	0.546522	hsa:5241	D00950
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	17-Ethynyl-10-hydroxy-19-nortestosterone;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Levonorgestrel (USP/INN);
+hsa:2099	D01413	0.545469	hsa:2099	D04066
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estradiol valerate (JAN/USP);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estramustine (USAN)
+hsa:5914	D02754	0.545449	hsa:5914	D00316
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	Acitretin (USAN/INN);
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Etretinate (JAN/USAN/INN);
+hsa:2099	C14995	0.543856	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Methoxy-16-ethylestra-1,3,5(10)-triene-16beta,17beta-diol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:5914	C06734	0.542927	hsa:5914	D00094
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	14'-apo-beta-Carotenal
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Tretinoin (JAN/USP/INN);
+hsa:2908	C07005	0.541523	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Flunisolide;
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2908	C08174	0.54132	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Dexamethasone acetate anhydrous
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2908	D01402	0.54132	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Betamethasone acetate (JAN/USP)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:5241	C07628	0.540457	hsa:5241	D00585
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Dimethisterone;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Mifepristone (USAN/INN);
+hsa:5241	C14486	0.540236	hsa:5241	D01294
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Norethindrone enanthate;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Ethynodiol diacetate (JAN/USP)
+hsa:5241	D05003	0.539966	hsa:5241	D01294
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Methynodiol diacetate (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Ethynodiol diacetate (JAN/USP)
+hsa:5241	D02881	0.539398	hsa:5241	D00951
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Amadinone acetate (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Medroxyprogesterone acetate (JAN/USP);
+hsa:2908	D00472	0.538662	hsa:2908	D00088
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Prednisolone (JP15/USP/INN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Hydrocortisone (JP15/USP/INN);
+hsa:2099	D05676	0.538417	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Quindonium bromide (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:7421	C07711	0.538042	hsa:7421	D00188
+  predicted_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+  predicted_compound_name:	Previtamin D(3)
+   mimicked_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+   mimicked_compound_name:	Cholecalciferol (JP15/USP);
+hsa:2908	C06842	0.537686	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Beclomethasone
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2908	C15643	0.537686	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Dexamethasone
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2908	D00244	0.537686	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Betamethasone (JP15/USP/INN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2908	D00292	0.537686	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Dexamethasone (JP15/USP/INN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2908	D00385	0.537547	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Triamcinolone (JP15/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	C14238	0.536873	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	1,1-Dichloro-2,2-bis(4-hydroxyphenyl)ethylene;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2099	C15168	0.536086	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4,4'-(2-Ethyl-1-butenylidene)diphenol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:2908	C14484	0.535294	hsa:2908	D00088
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	9-Fluoroprednisolone;
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Hydrocortisone (JP15/USP/INN);
+hsa:5241	C07119	0.532834	hsa:5241	D00951
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Medroxyprogesterone
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Medroxyprogesterone acetate (JAN/USP);
+hsa:2908	D04627	0.530913	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Isoflupredone acetate (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2099	C15078	0.530708	hsa:2099	D00312
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Methoxyestra-1,3,5(10)-triene-16,17-dione 16-oxime;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone sodium sulfate;
+hsa:2099	D04064	0.530646	hsa:2099	D04066
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estradiol enanthate (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estramustine (USAN)
+hsa:2099	D04065	0.530165	hsa:2099	D01161
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estradiol undecylate (USAN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Fulvestrant (JAN/USAN/INN);
+hsa:5241	C01176	0.528723	hsa:5241	D00066
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	17alpha-Hydroxyprogesterone;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Progesterone (JP15/USP/INN);
+hsa:5241	D04317	0.528001	hsa:5241	D00950
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Gestrinone (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Levonorgestrel (USP/INN);
+hsa:2908	D02174	0.527903	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Dexamethasone acetate (JAN/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2908	D00980	0.52762	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Prednisolone acetate (JP15/USP/INN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:5241	C14489	0.527532	hsa:5241	D00066
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	19-Norprogesterone;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Progesterone (JP15/USP/INN);
+hsa:2908	D04198	0.526872	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Fluazacort (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2908	D03671	0.525213	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Deflazacort (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	C14303	0.524632	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Equilenin;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	C08358	0.523908	hsa:2099	D00312
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	2-Methoxyestrone 3-sulfate
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone sodium sulfate;
+hsa:5241	D02298	0.523796	hsa:5241	D00585
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Dimethisterone (JAN/USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Mifepristone (USAN/INN);
+hsa:2099	C15142	0.522824	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Methoxy-D-homoestra-1,3,5(10),8-tetraen-17abeta-ol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2908	D04214	0.520737	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Flunisolide acetate (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2908	D00407	0.520422	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Methylprednisolone (JP15/USP/INN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	C14645	0.520131	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estradiol-17-phenylpropionate;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C15167	0.519795	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Methoxy-19-norpregna-1,3,5(10)-trien-20-one
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2908	D00984	0.519764	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Triamcinolone diacetate (JAN/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2908	C07816	0.518795	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Mometasone
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	C15206	0.518658	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3,3-Bis(4-hydroxyphenyl)pentane;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:2099	C14934	0.517532	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	16-Propyl-3-methoxy-estra-1,3,5(10)-triene-16beta,17beta-diol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:5241	D04414	0.51699	hsa:5241	D00951
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Haloprogesterone (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Medroxyprogesterone acetate (JAN/USP);
+hsa:2908	D01825	0.516795	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Fluocinolone acetonide (JP15/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	C14738	0.514215	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Indanestrol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:2099	D02993	0.513032	hsa:2099	D02217
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Arzoxifene hydrochloride (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Raloxifene hydrochloride (JAN/USAN);
+hsa:5241	D06197	0.512154	hsa:5241	D02367
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Tosagestin (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:2908	D05603	0.512068	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Prednival (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2908	D01229	0.512047	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Paramethasone acetate (JAN/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2908	D03691	0.510327	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Descinolone acetonide (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2908	C07413	0.510275	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Paramethasone
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2908	D01948	0.509971	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Dexamethasone valerate (JAN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	C14670	0.509888	hsa:2099	D00950
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	17-Ethynyl-10-hydroxy-19-nortestosterone;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Levonorgestrel (USP/INN);
+hsa:2099	C14237	0.509626	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4-[2,2-Dichloro-1-(4-methoxyphenyl)ethenyl]phenol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2908	D01357	0.509317	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Betamethasone valerate (JP15/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	C14551	0.509251	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Diethylstilbestrol monomethyl ether;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:2099	C15308	0.509208	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Hydroxy-1-methylestra-1,3,5(10),6-tetraen-17-one;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	C14225	0.508948	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Bisphenol B;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:2908	D01272	0.508717	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Clobetasol propionate (JAN/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2099	C14740	0.508439	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	alpha,alpha'-Diethyl-3,4,4'-stilbenetriol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:2908	C15319	0.507507	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	9alpha-Fluoro-11beta,17alpha,21-trihydroxy-6alpha-methylpregna-1,4-
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	C15210	0.506709	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	1,1-Bis(4-hydroxyphenyl)propane
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:2908	D04227	0.505807	hsa:2908	D00088
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Fluprednisolone (USAN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Hydrocortisone (JP15/USP/INN);
+hsa:2099	C15014	0.505794	hsa:2099	D00312
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-(2-Propenyloxy)estra-1,3,5(10)-triene-16,17-dione 16-oxime
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone sodium sulfate;
+hsa:2099	D04069	0.504972	hsa:2099	D04066
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estrofurate (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estramustine (USAN)
+hsa:2099	C15262	0.50358	hsa:2099	D00312
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Methoxyestra-1,3,5(10)-trien-16beta-ol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone sodium sulfate;
+hsa:5914	C05918	0.502626	hsa:5914	D00094
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	all-trans-Dehydroretinal;
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Tretinoin (JAN/USP/INN);
+hsa:5914	C05919	0.502626	hsa:5914	D00094
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	11-cis-Dehydroretinal
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Tretinoin (JAN/USP/INN);
+hsa:2908	D00325	0.50207	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Fluocinonide (JP15/USP/INN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:5241	D00952	0.501076	hsa:5241	D00951
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Megestrol acetate (USAN);
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Medroxyprogesterone acetate (JAN/USP);
+hsa:2099	C15063	0.500102	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Methoxy-D-homoestra-1,3,5(10),8,14-pentaen-17abeta-ol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:5241	D05207	0.499649	hsa:5241	D00182
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Norethynodrel (USP)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Norethisterone (JP15/INN);
+hsa:2099	C14959	0.499484	hsa:2099	D04066
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estra-1,3,5(10),16-tetraen-3-ol benzoate
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estramustine (USAN)
+hsa:2099	C15325	0.499213	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	6-Azaequilenin;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2908	D02887	0.498744	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Amcinafide (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2908	D03301	0.498674	hsa:2908	D01689
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Prednisolone valerate acetate (JAN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Loteprednol etabonate (JAN/USAN);
+hsa:5241	C14491	0.497757	hsa:5241	D00182
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Normethandrolone;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Norethisterone (JP15/INN);
+hsa:2099	C14994	0.49726	hsa:2099	D04066
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Methoxy-16-octylestra-1,3,5(10)-triene-16beta,17beta-diol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estramustine (USAN)
+hsa:2908	D05729	0.496835	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Rimexolone (USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:5241	D04093	0.496687	hsa:5241	D00585
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Ethynerone (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Mifepristone (USAN/INN);
+hsa:2908	C15329	0.496342	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	21-Fluoro-11beta,17-dihydroxy-6alpha-methylpregna-1,4-diene-3,20-
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	C13624	0.496002	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Bisphenol A;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2099	C14931	0.495519	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	16-Butyl-3-methoxy-estra-1,3,5(10)-triene-16beta,17beta-diol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C04271	0.495457	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	(6aR,11aR)-3,9-Dihydroxypterocarpan
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2908	D05601	0.495397	hsa:2908	D01689
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Prednicarbate (USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Loteprednol etabonate (JAN/USAN);
+hsa:2099	D01414	0.494757	hsa:2099	D02367
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Ethylnandrol (JAN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:2099	C14349	0.494472	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	1,1-Bis(4-hydroxyphenyl)ethane;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:5241	C15016	0.493448	hsa:5241	D00950
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	19-Norpregna-4,17(20)-dien-3-one
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Levonorgestrel (USP/INN);
+hsa:2099	D02398	0.493379	hsa:2099	D04066
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estramustine phosphate sodium (USAN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estramustine (USAN)
+hsa:2099	D05204	0.491547	hsa:2099	D00954
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Norbolethone (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Norgestrel (JP15/USP/INN);
+hsa:2099	C10508	0.491284	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	(-)-Nissolin
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2099	C15211	0.491238	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4,4-Bis(4-hydroxyphenyl)heptane
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:2908	D05616	0.490774	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Procinonide (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2099	C14903	0.490462	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	2,3-Bis(p-hydroxyphenyl)acrylonitrile
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2908	C15361	0.489664	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Descinolone;
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:5241	D01159	0.489449	hsa:5241	D00951
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Gestonorone caproate (JAN/USAN);
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Medroxyprogesterone acetate (JAN/USP);
+hsa:2099	D05194	0.489296	hsa:2099	D02367
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Nivazol (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:2099	C14487	0.489067	hsa:2099	D00950
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Ethisterone;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Levonorgestrel (USP/INN);
+hsa:5241	C14681	0.487584	hsa:5241	D00066
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	16-alpha,17-Epoxypregn-4-ene-3,20-dione;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Progesterone (JP15/USP/INN);
+hsa:2099	C13416	0.487554	hsa:2099	D00312
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Sodium equilin sulfate
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone sodium sulfate;
+hsa:2908	D04208	0.487507	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Flumethasone (USAN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:5241	D02932	0.487129	hsa:5241	D00951
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Anagestone acetate (USAN);
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Medroxyprogesterone acetate (JAN/USP);
+hsa:2908	D00689	0.485344	hsa:2908	D01689
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Beclometasone dipropionate (JP15);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Loteprednol etabonate (JAN/USAN);
+hsa:2099	D03509	0.485008	hsa:2099	D02367
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Cingestol (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:2908	D04201	0.484833	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Flucloronide (USAN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2908	C07006	0.484437	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Fluocinolone
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2908	D01637	0.484311	hsa:2908	D01689
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Betamethasone dipropionate (JP15/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Loteprednol etabonate (JAN/USAN);
+hsa:2908	D01632	0.484165	hsa:2908	D01689
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Dexamethasone propionate (JAN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Loteprednol etabonate (JAN/USAN);
+hsa:2099	D06145	0.484007	hsa:2099	D02367
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Tigestol (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:2908	D03589	0.483982	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Cormethasone acetate (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2908	D00985	0.48388	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Triamcinolone hexacetonide (USP/INN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2099	D01641	0.483605	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Hexestrol (JAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:5241	C07254	0.483036	hsa:5241	D00950
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Nandrolone
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Levonorgestrel (USP/INN);
+hsa:2099	D03746	0.482704	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Dextrorphan hydrochloride (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2908	D01703	0.482569	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Ciclesonide (JAN/USAN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2099	C11782	0.482398	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Dihydromorphine
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2908	D02032	0.481591	hsa:2908	D01689
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Betamethasone butyrate propionate (JAN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Loteprednol etabonate (JAN/USAN);
+hsa:2099	C10743	0.481234	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Vasicinol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:5241	D01299	0.48112	hsa:5241	D00951
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Chlormadinone acetate (JP15/USAN);
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Medroxyprogesterone acetate (JAN/USP);
+hsa:2099	D06397	0.480754	hsa:2099	D04066
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estramustine phosphate sodium (JAN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estramustine (USAN)
+hsa:2908	C14625	0.480467	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	9alpha-Fluoro-6alpha-methylprednisolone 21-acetate
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2099	D03937	0.480281	hsa:2099	D02217
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Ecopipam hydrochloride (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Raloxifene hydrochloride (JAN/USAN);
+hsa:2099	D00289	0.479625	hsa:2099	D02367
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Danazol (JAN/USP/INN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:2099	C14652	0.479236	hsa:2099	D01294
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	19-Nor-17alpha-pregn-5(10)-en-20-yne-3alpha,17beta-diol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethynodiol diacetate (JAN/USP)
+hsa:2099	C14926	0.478058	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Hydroxy-2-(4-morpholinylmethyl)estra-1,3,5(10)-trien-17-one;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	C09641	0.477741	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	7,4'-Dihydroxyflavan
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2099	C14234	0.477524	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Dimethylstilbestrol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2099	C06917	0.477398	hsa:2099	D00962
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Clomiphene
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Clomifene citrate (JP15);
+hsa:2908	C14664	0.477211	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	11beta,16alpha,17alpha,21-Tetrahydroxy-9alpha-fluoropregn-4-ene-
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:5241	D03509	0.477195	hsa:5241	D02367
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Cingestol (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:2099	C15069	0.476568	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4,4'-(Butane-1,1-diyl)diphenol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:2099	C10436	0.476364	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Centrolobine
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:2908	D04225	0.475423	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Fluperolone acetate (USAN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2099	C13632	0.474948	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4,4'-Dihydroxy-alpha-methylstilbene
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2908	D06201	0.473743	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Tralonide (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2908	D06225	0.473743	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Triclonide (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2099	D00948	0.473607	hsa:2099	D00312
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estropipate (USP);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone sodium sulfate;
+hsa:2099	C16415	0.473562	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	5-Deoxyleucopelargonidin
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2908	D00979	0.473528	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Methylprednisolone acetate (JAN/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:7421	D01662	0.473199	hsa:7421	D00129
+  predicted_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+  predicted_compound_name:	Falecalcitoriol (JAN);
+   mimicked_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+   mimicked_compound_name:	Calcitriol (JAN/USAN/INN);
+hsa:5241	D01639	0.472921	hsa:5241	D00954
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Tibolone (JAN/USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Norgestrel (JP15/USP/INN);
+hsa:2908	D01156	0.472026	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Amelometasone (JAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2099	C11237	0.471854	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	17beta-Estradiol 17-(beta-D-glucuronide);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	D00838	0.471833	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Dezocine (USAN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C10257	0.471747	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4,7-Dihydroxy-2-methoxy-9,10-dihydrophenanthrene
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:5241	C14478	0.471576	hsa:5241	D00585
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	21-Deoxycortisone;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Mifepristone (USAN/INN);
+hsa:2099	C15087	0.471498	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Hydroxyestra-1,3,5(10),7-tetraene-16,17-dione 16-oxime
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2908	D04228	0.47138	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Fluprednisolone valerate (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	C13631	0.470437	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	2,2-Bis(4-hydroxyphenyl)-1-propanol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:2908	D02156	0.470025	hsa:2908	D01689
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Prednisolone succinate (JP15);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Loteprednol etabonate (JAN/USAN);
+hsa:5241	C07120	0.469698	hsa:5241	D01217
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Megestrol
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Dydrogesterone (JP15/USP);
+hsa:2099	C13625	0.469027	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4-Methyl-2,4-bis-(p-hydroxyphenyl)pent-1-ene
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:5914	D05082	0.468981	hsa:5914	D00316
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	Motretinide (USAN);
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Etretinate (JAN/USAN/INN);
+hsa:2099	C15134	0.468642	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-(1,2,3,4-Tetrahydro-6-hydroxy-2-naphthyl)cyclopentanone
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2908	D03561	0.468484	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Cloprednol (USAN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	C14131	0.468288	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Equol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2099	D02433	0.467858	hsa:2099	D02217
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Optochin hydrochloride;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Raloxifene hydrochloride (JAN/USAN);
+hsa:5914	D04636	0.467824	hsa:5914	D00316
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	Isotretinoin anisatil (USAN)
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Etretinate (JAN/USAN/INN);
+hsa:2908	D03697	0.467813	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Desoximetasone (USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2908	D06152	0.467773	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Timobesone acetate (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2908	D00982	0.467061	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Prednisolone tebutate (JAN/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	C08014	0.466887	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Levorphanol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:5241	C14586	0.466724	hsa:5241	D01217
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	6alpha-Methylprogesterone;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Dydrogesterone (JP15/USP);
+hsa:2099	D01617	0.466621	hsa:2099	D04066
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estradiol dipropionate (JAN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estramustine (USAN)
+hsa:2099	C09650	0.466201	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	7,4'-Dihydroxy-8-methylflavan
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:5914	D05402	0.466096	hsa:5914	D00094
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	Pelretin (USAN)
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Tretinoin (JAN/USP/INN);
+hsa:2099	D00967	0.465579	hsa:2099	D00962
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Toremifene citrate (JAN/USAN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Clomifene citrate (JP15);
+hsa:2099	C14547	0.465221	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	(S)-Indenestrol B
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:2099	C14548	0.465221	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	(R)-Indenestrol B
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:5241	D03749	0.464989	hsa:5241	D00182
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Plomestane (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Norethisterone (JP15/INN);
+hsa:2908	D06216	0.464823	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Triamcinolone acetonide sodium phosphate (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2099	C07254	0.464233	hsa:2099	D00950
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Nandrolone
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Levonorgestrel (USP/INN);
+hsa:2908	D04409	0.463945	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Halobetasol propionate (USAN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2099	C01729	0.463847	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	(+)-Medicarpin;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2099	C10503	0.463847	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	(-)-Medicarpin
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2908	D01308	0.463808	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Halcinonide (JAN/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2100	C07228	0.463569	hsa:2100	D02217
+  predicted_gene_function:	estrogen receptor 2 (ER beta)
+  predicted_compound_name:	Raloxifene;
+   mimicked_gene_function:	estrogen receptor 2 (ER beta)
+   mimicked_compound_name:	Raloxifene hydrochloride (JAN/USAN);
+hsa:2099	C16187	0.463491	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	7,2'-Dihydroxy-4'-methoxy-isoflavanol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2099	C14739	0.462141	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	alpha,alpha'-Diethyl-3,4,3',4'-stilbenetetraol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:2908	D03520	0.461727	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Ciprocinonide (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2908	D01239	0.461393	hsa:2908	D01689
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Prednisolone sodium succinate (JP15/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Loteprednol etabonate (JAN/USAN);
+hsa:2099	D05207	0.461305	hsa:2099	D00954
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Norethynodrel (USP)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Norgestrel (JP15/USP/INN);
+hsa:2099	C14955	0.460512	hsa:2099	D04066
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	17beta-(Acetylthio)estra-1,3,5(10)-trien-3-ol acetate
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estramustine (USAN)
+hsa:2908	D06161	0.460168	hsa:2908	D01689
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Tipredane (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Loteprednol etabonate (JAN/USAN);
+hsa:2099	C06530	0.459154	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Cupreine
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2908	D01266	0.458443	hsa:2908	D01689
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Difluprednate (JAN/USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Loteprednol etabonate (JAN/USAN);
+hsa:2099	C14216	0.458273	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4,4'-Sulfonyldiphenol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2099	C11133	0.457828	hsa:2099	D00312
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estrone glucuronide;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone sodium sulfate;
+hsa:2099	D04063	0.457531	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estradiol cypionate (USP);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:5241	C14500	0.457514	hsa:5241	D00182
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	19-Norandrostenedione;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Norethisterone (JP15/INN);
+hsa:2099	C14758	0.457408	hsa:2099	D01161
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	ICI 164384;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Fulvestrant (JAN/USAN/INN);
+hsa:2099	C14298	0.457291	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Bis(4-hydroxyphenyl)methane;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:5241	D04900	0.457145	hsa:5241	D00951
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Melengestrol acetate (USP)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Medroxyprogesterone acetate (JAN/USP);
+hsa:2099	C14897	0.45665	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	p-(3,4-Dihydro-6-methoxy-2-naphthyl)phenol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2099	C14545	0.45632	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	(S)-Indenestrol A
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:2099	C14546	0.45632	hsa:2099	D00577
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	(R)-Indenestrol A
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Diethylstilbestrol (USP/INN);
+hsa:5241	D05025	0.456261	hsa:5241	D00950
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Mibolerone (USP)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Levonorgestrel (USP/INN);
+hsa:2099	C15124	0.455846	hsa:2099	D00312
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Methoxy-D-homoestra-1,3,5(10),8-tetraen-17a-one
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone sodium sulfate;
+hsa:2908	D00328	0.455488	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Fludroxycortide (JAN/INN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2099	D04498	0.455114	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Idronoxil (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2908	D01434	0.454696	hsa:2908	D01689
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Deprodone propionate (JAN);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Loteprednol etabonate (JAN/USAN);
+hsa:2099	C14491	0.454517	hsa:2099	D00950
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Normethandrolone;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Levonorgestrel (USP/INN);
+hsa:2099	C14898	0.453959	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4,4a,5,6,7,8-Hexahydro-6-(p-hydroxyphenyl)-2(3H)-naphthalenone
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2100	C02537	0.453844	hsa:2100	D00105
+  predicted_gene_function:	estrogen receptor 2 (ER beta)
+  predicted_compound_name:	Estradiol-17alpha;
+   mimicked_gene_function:	estrogen receptor 2 (ER beta)
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	D01374	0.453505	hsa:2099	D02367
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Allylestrenol (JAN/INN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:5241	D03550	0.453488	hsa:5241	D00951
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Clomegestone acetate (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Medroxyprogesterone acetate (JAN/USP);
+hsa:2099	C14297	0.453342	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4,4'-Dihydroxybiphenyl;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2908	D01367	0.453192	hsa:2908	D00585
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Fluorometholone (JP15/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Mifepristone (USAN/INN);
+hsa:5241	D01414	0.45311	hsa:5241	D02367
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Ethylnandrol (JAN);
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:2099	D04317	0.452931	hsa:2099	D00950
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Gestrinone (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Levonorgestrel (USP/INN);
+hsa:2099	C15278	0.452841	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4,4'-(2-Methylpropylidene)bisphenol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:5241	C14939	0.452623	hsa:5241	D00585
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	11beta-17-Dihydroxy-6alpha-methylpregn-4-ene-3,20-dione;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Mifepristone (USAN/INN);
+hsa:2908	C07815	0.45217	hsa:2908	D00246
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Fluticasone
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Budesonide (JAN/USAN/INN);
+hsa:2908	D01327	0.451091	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Diflorasone diacetate (JAN/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2099	C14947	0.450976	hsa:2099	D01294
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	17-Propylestra-1,3,5(10)-triene-3,17beta-diol diacetate
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethynodiol diacetate (JAN/USP)
+hsa:5241	C06391	0.450721	hsa:5241	D00066
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Algestone
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Progesterone (JP15/USP/INN);
+hsa:2099	C07344	0.450572	hsa:2099	D02217
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	3-Hydroxyquinine
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Raloxifene hydrochloride (JAN/USAN);
+hsa:2099	D03197	0.450502	hsa:2099	D00554
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Butorphanol (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethinylestradiol (JP15/INN);
+hsa:2908	D02591	0.449968	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Dexamethasone acefurate (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2908	D01820	0.449956	hsa:2908	D01689
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Alclometasone dipropionate (JAN/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Loteprednol etabonate (JAN/USAN);
+hsa:5241	C15259	0.449867	hsa:5241	D00950
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	17beta-Hydroxy-2alpha,17-dimethylestr-4-en-3-one;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Levonorgestrel (USP/INN);
+hsa:2099	D00953	0.449797	hsa:2099	D01294
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Norethisterone acetate (JAN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Ethynodiol diacetate (JAN/USP)
+hsa:2099	D06197	0.449347	hsa:2099	D02367
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Tosagestin (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Desogestrel (USAN)
+hsa:2099	C09762	0.448595	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Liquiritigenin;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2908	C07004	0.448492	hsa:2908	D00088
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Fludrocortisone
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Hydrocortisone (JP15/USP/INN);
+hsa:2099	D04672	0.447925	hsa:2099	D02217
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Lasofoxifene tartrate (JAN/USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Raloxifene hydrochloride (JAN/USAN);
+hsa:2908	C14638	0.447672	hsa:2908	D00088
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	9alpha-Fluoro-11beta,16alpha,17alpha,21-tetrahydroxypregn-4-ene-
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Hydrocortisone (JP15/USP/INN);
+hsa:2099	C13633	0.446777	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	2,2-Bis(4-hydroxyphenyl)-propanoic acid
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:5241	C15108	0.446453	hsa:5241	D00585
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	17beta-Hydroxy-6alpha,17-dimethylandrost-4-en-3-one;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Mifepristone (USAN/INN);
+hsa:5241	C14208	0.446423	hsa:5241	D00585
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Promegestone
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Mifepristone (USAN/INN);
+hsa:2099	C13629	0.44635	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	1,2-Bis(4-hydroxyphenyl)-2-propanol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2099	C14233	0.446302	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4,4'-Dihydroxystilbene
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2099	C09736	0.446241	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Fisetinidol-4beta-ol;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:5241	D05009	0.446041	hsa:5241	D00066
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Metogest (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Progesterone (JP15/USP/INN);
+hsa:2099	C15110	0.445844	hsa:2099	D02217
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	1-[6-Hydroxy-2-(4-hydroxyphenyl)-1-benzofuran-3-yl]ethanone;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Raloxifene hydrochloride (JAN/USAN);
+hsa:5241	C15127	0.445087	hsa:5241	D01217
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	6alpha-Fluoropregn-4-ene-3,20-dione;
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Dydrogesterone (JP15/USP);
+hsa:2099	C10883	0.444707	hsa:2099	D02217
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Sesamolinol
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Raloxifene hydrochloride (JAN/USAN);
+hsa:5241	D00408	0.443776	hsa:5241	D00066
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Methyltestosterone (JP15/USP/INN);
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Progesterone (JP15/USP/INN);
+hsa:5241	D04885	0.443645	hsa:5241	D01217
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Medrogestone (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Dydrogesterone (JP15/USP);
+hsa:2099	C04300	0.443604	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estradiol-17alpha 3-D-glucuronoside
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C05503	0.443604	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Estradiol-17beta 3-glucuronide;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:5241	D02808	0.443477	hsa:5241	D00585
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Algestone acetonide (USAN)
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Mifepristone (USAN/INN);
+hsa:2099	C06526	0.443338	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Quinine
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	C06527	0.443338	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Quinidine
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:7421	D03930	0.443099	hsa:7421	D00129
+  predicted_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+  predicted_compound_name:	Ecalcidene (USAN)
+   mimicked_gene_function:	vitamin D (1,25- dihydroxyvitamin D3) receptor
+   mimicked_compound_name:	Calcitriol (JAN/USAN/INN);
+hsa:2908	D02286	0.44298	hsa:2908	D01387
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Betamethasone benzoate (USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Amcinonide (JAN/USP/INN);
+hsa:2099	C15395	0.442954	hsa:2099	D00950
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	17beta-Hydroxy-4-methylestr-4-en-3-one;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Levonorgestrel (USP/INN);
+hsa:2099	C15067	0.442401	hsa:2099	D00962
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4-Chloro-alpha-[4-[2-(diethylamino)ethoxy]phenyl]-alpha-
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Clomifene citrate (JP15);
+hsa:5241	C03027	0.442379	hsa:5241	D00951
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Testosterone acetate
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Medroxyprogesterone acetate (JAN/USP);
+hsa:5914	C15492	0.442313	hsa:5914	D00094
+  predicted_gene_function:	retinoic acid receptor, alpha
+  predicted_compound_name:	all-trans-13,14-Dihydroretinol;
+   mimicked_gene_function:	retinoic acid receptor, alpha
+   mimicked_compound_name:	Tretinoin (JAN/USP/INN);
+hsa:2908	D01619	0.442251	hsa:2908	D00088
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Hydrocortisone butyrate (JP15/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Hydrocortisone (JP15/USP/INN);
+hsa:2908	D04878	0.442171	hsa:2908	D01689
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Meclorisone dibutyrate (USAN)
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Loteprednol etabonate (JAN/USAN);
+hsa:2908	D00986	0.441807	hsa:2908	D00585
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Fludrocortisone acetate (JAN/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Mifepristone (USAN/INN);
+hsa:2099	D05192	0.441773	hsa:2099	D00962
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Nitromifene citrate (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Clomifene citrate (JP15);
+hsa:2099	C09505	0.441577	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Broussin;
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2099	D03107	0.441512	hsa:2099	D00067
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Bexlosteride (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estrone (JAN/USP/INN);
+hsa:2099	D05992	0.440721	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Taleranol (USAN)
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:2099	D06362	0.440721	hsa:2099	D00105
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Zeranol (USAN);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Estradiol (JAN/USP/INN);
+hsa:5241	D01329	0.440492	hsa:5241	D00954
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	Oxendolone (JAN/USAN);
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Norgestrel (JP15/USP/INN);
+hsa:2908	C15305	0.440289	hsa:2908	D00585
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	9-Chloro-11beta,17,21-trihydroxypregn-4-ene-3,20-dione 21-acetate;
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Mifepristone (USAN/INN);
+hsa:5241	C00619	0.439752	hsa:5241	D00066
+  predicted_gene_function:	progesterone receptor
+  predicted_compound_name:	3-Oxo-delta4-steroid
+   mimicked_gene_function:	progesterone receptor
+   mimicked_compound_name:	Progesterone (JP15/USP/INN);
+hsa:2099	C12167	0.439268	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Cherylline
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2908	D00165	0.439236	hsa:2908	D00088
+  predicted_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+  predicted_compound_name:	Hydrocortisone acetate (JP15/USP);
+   mimicked_gene_function:	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid
+   mimicked_compound_name:	Hydrocortisone (JP15/USP/INN);
+hsa:2099	C14220	0.43916	hsa:2099	D00898
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	4,4'-Dihydroxybenzophenone
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Dienestrol (USP/INN);
+hsa:2099	D02261	0.438824	hsa:2099	D02217
+  predicted_gene_function:	estrogen receptor 1
+  predicted_compound_name:	Quinine hydrochloride (JP15);
+   mimicked_gene_function:	estrogen receptor 1
+   mimicked_compound_name:	Raloxifene hydrochloride (JAN/USAN);

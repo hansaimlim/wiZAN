@@ -1,0 +1,20 @@
+Target-Target:Drug_Target_Associations/Yamanishi_2010/ic_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2010/ic_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2010/ic_admat_dgc.txt,  K-fold:5
+mean AUC: 0.615423611877 (std. 0.0400646328635), mean AUPR: 0.0201243819291 (std. 0.0042572300658), time: 12.8900010586
+AUC values:
+[0.61675561581142779, 0.64246225204108565, 0.53755981131096464, 0.63851882265622006, 0.64182155756436843]
+Target-Target:Drug_Target_Associations/Yamanishi_2010/ic_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2010/ic_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2010/ic_admat_dgc.txt,  K-fold:5
+mean AUC: 0.614353257037 (std. 0.0273243582576), mean AUPR: 0.0190672519039 (std. 0.00323030776386), time: 13.5384581089
+AUC values:
+[0.64152956662398541, 0.60410270061745797, 0.63500492928673113, 0.56592543128438932, 0.62520365737283679]
+Target-Target:Drug_Target_Associations/Yamanishi_2010/ic_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2010/ic_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2010/ic_admat_dgc.txt,  K-fold:5
+mean AUC: 0.60870792271 (std. 0.0248691894352), mean AUPR: 0.0179052367786 (std. 0.00158097415312), time: 14.0230288506
+AUC values:
+[0.65022945651355224, 0.59830306202328609, 0.59736683593935058, 0.57718766708251645, 0.62045259199267266]
+Target-Target:Drug_Target_Associations/Yamanishi_2010/ic_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2010/ic_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2010/ic_admat_dgc.txt,  K-fold:5
+mean AUC: 0.622011240907 (std. 0.0260404881612), mean AUPR: 0.0207702693199 (std. 0.00538751956786), time: 14.0208959579
+AUC values:
+[0.62811860005523457, 0.57805350701267177, 0.61814970142283809, 0.6592394234652097, 0.62649497257872755]
+Target-Target:Drug_Target_Associations/Yamanishi_2010/ic_simmat_dg.txt,  Drug-Drug:Drug_Target_Associations/Yamanishi_2010/ic_simmat_dc.txt,  Target-Drug:Drug_Target_Associations/Yamanishi_2010/ic_admat_dgc.txt,  K-fold:5
+mean AUC: 0.623030979575 (std. 0.0257000047382), mean AUPR: 0.0211339862814 (std. 0.00328430534975), time: 14.080272913
+AUC values:
+[0.62440909791937904, 0.58720370700409918, 0.65526080100345385, 0.60205292948525613, 0.6462283624616203]
