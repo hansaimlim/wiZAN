@@ -15,3 +15,5 @@ For Yamanishi, use Run() function; for ZINC uze ZincTest().
 
 The path have to be set in these MATLAB scripts to point to correct folders containing 
 Yamanishi or ZINC data.
+
+## For actual prediction, please use COSINE_Predict()
