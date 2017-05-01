@@ -1,0 +1,4252 @@
+Index	UMLS_CUI	SE_name
+1	C0740292	5'nucleotidase increased
+2	C0877217	Abasia
+3	C0243001	Abdominal abscess
+4	C0549357	Abdominal adhesions
+5	C0232487	Abdominal discomfort
+6	C0000731	Abdominal distension
+7	C0178282	Abdominal hernia
+8	C1112209	Abdominal infection
+9	C0848377	Abdominal injury
+10	C0000735	Abdominal neoplasm
+11	C0000737	Abdominal pain
+12	C0232495	Abdominal pain lower
+13	C0232492	Abdominal pain upper
+14	C0159066	Abdominal rigidity
+15	C1141926	Abdominal sepsis
+16	C0948610	Abdominal strangulated hernia
+17	C0740651	Abdominal symptom
+18	C0232498	Abdominal tenderness
+19	C0263105	Abdominal wall abscess
+20	C0233514	Abnormal behaviour
+21	C0877331	Abnormal clotting factor
+22	C0234458	Abnormal dreams
+23	C0162287	Abnormal faeces
+24	C0013418	Abnormal labour
+25	C0497201	Abnormal sensation in eye
+26	C0855246	Abnormal sleep-related event
+27	C2609183	Abnormal withdrawal bleeding
+28	C0156543	Abortion
+29	C0812470	Abortion incomplete
+30	C0000817	Abortion infected
+31	C0000814	Abortion missed
+32	C0000786	Abortion spontaneous
+33	C0000833	Abscess
+34	C0578455	Abscess limb
+35	C0541754	Abscess sterile
+36	C0000889	Acanthosis nigricans
+37	C1504343	Acarodermatitis
+38	C0000924	Accident
+39	C0521208	Accident at home
+40	C3544060	Accidental exposure to product
+41	C0151821	Accidental overdose
+42	C0152198	Accommodation disorder
+43	C1260871	Acetonaemia
+44	C0001122	Acidosis
+45	C0085569	Acidosis hyperchloraemic
+46	C0702166	Acne
+47	C0010666	Acne cystic
+48	C0263445	Acne fulminans
+49	C0263437	Acne infantile
+50	C0263443	Acne pustular
+51	C1096116	Acquired haemophilia
+52	C0001175	Acquired immunodeficiency syndrome
+53	C3665770	Acquired lipoatrophic diabetes
+54	C0037293	Acrochordon
+55	C0001198	Acrodynia
+56	C0001206	Acromegaly
+57	C0022602	Actinic keratosis
+58	C0234376	Action tremor
+59	C0240671	Activated partial thromboplastin time prolonged
+60	C0853224	Activated partial thromboplastin time shortened
+61	C1868709	Activation syndrome
+62	C0000727	Acute abdomen
+63	C0948089	Acute coronary syndrome
+64	C0014059	Acute disseminated encephalomyelitis
+65	C0085077	Acute febrile neutrophilic dermatosis
+66	C0877055	Acute generalised exanthematous pustulosis
+67	C0856825	Acute graft versus host disease
+68	C0162557	Acute hepatic failure
+69	C1279945	Acute interstitial pneumonitis
+70	C0085669	Acute leukaemia
+71	C0023449	Acute lymphocytic leukaemia
+72	C0023467	Acute myeloid leukaemia
+73	C0155626	Acute myocardial infarction
+74	C0001349	Acute phase reaction
+75	C2747793	Acute phosphate nephropathy
+76	C1167654	Acute prerenal failure
+77	C0023487	Acute promyelocytic leukaemia
+78	C1698394	Acute promyelocytic leukaemia differentiation syndrome
+79	C0281774	Acute psychosis
+80	C0155919	Acute pulmonary oedema
+81	C0035222	Acute respiratory distress syndrome
+82	C0264490	Acute respiratory failure
+83	C0149512	Acute sinusitis
+84	C0236816	Acute stress disorder
+85	C0001361	Acute tonsillitis
+86	C0001364	Acute yellow liver atrophy
+87	C0001396	Adams-Stokes syndrome
+88	C0001403	Addison's disease
+89	C0001418	Adenocarcinoma
+90	C0281361	Adenocarcinoma pancreas
+91	C0001430	Adenoma benign
+92	C0341858	Adenomyosis
+93	C0001486	Adenovirus infection
+94	C0001511	Adhesion
+95	C0001546	Adjustment disorder
+96	C1735864	Administration site infection
+97	C0851536	Administration site reaction
+98	C0920016	Adnexa uteri cyst
+99	C1142133	Adnexa uteri mass
+100	C1142117	Adnexa uteri pain
+101	C0740804	Adnexal torsion
+102	C0342490	Adrenal atrophy
+103	C0001621	Adrenal disorder
+104	C0750887	Adrenal gland cancer
+105	C0151693	Adrenal haemorrhage
+106	C0001623	Adrenal insufficiency
+107	C0274714	Adrenergic syndrome
+108	C0151467	Adrenocortical insufficiency acute
+109	C0559546	Adverse reaction
+110	C0001707	Aerophagia
+111	C0233472	Affect lability
+112	C0525045	Affective disorder
+113	C2364111	Ageusia
+114	C0001807	Aggression
+115	C0085631	Agitation
+116	C0919572	Agitation postoperative
+117	C0001816	Agnosia
+118	C0001818	Agoraphobia
+119	C0001824	Agranulocytosis
+120	C0001849	AIDS dementia complex
+121	C0919569	Airway complication of anaesthesia
+122	C0392156	Akathisia
+123	C0426959	Akinaesthesia
+124	C0085623	Akinesia
+125	C0855619	Alanine aminotransferase abnormal
+126	C0855618	Alanine aminotransferase decreased
+127	C0151905	Alanine aminotransferase increased
+128	C0855620	Alanine aminotransferase normal
+129	C0001916	Albinism
+130	C0151472	Albumin globulin ratio abnormal
+131	C0564622	Albumin urine present
+132	C0001925	Albuminuria
+133	C0085762	Alcohol abuse
+134	C0151474	Alcohol intolerance
+135	C0392620	Alcohol poisoning
+136	C0549393	Alcohol problem
+137	C0236663	Alcohol withdrawal syndrome
+138	C0376670	Alcoholic pancreatitis
+139	C0033936	Alcoholic psychosis
+140	C0001973	Alcoholism
+141	C0002063	Alkalosis
+142	C0151476	Alkalosis hypochloraemic
+143	C0085570	Alkalosis hypokalaemic
+144	C0008728	Allergic granulomatous angiitis
+145	C1959797	Allergic hepatitis
+146	C0847033	Allergic oedema
+147	C0748726	Allergic sinusitis
+148	C0458247	Allodynia
+149	C0002170	Alopecia
+150	C0150450	Altered state of consciousness
+151	C1096444	Altered visual depth perception
+152	C0013240	Alveolar osteitis
+153	C0034050	Alveolar proteinosis
+154	C0549493	Alveolitis
+155	C0002390	Alveolitis allergic
+156	C0376288	Amaurosis
+157	C0149793	Amaurosis fugax
+158	C0002418	Amblyopia
+159	C0002453	Amenorrhoea
+160	C0238621	Aminoaciduria
+161	C0541772	Ammonia increased
+162	C0002622	Amnesia
+163	C0002631	Amniotic cavity infection
+164	C0859978	Amylase decreased
+165	C0151479	Amylase increased
+166	C0002726	Amyloidosis
+167	C0002871	Anaemia
+168	C0002886	Anaemia macrocytic
+169	C0002888	Anaemia megaloblastic
+170	C0002891	Anaemia neonatal
+171	C0877398	Anaemia postoperative
+172	C2004521	Anaemia vitamin B12 deficiency
+173	C0392008	Anaesthetic complication
+174	C0854693	Anaesthetic complication neurological
+175	C0281778	Anal abscess
+176	C0003466	Anal atresia
+177	C0279637	Anal cancer
+178	C0343869	Anal candidiasis
+179	C0016167	Anal fissure
+180	C0205929	Anal fistula
+181	C0426747	Anal haemorrhage
+182	C0238634	Anal inflammation
+183	C0033775	Anal pruritus
+184	C0345903	Anal skin tags
+185	C0152167	Anal spasm
+186	C0877325	Anal sphincter atony
+187	C0412784	Analgesic therapy
+188	C0002792	Anaphylactic shock
+189	C0340865	Anaphylactoid reaction
+190	C1868769	Anaphylactoid syndrome of pregnancy
+191	C0334579	Anaplastic astrocytoma
+192	C0206180	Anaplastic large-cell lymphoma
+193	C0238461	Anaplastic thyroid cancer
+194	C0919691	Anastomotic leak
+195	C1442968	Anastomotic ulcer
+196	C0162311	Androgenetic alopecia
+197	C0002902	Anencephaly
+198	C0002940	Aneurysm
+199	C0002957	Anger
+200	C0002962	Angina pectoris
+201	C0002965	Angina unstable
+202	C1695895	Angiodermatitis
+203	C0002994	Angioedema
+204	C0020981	Angioimmunoblastic T-cell lymphoma
+205	C0206633	Angiomyolipoma
+206	C0042373	Angiopathy
+207	C0017605	Angle closure glaucoma
+208	C0178417	Anhedonia
+209	C0003028	Anhidrosis
+210	C0003044	Animal bite
+211	C0852919	Animal scratch
+212	C0342592	Anion gap increased
+213	C0221278	Anisocytosis
+214	C0159877	Ankle fracture
+215	C0038013	Ankylosing spondylitis
+216	C0009663	Anogenital warts
+217	C0003119	Anophthalmos
+218	C2242737	Anorectal discomfort
+219	C0687707	Anorectal disorder
+220	C0234022	Anorgasmia
+221	C0003126	Anosmia
+222	C0234507	Anosognosia
+223	C0429468	Anovulatory cycle
+224	C0003130	Anoxia
+225	C0423282	Anterior chamber cell
+226	C0423281	Anterior chamber flare
+227	C1096278	Anterior chamber inflammation
+228	C1112371	Anterior chamber pigmentation
+229	C0221069	Anterior spinal artery syndrome
+230	C0233795	Anterograde amnesia
+231	C0003175	Anthrax
+232	C1168134	Anti-thyroid antibody positive
+233	C1262044	Antibody test negative
+234	C0741132	Antibody test positive
+235	C0151500	Anticholinergic syndrome
+236	C0860811	Antidiuretic hormone abnormality
+237	C0238874	Antineutrophil cytoplasmic antibody positive
+238	C1610056	Antinuclear antibody increased
+239	C0151480	Antinuclear antibody positive
+240	C0233523	Antisocial behaviour
+241	C0003431	Antisocial personality disorder
+242	C1096670	Antitussive therapy
+243	C0003460	Anuria
+244	C0003467	Anxiety
+245	C0003469	Anxiety disorder
+246	C0003486	Aortic aneurysm
+247	C0741160	Aortic aneurysm rupture
+248	C1388177	Aortic arteriosclerosis
+249	C0277934	Aortic bruit
+250	C0003493	Aortic disorder
+251	C0340643	Aortic dissection
+252	C0741165	Aortic embolus
+253	C0003496	Aortic rupture
+254	C0003504	Aortic valve incompetence
+255	C1455780	Aortic valve sclerosis
+256	C0003507	Aortic valve stenosis
+257	C0085632	Apathy
+258	C0549400	Apgar score low
+259	C0221470	Aphagia
+260	C0003534	Aphakia
+261	C0003537	Aphasia
+262	C0003564	Aphonia
+263	C0038363	Aphthous stomatitis
+264	C0243065	Aplasia
+265	C0282160	Aplasia cutis congenita
+266	C0034902	Aplasia pure red cell
+267	C0002874	Aplastic anaemia
+268	C0003578	Apnoea
+269	C0162638	Apoptosis
+270	C0003615	Appendicitis
+271	C0003621	Appetite disorder
+272	C0234943	Application site anaesthesia
+273	C0392160	Application site atrophy
+274	C0877661	Application site burn
+275	C1696942	Application site cellulitis
+276	C0948299	Application site discharge
+277	C1142160	Application site discolouration
+278	C1328375	Application site discomfort
+279	C0877098	Application site dryness
+280	C0919599	Application site eczema
+281	C1696574	Application site erosion
+282	C0853700	Application site erythema
+283	C1610049	Application site exfoliation
+284	C1167675	Application site folliculitis
+285	C0877095	Application site haematoma
+286	C0877094	Application site haemorrhage
+287	C0919600	Application site hyperaesthesia
+288	C1504422	Application site hypersensitivity
+289	C1535849	Application site induration
+290	C0521496	Application site infection
+291	C0877126	Application site inflammation
+292	C0521490	Application site irritation
+293	C0234936	Application site oedema
+294	C0521491	Application site pain
+295	C0877127	Application site papules
+296	C0877096	Application site paraesthesia
+297	C0853714	Application site pruritus
+298	C0877128	Application site pustules
+299	C0521495	Application site rash
+300	C0151505	Application site reaction
+301	C0948300	Application site scab
+302	C1142459	Application site scar
+303	C1096001	Application site swelling
+304	C0521492	Application site ulcer
+305	C0919603	Application site urticaria
+306	C0877097	Application site vesicles
+307	C0858794	Application site warmth
+308	C0003635	Apraxia
+309	C0003708	Arachnoiditis
+310	C1142068	Arcus lipoides
+311	C0234146	Areflexia
+312	C0175683	Argininosuccinate synthetase deficiency
+313	C0003811	Arrhythmia
+314	C0428974	Arrhythmia supraventricular
+315	C0852949	Arterial disorder
+316	C0003834	Arterial insufficiency
+317	C0003838	Arterial occlusive disease
+318	C0085617	Arterial spasm
+319	C0151942	Arterial thrombosis
+320	C0003850	Arteriosclerosis
+321	C0010054	Arteriosclerosis coronary artery
+322	C0339478	Arteriosclerotic retinopathy
+323	C0010073	Arteriospasm coronary
+324	C0003855	Arteriovenous fistula
+325	C0340909	Arteriovenous fistula thrombosis
+326	C0003860	Arteritis
+327	C0002949	Artery dissection
+328	C0003862	Arthralgia
+329	C0003864	Arthritis
+330	C1692886	Arthritis bacterial
+331	C0003869	Arthritis infective
+332	C0022408	Arthropathy
+333	C0853348	Arthropod bite
+334	C0852932	Arthropod sting
+335	C0003950	Ascariasis
+336	C0003962	Ascites
+337	C0233528	Asocial behaviour
+338	C0855622	Aspartate aminotransferase decreased
+339	C0151904	Aspartate aminotransferase increased
+340	C0855624	Aspartate aminotransferase normal
+341	C0276651	Aspergilloma
+342	C0851807	Aspergillus infection
+343	C1704202	Aspermia
+344	C0004044	Asphyxia
+345	C0700198	Aspiration
+346	C0521305	Assisted fertilisation
+347	C0549201	Asteatosis
+348	C0232766	Asterixis
+349	C0004093	Asthenia
+350	C0004095	Asthenopia
+351	C0004096	Asthma
+352	C0004114	Astrocytoma
+353	C0262380	Asymptomatic bacteriuria
+354	C0004134	Ataxia
+355	C0004144	Atelectasis
+356	C0004158	Athetosis
+357	C0403645	Atonic urinary bladder
+358	C0392707	Atopy
+359	C0004238	Atrial fibrillation
+360	C0004239	Atrial flutter
+361	C0340278	Atrial hypertrophy
+362	C0018817	Atrial septal defect
+363	C0546959	Atrial tachycardia
+364	C0004245	Atrioventricular block
+365	C0151517	Atrioventricular block complete
+366	C0085614	Atrioventricular block first degree
+367	C0264906	Atrioventricular block second degree
+368	C0004331	Atrioventricular dissociation
+369	C0155964	Atrophic glossitis
+370	C0149836	Atrophic vulvovaginitis
+371	C0333641	Atrophy
+372	C1263846	Attention deficit/hyperactivity disorder
+373	C3160754	Atypical femur fracture
+374	C3495700	Atypical fracture
+375	C0026919	Atypical mycobacterial infection
+376	C1412002	Atypical pneumonia
+377	C0236018	Aura
+378	C0549297	Auricular swelling
+379	C0004352	Autism
+380	C1510586	Autism spectrum disorder
+381	C0004364	Autoimmune disorder
+382	C0002880	Autoimmune haemolytic anaemia
+383	C0241910	Autoimmune hepatitis
+384	C0242584	Autoimmune thrombocytopenia
+385	C0004377	Automatism
+386	C0262385	Autonomic nervous system imbalance
+387	C0259749	Autonomic neuropathy
+388	C0270921	Axonal neuropathy
+389	C0004509	Azoospermia
+390	C0242528	Azotaemia
+391	C0079731	B-cell lymphoma
+392	C1292769	B-cell type acute leukaemia
+393	C0263888	Back disorder
+394	C0004601	Back injury
+395	C0004604	Back pain
+396	C0004610	Bacteraemia
+397	C0853960	Bacterial disease carrier
+398	C0004623	Bacterial infection
+399	C0748023	Bacterial prostatitis
+400	C1167760	Bacterial test positive
+401	C0004659	Bacteriuria
+402	C0575090	Balance disorder
+403	C0004690	Balanitis
+404	C0276684	Balanitis candida
+405	C0004691	Balanoposthitis
+406	C0919777	Band neutrophil count increased
+407	C2609148	Barium impaction
+408	C0004763	Barrett's oesophagus
+409	C0004767	Bartholin's cyst
+410	C0007117	Basal cell carcinoma
+411	C0018213	Basedow's disease
+412	C0702266	Basophilia
+413	C0004903	Beckwith-Wiedemann syndrome
+414	C0741453	Bedridden
+415	C0346156	Benign breast neoplasm
+416	C0497538	Benign gastrointestinal neoplasm
+417	C0496870	Benign hepatic neoplasm
+418	C0549315	Benign hydatidiform mole
+419	C0033845	Benign intracranial hypertension
+420	C0086692	Benign neoplasm
+421	C0004998	Benign neoplasm of skin
+422	C1704272	Benign prostatic hyperplasia
+423	C0154002	Benign vaginal neoplasm
+424	C0855565	Beta 2 microglobulin increased
+425	C0855573	Beta 2 microglobulin urine increased
+426	C1321581	Bezoar
+427	C1142446	Bicytopenia
+428	C0740277	Bile duct cancer
+429	C0267925	Bile duct stenosis
+430	C0151824	Biliary colic
+431	C0520571	Biliary fibrosis
+432	C0005424	Biliary tract disorder
+433	C0855625	Bilirubin conjugated increased
+434	C0596170	Binge eating
+435	C0005586	Bipolar disorder
+436	C0853193	Bipolar I disorder
+437	C1096691	BK virus infection
+438	C0005684	Bladder cancer
+439	C0549253	Bladder dilatation
+440	C0549391	Bladder discomfort
+441	C0005686	Bladder disorder
+442	C0156273	Bladder diverticulum
+443	C0232841	Bladder dysfunction
+444	C0521626	Bladder fibrosis
+445	C2945586	Bladder irritation
+446	C0005694	Bladder neck obstruction
+447	C0341751	Bladder necrosis
+448	C0005695	Bladder neoplasm
+449	C0232849	Bladder pain
+450	C0426390	Bladder spasm
+451	C0151919	Bladder stenosis
+452	C0005699	Blast cell crisis
+453	C0005716	Blastomycosis
+454	C0151529	Bleeding time prolonged
+455	C0854438	Blepharal pigmentation
+456	C0005741	Blepharitis
+457	C0271308	Blepharitis allergic
+458	C0005747	Blepharospasm
+459	C0266648	Blighted ovum
+460	C0456909	Blindness
+461	C0155320	Blindness cortical
+462	C0018975	Blindness day
+463	C0155003	Blindness transient
+464	C0271240	Blindness unilateral
+465	C0005758	Blister
+466	C0853050	Blood acid phosphatase increased
+467	C0853777	Blood albumin decreased
+468	C0853776	Blood albumin increased
+469	C0852911	Blood alkaline phosphatase increased
+470	C0853592	Blood antidiuretic hormone abnormal
+471	C0853263	Blood bicarbonate
+472	C0852909	Blood bicarbonate decreased
+473	C0853737	Blood bicarbonate increased
+474	C1142015	Blood bilirubin abnormal
+475	C0877336	Blood bilirubin decreased
+476	C0311468	Blood bilirubin increased
+477	C0853289	Blood bilirubin normal
+478	C0854134	Blood bilirubin unconjugated increased
+479	C0853772	Blood calcium abnormal
+480	C3665624	Blood calcium decreased
+481	C0595902	Blood chloride decreased
+482	C0595900	Blood chloride increased
+483	C0853595	Blood cholesterol abnormal
+484	C1536916	Blood cholesterol decreased
+485	C0595930	Blood cholesterol increased
+486	C0854028	Blood copper decreased
+487	C0852792	Blood cortisol decreased
+488	C0852793	Blood cortisol increased
+489	C1535970	Blood count abnormal
+490	C0854029	Blood creatine increased
+491	C0853782	Blood creatine phosphokinase abnormal
+492	C0853034	Blood creatine phosphokinase increased
+493	C0853958	Blood creatine phosphokinase MB increased
+494	C0855677	Blood creatine phosphokinase MM increased
+495	C0853746	Blood creatinine abnormal
+496	C0852810	Blood creatinine decreased
+497	C0235431	Blood creatinine increased
+498	C0853035	Blood creatinine normal
+499	C0740299	Blood culture positive
+500	C0018939	Blood disorder
+501	C0853748	Blood electrolytes abnormal
+502	C0853885	Blood electrolytes decreased
+503	C0854062	Blood fibrinogen decreased
+504	C0852921	Blood fibrinogen increased
+505	C0853124	Blood follicle stimulating hormone increased
+506	C0476337	Blood gases abnormal
+507	C0853890	Blood gastrin increased
+508	C0580546	Blood glucose abnormal
+509	C0595883	Blood glucose decreased
+510	C0877314	Blood glucose fluctuation
+511	C0595877	Blood glucose increased
+512	C0853974	Blood gonadotrophin decreased
+513	C0853973	Blood gonadotrophin increased
+514	C0853015	Blood growth hormone increased
+515	C0853705	Blood immunoglobulin G decreased
+516	C0854380	Blood insulin decreased
+517	C0852795	Blood insulin increased
+518	C0853227	Blood iron abnormal
+519	C0853785	Blood iron decreased
+520	C0853784	Blood iron increased
+521	C0853149	Blood lactate dehydrogenase increased
+522	C0853123	Blood luteinising hormone increased
+523	C0853750	Blood magnesium decreased
+524	C0853749	Blood magnesium increased
+525	C1112762	Blood methaemoglobin present
+526	C0853021	Blood oestrogen decreased
+527	C0853020	Blood oestrogen increased
+528	C0853755	Blood osmolarity decreased
+529	C0853754	Blood osmolarity increased
+530	C0853023	Blood parathyroid hormone increased
+531	C0853028	Blood pH decreased
+532	C0877517	Blood phosphorus decreased
+533	C0919625	Blood phosphorus increased
+534	C0853759	Blood potassium abnormal
+535	C0853761	Blood potassium decreased
+536	C0853760	Blood potassium increased
+537	C0005826	Blood pressure abnormal
+538	C0277890	Blood pressure diastolic decreased
+539	C0277889	Blood pressure diastolic increased
+540	C0549405	Blood pressure fluctuation
+541	C0919892	Blood pressure inadequately controlled
+542	C0497247	Blood pressure increased
+543	C2712122	Blood pressure normal
+544	C0277885	Blood pressure systolic decreased
+545	C0277884	Blood pressure systolic increased
+546	C0853710	Blood prolactin decreased
+547	C0854082	Blood prolactin increased
+548	C0853786	Blood sodium abnormal
+549	C0595878	Blood sodium increased
+550	C0854146	Blood test abnormal
+551	C0853117	Blood testosterone decreased
+552	C1096496	Blood testosterone free increased
+553	C0853118	Blood testosterone increased
+554	C0852990	Blood thromboplastin decreased
+555	C0853018	Blood thyroid stimulating hormone decreased
+556	C0853019	Blood thyroid stimulating hormone increased
+557	C0854111	Blood triglycerides decreased
+558	C0853692	Blood triglycerides increased
+559	C0438242	Blood urea abnormal
+560	C0549395	Blood urea decreased
+561	C0151539	Blood urea increased
+562	C0438241	Blood urea normal
+563	C0855642	Blood uric acid abnormal
+564	C0855644	Blood uric acid decreased
+565	C0235416	Blood uric acid increased
+566	C0221752	Blood urine
+567	C0947999	Blood urine present
+568	C0855675	Blood zinc decreased
+569	C0333271	Bloody discharge
+570	C0242645	Blue toe syndrome
+571	C0233469	Blunted affect
+572	C1096393	Body fat disorder
+573	C2732728	Body height decreased
+574	C0231255	Body mass index decreased
+575	C0020672	Body temperature decreased
+576	C1504363	Body temperature fluctuation
+577	C0015967	Body temperature increased
+578	C0040252	Body tinea
+579	C0153690	Bone cancer metastatic
+580	C0877225	Bone density decreased
+581	C0231557	Bone development abnormal
+582	C0005940	Bone disorder
+583	C0238792	Bone lesion
+584	C0005956	Bone marrow disorder
+585	C0238796	Bone marrow granuloma
+586	C0948168	Bone marrow toxicity
+587	C0005944	Bone metabolism disorder
+588	C0005967	Bone neoplasm
+589	C0151825	Bone pain
+590	C1704327	Bone sarcoma
+591	C0041307	Bovine tuberculosis
+592	C0006079	Bowen's disease
+593	C0161446	Brachial plexus injury
+594	C0079035	Bradyarrhythmia
+595	C0428977	Bradycardia
+596	C0410919	Bradycardia foetal
+597	C0233565	Bradykinesia
+598	C0554976	Bradyphrenia
+599	C0006105	Brain abscess
+600	C0220650	Brain cancer metastatic
+601	C0553686	Brain herniation
+602	C1527348	Brain hypoxia
+603	C0270611	Brain injury
+604	C0006118	Brain neoplasm
+605	C0496899	Brain neoplasm benign
+606	C1527311	Brain oedema
+607	C0677865	Brain stem glioma
+608	C0521540	Brain stem haemorrhage
+609	C1328447	Brain stem syndrome
+610	C1135120	Breakthrough pain
+611	C0151463	Breast abscess
+612	C0151511	Breast atrophy
+613	C0587094	Breast calcifications
+614	C0006142	Breast cancer
+615	C0235653	Breast cancer female
+616	C0238033	Breast cancer male
+617	C0278488	Breast cancer stage IV
+618	C0006144	Breast cyst
+619	C0149741	Breast discharge
+620	C0877338	Breast discomfort
+621	C0006145	Breast disorder
+622	C0677658	Breast disorder female
+623	C0085688	Breast engorgement
+624	C2225524	Breast enlargement
+625	C0006147	Breast feeding
+626	C1328386	Breast fibroma
+627	C0156318	Breast fibrosis
+628	C0269268	Breast induration
+629	C0266008	Breast malformation
+630	C0024103	Breast mass
+631	C1458155	Breast neoplasm
+632	C0235649	Breast oedema
+633	C0024902	Breast pain
+634	C0006152	Breast swelling
+635	C0262397	Breast tenderness
+636	C0235744	Breath holding
+637	C0018520	Breath odour
+638	C0231856	Breath sounds abnormal
+639	C0006157	Breech presentation
+640	C0006261	Bronchial disorder
+641	C1321133	Bronchial haemorrhage
+642	C0085129	Bronchial hyperreactivity
+643	C0221725	Bronchial obstruction
+644	C1868710	Bronchial secretion retention
+645	C0264352	Bronchial ulceration
+646	C0006267	Bronchiectasis
+647	C0006271	Bronchiolitis
+648	C0007120	Bronchioloalveolar carcinoma
+649	C0006277	Bronchitis
+650	C0264344	Bronchitis bacterial
+651	C0276141	Bronchitis viral
+652	C0006285	Bronchopneumonia
+653	C1096448	Bronchopneumopathy
+654	C2350530	Bronchopulmonary aspergillosis
+655	C0006287	Bronchopulmonary dysplasia
+656	C0006266	Bronchospasm
+657	C0236072	Bronchospasm paradoxical
+658	C0151536	Bronchostenosis
+659	C0029405	Brown tumour
+660	C1142166	Brugada syndrome
+661	C0006325	Bruxism
+662	C0856152	Buccal mucosal roughening
+663	C0151538	Buccoglossal syndrome
+664	C0856761	Budd-Chiari syndrome
+665	C2267227	Bulimia nervosa
+666	C0021100	Bullous impetigo
+667	C0006384	Bundle branch block
+668	C0023211	Bundle branch block left
+669	C0085615	Bundle branch block right
+670	C0006413	Burkitt's lymphoma
+671	C0006430	Burning mouth syndrome
+672	C0085624	Burning sensation
+673	C0332687	Burns second degree
+674	C0006444	Bursitis
+675	C0742906	C-reactive protein increased
+676	C0006625	Cachexia
+677	C0267537	Caecitis
+678	C0221255	Calcification metastatic
+679	C0006663	Calcinosis
+680	C0006666	Calciphylaxis
+681	C0392519	Calcium deficiency
+682	C0595876	Calcium intoxication
+683	C0006705	Calcium metabolism disorder
+684	C0005683	Calculus bladder
+685	C1456865	Calculus ureteric
+686	C0042018	Calculus urinary
+687	C0596240	Cancer pain
+688	C0742224	Candida cervicitis
+689	C0006840	Candida infection
+690	C0949091	Candida sepsis
+691	C0403723	Candiduria
+692	C0006905	Capillary fragility
+693	C0151541	Capillary fragility increased
+694	C0343084	Capillary leak syndrome
+695	C0541820	Carbohydrate tolerance decreased
+696	C0860711	Carbon dioxide decreased
+697	C0860713	Carbon dioxide increased
+698	C0007078	Carbuncle
+699	C0858970	Carcinogenicity
+700	C0007095	Carcinoid tumour
+701	C0007099	Carcinoma in situ
+702	C0268407	Cardiac amyloidosis
+703	C0018790	Cardiac arrest
+704	C0376297	Cardiac death
+705	C1096252	Cardiac discomfort
+706	C0018799	Cardiac disorder
+707	C0741921	Cardiac enzymes increased
+708	C0018801	Cardiac failure
+709	C0264714	Cardiac failure acute
+710	C0018802	Cardiac failure congestive
+711	C0221045	Cardiac failure high output
+712	C0232197	Cardiac fibrillation
+713	C0016385	Cardiac flutter
+714	C1383860	Cardiac hypertrophy
+715	C0018808	Cardiac murmur
+716	C0007166	Cardiac output decreased
+717	C0085128	Cardiac output increased
+718	C0018816	Cardiac septal defect
+719	C0007177	Cardiac tamponade
+720	C0018824	Cardiac valve disease
+721	C1096119	Cardiac valve replacement complication
+722	C0600228	Cardio-respiratory arrest
+723	C0877339	Cardio-respiratory distress
+724	C0855931	Cardioactive drug level above therapeutic
+725	C0861111	Cardioactive drug level increased
+726	C0036980	Cardiogenic shock
+727	C0018800	Cardiomegaly
+728	C0878544	Cardiomyopathy
+729	C1444565	Cardiopulmonary failure
+730	C0876994	Cardiotoxicity
+731	C0007222	Cardiovascular disorder
+732	C1392046	Cardiovascular insufficiency
+733	C0869523	Carditis
+734	C0855977	Carotene decreased
+735	C0265101	Carotid artery occlusion
+736	C0007282	Carotid artery stenosis
+737	C0007274	Carotid artery thrombosis
+738	C0007280	Carotid bruit
+739	C1096529	Carotid pulse
+740	C0221046	Carotid sinus syndrome
+741	C0007286	Carpal tunnel syndrome
+742	C0007384	Cataplexy
+743	C0086543	Cataract
+744	C0271160	Cataract cortical
+745	C0011876	Cataract diabetic
+746	C0392557	Cataract nuclear
+747	C0235259	Cataract subcapsular
+748	C0154983	Cataract traumatic
+749	C0007398	Catatonia
+750	C0948978	Catheter site cellulitis
+751	C0948815	Catheter site erythema
+752	C0920166	Catheter site haemorrhage
+753	C1112210	Catheter site infection
+754	C0948817	Catheter site inflammation
+755	C0949103	Catheter site pain
+756	C0948818	Catheter site phlebitis
+757	C0863070	Catheter site related reaction
+758	C0392548	Cauda equina syndrome
+759	C0853142	CD4 lymphocytes decreased
+760	C0007642	Cellulitis
+761	C0854456	Cellulitis gangrenous
+762	C0853857	Cellulitis staphylococcal
+763	C3267019	Central nervous system haemorrhage
+764	C0007684	Central nervous system infection
+765	C0085136	Central nervous system neoplasm
+766	C0151560	Central nervous system stimulation
+767	C0311277	Central obesity
+768	C0007758	Cerebellar ataxia
+769	C0740279	Cerebellar atrophy
+770	C0236073	Cerebellar infarction
+771	C0007760	Cerebellar syndrome
+772	C0877854	Cerebral arteriosclerosis
+773	C0007773	Cerebral arteritis
+774	C0007780	Cerebral artery embolism
+775	C1504438	Cerebral artery stenosis
+776	C0235946	Cerebral atrophy
+777	C0542007	Cerebral haematoma
+778	C2937358	Cerebral haemorrhage
+779	C1695782	Cerebral hypoperfusion
+780	C0007785	Cerebral infarction
+781	C0917798	Cerebral ischaemia
+782	C0079102	Cerebral thrombosis
+783	C1167661	Cerebral vasoconstriction
+784	C0151945	Cerebral venous thrombosis
+785	C0023182	Cerebrospinal fluid leakage
+786	C0038454	Cerebrovascular accident
+787	C0007820	Cerebrovascular disorder
+788	C0241832	Cerebrovascular insufficiency
+789	C0021092	Cerumen impaction
+790	C0553737	Cervical discharge
+791	C0007868	Cervical dysplasia
+792	C0007871	Cervical incompetence
+793	C0007855	Cervical polyp
+794	C0262414	Cervical vertebral fracture
+795	C0007860	Cervicitis
+796	C0158281	Cervicobrachial syndrome
+797	C0302592	Cervix carcinoma
+798	C0851140	Cervix carcinoma stage 0
+799	C0007867	Cervix disorder
+800	C0948011	Cervix haemorrhage uterine
+801	C0007873	Cervix neoplasm
+802	C0007933	Chalazion
+803	C0278008	Change of bowel habit
+804	C0424489	Chapped lips
+805	C0007971	Cheilitis
+806	C0221264	Cheilosis
+807	C0403639	Chemical cystitis
+808	C1096387	Chemical eye injury
+809	C0441713	Chemical injury
+810	C0341505	Chemical peritonitis
+811	C0235710	Chest discomfort
+812	C0008031	Chest pain
+813	C0436503	Chest X-ray abnormal
+814	C0239026	Chest X-ray normal
+815	C0008039	Cheyne-Stokes respiration
+816	C0085593	Chills
+817	C0008149	Chlamydial infection
+818	C0025218	Chloasma
+819	C0235260	Chloropsia
+820	C0008301	Choking
+821	C0546947	Choking sensation
+822	C0206698	Cholangiocarcinoma
+823	C0008311	Cholangitis
+824	C0008313	Cholangitis sclerosing
+825	C0008325	Cholecystitis
+826	C0149520	Cholecystitis acute
+827	C0085694	Cholecystitis chronic
+828	C1262168	Cholecystitis infective
+829	C0008350	Cholelithiasis
+830	C0008370	Cholestasis
+831	C2242582	Cholestatic liver injury
+832	C0274702	Cholinergic syndrome
+833	C0159076	Choluria
+834	C0553730	Chondrocalcinosis
+835	C0008449	Chondrodystrophy
+836	C0343263	Chondrolysis
+837	C0007302	Chondropathy
+838	C0008489	Chorea
+839	C0085583	Choreoathetosis
+840	C0008497	Choriocarcinoma
+841	C0008513	Chorioretinitis
+842	C0339383	Chorioretinopathy
+843	C0162279	Choroidal detachment
+844	C0339434	Choroidal effusion
+845	C0008526	Choroiditis
+846	C0474381	Chromatopsia
+847	C0541832	Chromaturia
+848	C0948447	Chromosomal mutation
+849	C0403592	Chronic allograft nephropathy
+850	C0346421	Chronic eosinophilic leukaemia
+851	C0015674	Chronic fatigue syndrome
+852	C0867389	Chronic graft versus host disease
+853	C0400930	Chronic hepatic failure
+854	C0019189	Chronic hepatitis
+855	C0524909	Chronic hepatitis B
+856	C1279296	Chronic leukaemia
+857	C0023434	Chronic lymphocytic leukaemia
+858	C0023473	Chronic myeloid leukaemia
+859	C0023480	Chronic myelomonocytic leukaemia
+860	C0024117	Chronic obstructive pulmonary disease
+861	C0149516	Chronic sinusitis
+862	C0333604	Chrysiasis
+863	C0008733	Chylothorax
+864	C0235229	Ciliary muscle spasm
+865	C0151555	Cinchonism
+866	C0877792	Circadian rhythm sleep disorder
+867	C0239062	Circumoral oedema
+868	C0023891	Cirrhosis alcoholic
+869	C0948342	Citrate toxicity
+870	C0008909	Claustrophobia
+871	C0159658	Clavicle fracture
+872	C0008924	Cleft lip
+873	C0008925	Cleft palate
+874	C0233976	Clitoral engorgement
+875	C0345217	Cloacal exstrophy
+876	C0234535	Clonic convulsion
+877	C0009024	Clonus
+878	C0009062	Clostridial infection
+879	C1142300	Clostridium colitis
+880	C0238106	Clostridium difficile colitis
+881	C0149651	Clubbing
+882	C0233844	Clumsiness
+883	C0009088	Cluster headache
+884	C0272315	Coagulation factor decreased
+885	C1504379	Coagulation test abnormal
+886	C0151563	Coagulation time prolonged
+887	C0005779	Coagulopathy
+888	C0003492	Coarctation of the aorta
+889	C0009193	Coccydynia
+890	C0009241	Cognitive disorder
+891	C0151564	Cogwheel rigidity
+892	C1610622	Coital bleeding
+893	C0232431	Cold sweat
+894	C0009319	Colitis
+895	C0162529	Colitis ischaemic
+896	C0400821	Colitis microscopic
+897	C0009324	Colitis ulcerative
+898	C0262428	Collagen-vascular disease
+899	C0009326	Collagen disorder
+900	C0007102	Colon cancer
+901	C0742545	Colonic abscess
+902	C0009377	Colonic pseudo-obstruction
+903	C1527249	Colorectal cancer
+904	C0948380	Colorectal cancer metastatic
+905	C0242225	Colour blindness
+906	C0155018	Colour blindness acquired
+907	C1442998	Colpocele
+908	C0009421	Coma
+909	C0019147	Coma hepatic
+910	C0206171	Community acquired infection
+911	C0009492	Compartment syndrome
+912	C0852733	Completed suicide
+913	C0149958	Complex partial seizures
+914	C0458219	Complex regional pain syndrome
+915	C0852962	Complication of delivery
+916	C1608942	Complication of device insertion
+917	C0032962	Complication of pregnancy
+918	C0854567	Complications of transplant surgery
+919	C0521169	Compression fracture
+920	C0600104	Compulsions
+921	C2242574	Compulsive sexual behaviour
+922	C2242575	Compulsive shopping
+923	C0006107	Concussion
+924	C0235874	Condition aggravated
+925	C0264886	Conduction disorder
+926	C1319200	Confusion postoperative
+927	C0009676	Confusional state
+928	C0266241	Congenital absence of bile ducts
+929	C0000768	Congenital anomaly
+930	C0265935	Congenital arterial malformation
+931	C0151490	Congenital central nervous system anomaly
+932	C0311245	Congenital cystic kidney disease
+933	C0235833	Congenital diaphragmatic hernia
+934	C0015393	Congenital eye disorder
+935	C0016508	Congenital foot malformation
+936	C0221032	Congenital generalised lipodystrophy
+937	C0158687	Congenital genital malformation
+938	C0042063	Congenital genitourinary abnormality
+939	C0266316	Congenital hydronephrosis
+940	C0010308	Congenital hypothyroidism
+941	C0521546	Congenital joint malformation
+942	C0685341	Congenital limb hyperextension
+943	C0019569	Congenital megacolon
+944	C0151491	Congenital musculoskeletal anomaly
+945	C0026633	Congenital oral malformation
+946	C0268800	Congenital renal cyst
+947	C0037268	Congenital skin disorder
+948	C0521554	Congenital vesicoureteric reflux
+949	C0007193	Congestive cardiomyopathy
+950	C0041428	Conjoined twins
+951	C0948282	Conjunctival bleb
+952	C0155170	Conjunctival cyst
+953	C0009759	Conjunctival disorder
+954	C0860499	Conjunctival follicles
+955	C0009760	Conjunctival haemorrhage
+956	C1761613	Conjunctival hyperaemia
+957	C0239093	Conjunctival irritation
+958	C0151601	Conjunctival oedema
+959	C0151964	Conjunctival ulcer
+960	C0009763	Conjunctivitis
+961	C0009766	Conjunctivitis allergic
+962	C0009768	Conjunctivitis bacterial
+963	C0497209	Conjunctivitis infective
+964	C0009782	Connective tissue disorder
+965	C1112341	Connective tissue inflammation
+966	C0009806	Constipation
+967	C0221717	Contact lens intolerance
+968	C0268854	Contracted bladder
+969	C0853800	Contrast media reaction
+970	C0009938	Contusion
+971	C0009946	Conversion disorder
+972	C0036572	Convulsion
+973	C0159020	Convulsion neonatal
+974	C0151569	Coombs direct test positive
+975	C0520736	Coombs positive haemolytic anaemia
+976	C0239113	Coombs test positive
+977	C0520966	Coordination abnormal
+978	C0268070	Copper deficiency
+979	C0034072	Cor pulmonale
+980	C0010032	Corneal abrasion
+981	C0948284	Corneal decompensation
+982	C0948085	Corneal defect
+983	C0155118	Corneal degeneration
+984	C0162281	Corneal deposits
+985	C0010034	Corneal disorder
+986	C0010036	Corneal dystrophy
+987	C0854114	Corneal epithelium defect
+988	C0392163	Corneal erosion
+989	C0853336	Corneal infiltrates
+990	C1112489	Corneal irritation
+991	C0151571	Corneal lesion
+992	C0010037	Corneal oedema
+993	C0010038	Corneal opacity
+994	C0339293	Corneal perforation
+995	C0423226	Corneal pigmentation
+996	C0349702	Corneal scar
+997	C1096274	Corneal thinning
+998	C1956346	Coronary artery disease
+999	C0542052	Coronary artery insufficiency
+1000	C0151814	Coronary artery occlusion
+1001	C0242231	Coronary artery stenosis
+1002	C0010072	Coronary artery thrombosis
+1003	C0040213	Costochondritis
+1004	C0235634	Costovertebral angle tenderness
+1005	C0010200	Cough
+1006	C0151574	Cough decreased
+1007	C0010266	Cranial nerve disorder
+1008	C0151311	Cranial nerve paralysis
+1009	C0010278	Craniosynostosis
+1010	C0151577	Creatinine renal clearance decreased
+1011	C0010346	Crohn's disease
+1012	C0853811	Croup infectious
+1013	C0010399	Crying
+1014	C1096256	Cryptococcal cutaneous infection
+1015	C0010414	Cryptococcosis
+1016	C0010417	Cryptorchism
+1017	C0010418	Cryptosporidiosis infection
+1018	C0948002	Crystal urine present
+1019	C0151579	Crystalluria
+1020	C0855652	Culture negative
+1021	C0010481	Cushing's syndrome
+1022	C0332601	Cushingoid
+1023	C0024137	Cutaneous lupus erythematosus
+1024	C0036203	Cutaneous sarcoidosis
+1025	C0262988	Cutaneous vasculitis
+1026	C0010495	Cutis laxa
+1027	C0854725	Cyanopsia
+1028	C0010520	Cyanosis
+1029	C0235238	Cycloplegia
+1030	C0010598	Cyclothymic disorder
+1031	C0010709	Cyst
+1032	C0010692	Cystitis
+1033	C0085692	Cystitis haemorrhagic
+1034	C0282488	Cystitis interstitial
+1035	C0403632	Cystitis noninfective
+1036	C1697438	Cystitis viral
+1037	C0010695	Cystocele
+1038	C0024440	Cystoid macular oedema
+1039	C1963775	Cytarabine syndrome
+1040	C0008626	Cytogenetic abnormality
+1041	C0948245	Cytokine release syndrome
+1042	C0877072	Cytomegalovirus chorioretinitis
+1043	C0341335	Cytomegalovirus colitis
+1044	C0877117	Cytomegalovirus gastritis
+1045	C0276252	Cytomegalovirus hepatitis
+1046	C0010823	Cytomegalovirus infection
+1047	C1112469	Cytomegalovirus syndrome
+1048	C0877635	Cytomegalovirus viraemia
+1049	C1868998	Cytotoxic oedema
+1050	C0852970	Dacryoadenitis acquired
+1051	C0423172	Dacryocanaliculitis
+1052	C0010930	Dacryocystitis
+1053	C1096185	Dacryostenosis acquired
+1054	C0239161	Dactylitis
+1055	C0221244	Dandruff
+1056	C1608399	Dark circles under eyes
+1057	C0011053	Deafness
+1058	C3665473	Deafness bilateral
+1059	C0018784	Deafness neurosensory
+1060	C0151585	Deafness permanent
+1061	C0151588	Deafness transitory
+1062	C2607947	Deafness unilateral
+1063	C1306577	Death
+1064	C0410916	Death neonatal
+1065	C0232462	Decreased appetite
+1066	C0863087	Decreased immune responsiveness
+1067	C0424091	Decreased interest
+1068	C1295585	Decreased vibratory sense
+1069	C0011127	Decubitus ulcer
+1070	C0149871	Deep vein thrombosis
+1071	C0426636	Defaecation urgency
+1072	C0264909	Defect conduction intraventricular
+1073	C0041782	Deficiency anaemia
+1074	C3203690	Deficiency of bile secretion
+1075	C0011175	Dehydration
+1076	C0235863	Delayed delivery
+1077	C0034012	Delayed puberty
+1078	C0520757	Delayed recovery from anaesthesia
+1079	C0011206	Delirium
+1080	C0001957	Delirium tremens
+1081	C0011253	Delusion
+1082	C0424024	Delusional perception
+1083	C0497327	Dementia
+1084	C0002395	Dementia Alzheimer's type
+1085	C0752347	Dementia with Lewy bodies
+1086	C0270922	Demyelinating polyneuropathy
+1087	C0011304	Demyelination
+1088	C0011334	Dental caries
+1089	C1096257	Dental discomfort
+1090	C0155947	Dentofacial anomaly
+1091	C0439857	Dependence
+1092	C0011551	Depersonalisation
+1093	C0541865	Deposit eye
+1094	C0549249	Depressed level of consciousness
+1095	C0344315	Depressed mood
+1096	C0011570	Depression
+1097	C0221745	Depression suicidal
+1098	C0086132	Depressive symptom
+1099	C0233754	Derealisation
+1100	C0241060	Dermal cyst
+1101	C1696701	Dermatillomania
+1102	C0011603	Dermatitis
+1103	C0234894	Dermatitis acneiform
+1104	C0011615	Dermatitis atopic
+1105	C0085932	Dermatitis bullous
+1106	C0011616	Dermatitis contact
+1107	C0011974	Dermatitis diaper
+1108	C0011606	Dermatitis exfoliative
+1109	C1323189	Dermatitis infected
+1110	C0262985	Dermatitis psoriasiform
+1111	C0011633	Dermatomyositis
+1112	C0011636	Dermatophytosis
+1113	C0011649	Dermoid cyst
+1114	C0948862	Detachment of retinal pigment epithelium
+1115	C0011757	Developmental coordination disorder
+1116	C0424605	Developmental delay
+1117	C0020302	Developmental glaucoma
+1118	C0019555	Developmental hip dysplasia
+1119	C0853959	Device breakage
+1120	C2747891	Device capturing issue
+1121	C1608950	Device dislocation
+1122	C0549478	Device expulsion
+1123	C0853893	Device interaction
+1124	C1504465	Device malfunction
+1125	C1608397	Device occlusion
+1126	C1619702	Device related infection
+1127	C2747852	Device related sepsis
+1128	C0011848	Diabetes insipidus
+1129	C0011849	Diabetes mellitus
+1130	C0860160	Diabetes mellitus inadequate control
+1131	C0271686	Diabetic autonomic neuropathy
+1132	C1263960	Diabetic coma
+1133	C0342257	Diabetic complication
+1134	C0744130	Diabetic foot infection
+1135	C0853011	Diabetic hyperglycaemic coma
+1136	C0020457	Diabetic hyperosmolar coma
+1137	C0011880	Diabetic ketoacidosis
+1138	C0011881	Diabetic nephropathy
+1139	C0011882	Diabetic neuropathy
+1140	C0011884	Diabetic retinopathy
+1141	C0011875	Diabetic vascular disorder
+1142	C0019284	Diaphragmatic hernia
+1143	C0011991	Diarrhoea
+1144	C0151594	Diarrhoea haemorrhagic
+1145	C0520863	Diastolic dysfunction
+1146	C0235222	Diastolic hypertension
+1147	C0856050	Diet refusal
+1148	C0406458	Diffuse alopecia
+1149	C0079744	Diffuse large B-cell lymphoma
+1150	C0264734	Dilatation atrial
+1151	C0264733	Dilatation ventricular
+1152	C0221165	Diplegia
+1153	C0012569	Diplopia
+1154	C0231170	Disability
+1155	C0234215	Discomfort
+1156	C0242656	Disease progression
+1157	C0679254	Disease recurrence
+1158	C0424296	Disinhibition
+1159	C0233407	Disorientation
+1160	C0012739	Disseminated intravascular coagulation
+1161	C0152915	Disseminated tuberculosis
+1162	C0086168	Dissociation
+1163	C0012746	Dissociative disorder
+1164	C0233415	Distractibility
+1165	C0233414	Disturbance in attention
+1166	C0855242	Disturbance in sexual arousal
+1167	C0853013	Diverticular perforation
+1168	C0012813	Diverticulitis
+1169	C0012817	Diverticulum
+1170	C1510475	Diverticulum intestinal
+1171	C0012833	Dizziness
+1172	C0234988	Dizziness exertional
+1173	C0234987	Dizziness postural
+1174	C0860514	Dreamy state
+1175	C0013132	Drooling
+1176	C0860207	Drug-induced liver injury
+1177	C0013146	Drug abuse
+1178	C1536055	Drug administration error
+1179	C1510472	Drug dependence
+1180	C0521845	Drug effect decreased
+1181	C0151730	Drug effect increased
+1182	C0392167	Drug effect prolonged
+1183	C0011609	Drug eruption
+1184	C0013182	Drug hypersensitivity
+1185	C0852908	Drug ineffective
+1186	C0687133	Drug interaction
+1187	C0277585	Drug intolerance
+1188	C0854095	Drug level changed
+1189	C0151598	Drug level decreased
+1190	C0151599	Drug level increased
+1191	C1142139	Drug reaction with eosinophilia and systemic symptoms
+1192	C0743295	Drug screen positive
+1193	C0013220	Drug tolerance
+1194	C0521854	Drug tolerance decreased
+1195	C0234547	Drug withdrawal convulsions
+1196	C0152128	Drug withdrawal syndrome
+1197	C0027609	Drug withdrawal syndrome neonatal
+1198	C0314719	Dry eye
+1199	C0043352	Dry mouth
+1200	C0151908	Dry skin
+1201	C0235234	Dry throat
+1202	C0267356	Duodenal perforation
+1203	C0013295	Duodenal ulcer
+1204	C0151966	Duodenal ulcer haemorrhage
+1205	C0740401	Duodenal ulcer perforation
+1206	C0013298	Duodenitis
+1207	C0341245	Duodenitis haemorrhagic
+1208	C0013312	Dupuytren's contracture
+1209	C0013336	Dwarfism
+1210	C1510450	Dysacusis
+1211	C0392699	Dysaesthesia
+1212	C1328291	Dysaesthesia pharynx
+1213	C0013362	Dysarthria
+1214	C0237326	Dyschezia
+1215	C0013369	Dysentery
+1216	C0013378	Dysgeusia
+1217	C0234144	Dysgraphia
+1218	C0032633	Dyshidrotic eczema
+1219	C0013384	Dyskinesia
+1220	C0476254	Dyslexia
+1221	C0242339	Dyslipidaemia
+1222	C0013390	Dysmenorrhoea
+1223	C1737329	Dysmorphism
+1224	C1384606	Dyspareunia
+1225	C0013395	Dyspepsia
+1226	C0011168	Dysphagia
+1227	C1096340	Dysphemia
+1228	C1527344	Dysphonia
+1229	C0233477	Dysphoria
+1230	C0334044	Dysplasia
+1231	C0013404	Dyspnoea
+1232	C2712054	Dyspnoea at rest
+1233	C0231807	Dyspnoea exertional
+1234	C1956415	Dyspnoea paroxysmal nocturnal
+1235	C0700201	Dyssomnia
+1236	C0241237	Dysstasia
+1237	C0013415	Dysthymic disorder
+1238	C0393593	Dystonia
+1239	C0333582	Dystrophic calcification
+1240	C0013428	Dysuria
+1241	C0456495	Ear canal erythema
+1242	C0849796	Ear congestion
+1243	C0948296	Ear discomfort
+1244	C0013447	Ear disorder
+1245	C0271412	Ear haemorrhage
+1246	C0699744	Ear infection
+1247	C0266589	Ear malformation
+1248	C0013456	Ear pain
+1249	C0849907	Ear pruritus
+1250	C0342548	Early menarche
+1251	C0239233	Early satiety
+1252	C0013473	Eating disorder
+1253	C0013491	Ecchymosis
+1254	C1141959	ECG signs of myocardial ischaemia
+1255	C0476369	Echocardiogram abnormal
+1256	C0013528	Echolalia
+1257	C0013537	Eclampsia
+1258	C0001231	Ectopic ACTH syndrome
+1259	C0032987	Ectopic pregnancy
+1260	C0013592	Ectropion
+1261	C0269189	Ectropion of cervix
+1262	C0013595	Eczema
+1263	C0155177	Eczema eyelids
+1264	C0936250	Eczema herpeticum
+1265	C1322253	Eczema infected
+1266	C0013687	Effusion
+1267	C0234047	Ejaculation delayed
+1268	C0235969	Ejaculation disorder
+1269	C0278106	Ejaculation failure
+1270	C0743400	Ejection fraction decreased
+1271	C0221271	Elastosis perforans
+1272	C0013781	Electric shock
+1273	C0522055	Electrocardiogram abnormal
+1274	C0855329	Electrocardiogram change
+1275	C0600125	Electrocardiogram PR prolongation
+1276	C0520878	Electrocardiogram PR shortened
+1277	C0429098	Electrocardiogram QRS complex
+1278	C0438173	Electrocardiogram QRS complex abnormal
+1279	C0235475	Electrocardiogram QRS complex prolonged
+1280	C0429028	Electrocardiogram QT interval
+1281	C1504435	Electrocardiogram QT interval abnormal
+1282	C0151878	Electrocardiogram QT prolonged
+1283	C0151879	Electrocardiogram QT shortened
+1284	C0948857	Electrocardiogram repolarisation abnormality
+1285	C0919620	Electrocardiogram ST-T change
+1286	C0948376	Electrocardiogram ST-T segment abnormal
+1287	C0429029	Electrocardiogram ST segment
+1288	C0855335	Electrocardiogram ST segment abnormal
+1289	C0520887	Electrocardiogram ST segment depression
+1290	C0520886	Electrocardiogram ST segment elevation
+1291	C0438167	Electrocardiogram T wave abnormal
+1292	C0429059	Electrocardiogram T wave amplitude decreased
+1293	C0520888	Electrocardiogram T wave inversion
+1294	C1096355	Electrocardiogram U-wave abnormality
+1295	C0151611	Electroencephalogram abnormal
+1296	C0151614	Electrolyte depletion
+1297	C0342579	Electrolyte imbalance
+1298	C0233479	Elevated mood
+1299	C0262469	Embolic stroke
+1300	C0013922	Embolism
+1301	C0549124	Embolism arterial
+1302	C0340726	Embolism venous
+1303	C0233459	Emotional disorder
+1304	C0700361	Emotional distress
+1305	C0235113	Emotional poverty
+1306	C0034067	Emphysema
+1307	C0392168	Emprosthotonus
+1308	C0014034	Enanthema
+1309	C0014038	Encephalitis
+1310	C0238097	Encephalitis cytomegalovirus
+1311	C0243010	Encephalitis viral
+1312	C0014065	Encephalocele
+1313	C0085584	Encephalopathy
+1314	C0740832	End stage AIDS
+1315	C0553980	Endocardial fibrosis
+1316	C0014118	Endocarditis
+1317	C0014130	Endocrine disorder
+1318	C1153706	Endometrial adenocarcinoma
+1319	C0476089	Endometrial cancer
+1320	C0151622	Endometrial disorder
+1321	C0014173	Endometrial hyperplasia
+1322	C0858833	Endometrial hypertrophy
+1323	C0014170	Endometrial neoplasm
+1324	C0014175	Endometriosis
+1325	C0014179	Endometritis
+1326	C0014236	Endophthalmitis
+1327	C0281803	Endotracheal intubation complication
+1328	C0455769	Energy increased
+1329	C0156394	Enlarged clitoris
+1330	C0014306	Enophthalmos
+1331	C0014335	Enteritis
+1332	C0743525	Enterobacter sepsis
+1333	C0086227	Enterobiasis
+1334	C0854504	Enterococcal bacteraemia
+1335	C0851881	Enterococcal infection
+1336	C0014356	Enterocolitis
+1337	C0151623	Enterocolitis haemorrhagic
+1338	C1142115	Enterocolitis infectious
+1339	C0341318	Enterocutaneous fistula
+1340	C0014394	Enuresis
+1341	C0151625	Enzyme abnormality
+1342	C0014431	Enzyme induction
+1343	C0272195	Eosinopenia
+1344	C0853644	Eosinophil count abnormal
+1345	C2240374	Eosinophil count increased
+1346	C0014457	Eosinophilia
+1347	C0742965	Eosinophilic cystitis
+1348	C0151788	Eosinophilic myocarditis
+1349	C1527407	Eosinophilic pneumonia
+1350	C0406305	Eosinophilic pustular folliculitis
+1351	C0016689	Ephelides
+1352	C0014488	Epicondylitis
+1353	C1697943	Epidermal growth factor receptor decreased
+1354	C0334082	Epidermal naevus
+1355	C1167709	Epidermal necrosis
+1356	C0333472	Epidermolysis
+1357	C0014527	Epidermolysis bullosa
+1358	C0239279	Epididymal tenderness
+1359	C0014534	Epididymitis
+1360	C0238154	Epidural haemorrhage
+1361	C1960509	Epidural lipomatosis
+1362	C1291078	Epigastric discomfort
+1363	C0014541	Epiglottitis
+1364	C0014544	Epilepsy
+1365	C0151628	Epiphyses premature fusion
+1366	C0014571	Epiphysiolysis
+1367	C0014583	Episcleritis
+1368	C0014591	Epistaxis
+1369	C0149678	Epstein-Barr virus infection
+1370	C0242350	Erectile dysfunction
+1371	C0541941	Erection increased
+1372	C0014714	Ergot poisoning
+1373	C0267055	Erosive oesophagitis
+1374	C0014724	Eructation
+1375	C0014733	Erysipelas
+1376	C0041834	Erythema
+1377	C0234906	Erythema annulare
+1378	C0085273	Erythema infectiosum
+1379	C0014742	Erythema multiforme
+1380	C0014743	Erythema nodosum
+1381	C0239454	Erythema of eyelid
+1382	C0014752	Erythrasma
+1383	C0748052	Erythrodermic psoriasis
+1384	C0023440	Erythroleukaemia
+1385	C0014804	Erythromelalgia
+1386	C0221395	Erythropenia
+1387	C0702109	Erythropoiesis abnormal
+1388	C0271211	Erythropsia
+1389	C1112192	Erythrosis
+1390	C0521172	Eschar
+1391	C1096262	Escherichia bacteraemia
+1392	C0854453	Escherichia sepsis
+1393	C0085580	Essential hypertension
+1394	C0040028	Essential thrombocythaemia
+1395	C0270736	Essential tremor
+1396	C0235146	Euphoric mood
+1397	C0271468	Eustachian tube disorder
+1398	C0272126	Evans syndrome
+1399	C0263634	Excessive granulation tissue
+1400	C0015256	Excoriation
+1401	C1608945	Exfoliative rash
+1402	C1306503	Exomphalos
+1403	C0015300	Exophthalmos
+1404	C1442903	Exostosis
+1405	C0522757	Exposure to toxic agent
+1406	C0236826	Expressive language disorder
+1407	C0034935	Extensor plantar response
+1408	C0155388	External ear disorder
+1409	C0270629	Extradural abscess
+1410	C0392788	Extranodal NK/T-cell lymphoma, nasal type
+1411	C0015371	Extrapyramidal disorder
+1412	C0334040	Extraskeletal ossification
+1413	C0340464	Extrasystoles
+1414	C0015376	Extravasation
+1415	C0919768	Extremity contracture
+1416	C1167745	Extremity necrosis
+1417	C0852875	Eye allergy
+1418	C0015395	Eye burns
+1419	C0423006	Eye discharge
+1420	C0015397	Eye disorder
+1421	C0015402	Eye haemorrhage
+1422	C0015403	Eye infection
+1423	C0015407	Eye infection viral
+1424	C0015408	Eye injury
+1425	C0235266	Eye irritation
+1426	C0028850	Eye movement disorder
+1427	C0919866	Eye naevus
+1428	C0743680	Eye oedema
+1429	C0151827	Eye pain
+1430	C0015409	Eye penetration
+1431	C0022281	Eye pruritus
+1432	C0270996	Eye swelling
+1433	C0848383	Eye ulcer
+1434	C1142111	Eyelash discolouration
+1435	C1536145	Eyelash hyperpigmentation
+1436	C1142112	Eyelash thickening
+1437	C0155216	Eyelid bleeding
+1438	C0015423	Eyelid disorder
+1439	C1609496	Eyelid exfoliation
+1440	C0854286	Eyelid function disorder
+1441	C0549322	Eyelid infection
+1442	C1112366	Eyelid irritation
+1443	C0948294	Eyelid margin crusting
+1444	C0162285	Eyelid oedema
+1445	C1142349	Eyelid pain
+1446	C0005745	Eyelid ptosis
+1447	C0234665	Eyelid retraction
+1448	C0849918	Eyelids pruritus
+1449	C0015459	Face injury
+1450	C0542571	Face oedema
+1451	C0159321	Facial bones fracture
+1452	C0015467	Facial neuralgia
+1453	C0015468	Facial pain
+1454	C0427055	Facial paresis
+1455	C0278151	Facial spasm
+1456	C1112303	Facial wasting
+1457	C0001733	Factor I deficiency
+1458	C0020640	Factor II deficiency
+1459	C0019069	Factor VIII deficiency
+1460	C0015523	Factor XI deficiency
+1461	C0015732	Faecal incontinence
+1462	C0015734	Faecalith
+1463	C1321686	Faecaloma
+1464	C0235315	Faeces discoloured
+1465	C0278016	Faeces hard
+1466	C0269806	Failed induction of labour
+1467	C0015544	Failure to thrive
+1468	C0085639	Fall
+1469	C0269173	Fallopian tube cyst
+1470	C0039685	Fallot's tetralogy
+1471	C0393615	Familial tremor
+1472	C0577730	Family stress
+1473	C0015624	Fanconi syndrome
+1474	C0341702	Fanconi syndrome acquired
+1475	C0015645	Fasciitis
+1476	C0015663	Fasting
+1477	C0013928	Fat embolism
+1478	C0239549	Fat intolerance
+1479	C0015668	Fat necrosis
+1480	C0856151	Fat redistribution
+1481	C0235433	Fat tissue increased
+1482	C0015672	Fatigue
+1483	C0015726	Fear
+1484	C1095923	Febrile bone marrow aplasia
+1485	C0009952	Febrile convulsion
+1486	C0746883	Febrile neutropenia
+1487	C1443060	Feeling abnormal
+1488	C0234192	Feeling cold
+1489	C0522172	Feeling drunk
+1490	C2939147	Feeling hot
+1491	C0549209	Feeling jittery
+1492	C0549385	Feeling of body temperature change
+1493	C0233488	Feeling of despair
+1494	C0522165	Feeling of relaxation
+1495	C0855235	Feelings of worthlessness
+1496	C0033948	Female orgasmic disorder
+1497	C0017416	Female reproductive neoplasm
+1498	C0015786	Female sexual arousal disorder
+1499	C1112442	Female sexual dysfunction
+1500	C0877195	Feminisation acquired
+1501	C0015806	Femoral neck fracture
+1502	C0015802	Femur fracture
+1503	C0235839	Fever neonatal
+1504	C0178421	Fibroadenoma of breast
+1505	C0016034	Fibrocystic breast disease
+1506	C0016045	Fibroma
+1507	C0016053	Fibromyalgia
+1508	C0016059	Fibrosis
+1509	C0410740	Finger deformity
+1510	C0016169	Fistula
+1511	C0151629	Fixed eruption
+1512	C0016199	Flank pain
+1513	C0233471	Flat affect
+1514	C0016204	Flatulence
+1515	C0233657	Flight of ideas
+1516	C0270971	Floppy infant
+1517	C1735601	Floppy iris syndrome
+1518	C2364164	Fluid imbalance
+1519	C0426597	Fluid intake reduced
+1520	C0546817	Fluid overload
+1521	C0268000	Fluid retention
+1522	C0852203	Fluoride increased
+1523	C0016325	Fluorosis
+1524	C0016382	Flushing
+1525	C0017668	Focal segmental glomerulosclerosis
+1526	C0410959	Foetal acidosis
+1527	C0015923	Foetal alcohol syndrome
+1528	C1739111	Foetal anticonvulsant syndrome
+1529	C1535919	Foetal chromosome abnormality
+1530	C0854268	Foetal damage
+1531	C0015927	Foetal death
+1532	C0015929	Foetal disorder
+1533	C0015930	Foetal distress syndrome
+1534	C0018811	Foetal heart rate
+1535	C0239571	Foetor hepaticus
+1536	C0016412	Folate deficiency
+1537	C0016436	Folliculitis
+1538	C0235014	Fontanelle bulging
+1539	C0016470	Food allergy
+1540	C0877173	Food aversion
+1541	C0872380	Food craving
+1542	C0242784	Food interaction
+1543	C3665356	Food intolerance
+1544	C0016479	Food poisoning
+1545	C0016514	Foot and mouth disease
+1546	C0272774	Foot fracture
+1547	C0520837	Forced expiratory volume decreased
+1548	C0016542	Foreign body
+1549	C0015401	Foreign body in eye
+1550	C0920171	Foreign body sensation in eyes
+1551	C0016579	Formication
+1552	C0428167	Fraction of inspired oxygen
+1553	C0016658	Fracture
+1554	C1096506	Free prostate-specific antigen increased
+1555	C1262022	Freezing phenomenon
+1556	C0239978	Frequent bowel movements
+1557	C0016751	Fructose intolerance
+1558	C0016770	Frustration
+1559	C0559031	Functional gastrointestinal disorder
+1560	C0085082	Fungaemia
+1561	C0026946	Fungal infection
+1562	C0401013	Fungal peritonitis
+1563	C0744235	Fungal sepsis
+1564	C0011630	Fungal skin infection
+1565	C1167761	Fungal test positive
+1566	C0242301	Furuncle
+1567	C0575081	Gait disturbance
+1568	C0235660	Galactorrhoea
+1569	C0153452	Gallbladder cancer
+1570	C0016977	Gallbladder disorder
+1571	C0262493	Gallbladder polyp
+1572	C0151662	Gamma-glutamyltransferase increased
+1573	C0017086	Gangrene
+1574	C0017105	Gas gangrene
+1575	C0152020	Gastric atony
+1576	C0024623	Gastric cancer
+1577	C0038353	Gastric dilatation
+1578	C0038354	Gastric disorder
+1579	C0235325	Gastric haemorrhage
+1580	C0235884	Gastric perforation
+1581	C1168034	Gastric pH decreased
+1582	C0236048	Gastric polyps
+1583	C0038358	Gastric ulcer
+1584	C0341164	Gastric ulcer haemorrhage
+1585	C0948036	Gastric ulcer helicobacter
+1586	C0341163	Gastric ulcer perforation
+1587	C0017150	Gastrinoma
+1588	C0017152	Gastritis
+1589	C2243088	Gastritis erosive
+1590	C2010560	Gastritis haemorrhagic
+1591	C0563238	Gastritis viral
+1592	C0267166	Gastroduodenitis
+1593	C0017160	Gastroenteritis
+1594	C0343361	Gastroenteritis adenovirus
+1595	C0558348	Gastroenteritis bacterial
+1596	C0036114	Gastroenteritis salmonella
+1597	C0853198	Gastroenteritis yersinia
+1598	C0343886	Gastrointestinal candidiasis
+1599	C0151544	Gastrointestinal carcinoma
+1600	C0017178	Gastrointestinal disorder
+1601	C0341212	Gastrointestinal fistula
+1602	C0729549	Gastrointestinal fungal infection
+1603	C0017181	Gastrointestinal haemorrhage
+1604	C0948395	Gastrointestinal hypermotility
+1605	C0948779	Gastrointestinal hypomotility
+1606	C1264613	Gastrointestinal infection
+1607	C1535950	Gastrointestinal inflammation
+1608	C0012241	Gastrointestinal malformation
+1609	C0854121	Gastrointestinal motility disorder
+1610	C0852925	Gastrointestinal necrosis
+1611	C0017185	Gastrointestinal neoplasm
+1612	C0236124	Gastrointestinal obstruction
+1613	C0687713	Gastrointestinal pain
+1614	C0151664	Gastrointestinal perforation
+1615	C1963818	Gastrointestinal sounds abnormal
+1616	C1696157	Gastrointestinal stoma complication
+1617	C0238198	Gastrointestinal stromal tumour
+1618	C1142499	Gastrointestinal toxicity
+1619	C2697368	Gastrointestinal tract irritation
+1620	C0237938	Gastrointestinal ulcer
+1621	C1112525	Gastrointestinal ulcer haemorrhage
+1622	C0858346	Gastrointestinal ulcer perforation
+1623	C0017168	Gastrooesophageal reflux disease
+1624	C1328327	Gastrooesophageal sphincter insufficiency
+1625	C0392034	Gastrooesophagitis
+1626	C1112261	Gaze palsy
+1627	C0877211	General physical health deterioration
+1628	C0159028	General symptom
+1629	C0270549	Generalised anxiety disorder
+1630	C0849916	Generalised erythema
+1631	C0151603	Generalised oedema
+1632	C0032529	Genetic polymorphism
+1633	C1096300	Genital burning sensation
+1634	C0343863	Genital candidiasis
+1635	C1112274	Genital discharge
+1636	C1868730	Genital discomfort
+1637	C0017411	Genital disorder female
+1638	C0017412	Genital disorder male
+1639	C0854381	Genital haemorrhage
+1640	C0019342	Genital herpes
+1641	C2609096	Genital hypoaesthesia
+1642	C0729552	Genital infection
+1643	C0740330	Genital infection fungal
+1644	C0564768	Genital infection male
+1645	C0560637	Genital injury
+1646	C0744369	Genital lesion
+1647	C0239725	Genital pain
+1648	C0239729	Genital rash
+1649	C1963789	Genital swelling
+1650	C0151281	Genital ulceration
+1651	C0589616	Genitourinary chlamydia infection
+1652	C1279247	Genitourinary tract infection
+1653	C0042065	Genitourinary tract neoplasm
+1654	C0085207	Gestational diabetes
+1655	C0340274	Gestational hypertension
+1656	C0017551	Gilbert's syndrome
+1657	C0149892	Gingival abscess
+1658	C0017565	Gingival bleeding
+1659	C0877639	Gingival blister
+1660	C0017563	Gingival disorder
+1661	C0239735	Gingival erythema
+1662	C0017566	Gingival hyperplasia
+1663	C0017567	Gingival hypertrophy
+1664	C0744403	Gingival infection
+1665	C0277986	Gingival oedema
+1666	C0239739	Gingival pain
+1667	C0017572	Gingival recession
+1668	C0235324	Gingival swelling
+1669	C0392378	Gingival ulceration
+1670	C0017574	Gingivitis
+1671	C1142017	Glabellar reflex abnormal
+1672	C0017601	Glaucoma
+1673	C0017636	Glioblastoma
+1674	C1621958	Glioblastoma multiforme
+1675	C0017638	Glioma
+1676	C0151665	Globulins decreased
+1677	C0853068	Glomerular filtration rate decreased
+1678	C0017658	Glomerulonephritis
+1679	C0017662	Glomerulonephritis membranoproliferative
+1680	C0017665	Glomerulonephritis membranous
+1681	C1704320	Glomerulonephritis minimal lesion
+1682	C0221239	Glomerulonephritis rapidly progressive
+1683	C0268731	Glomerulonephropathy
+1684	C0017675	Glossitis
+1685	C0017672	Glossodynia
+1686	C0852696	Glucocorticoids decreased
+1687	C2939465	Glucose-6-phosphate dehydrogenase deficiency
+1688	C0151671	Glucose tolerance decreased
+1689	C0271650	Glucose tolerance impaired
+1690	C0017979	Glycosuria
+1691	C0855304	Glycosylated haemoglobin decreased
+1692	C0239940	Glycosylated haemoglobin increased
+1693	C0018021	Goitre
+1694	C0018081	Gonorrhoea
+1695	C0403529	Goodpasture's syndrome
+1696	C0018099	Gout
+1697	C0003868	Gouty arthritis
+1698	C0221248	Gouty tophus
+1699	C0274312	Graft complication
+1700	C1167870	Graft dysfunction
+1701	C0877042	Graft loss
+1702	C0919939	Graft thrombosis
+1703	C0018133	Graft versus host disease
+1704	C0014549	Grand mal convulsion
+1705	C1282609	Granulocytosis
+1706	C0018188	Granuloma
+1707	C0085074	Granuloma annulare
+1708	C0151684	Granuloma skin
+1709	C3495801	Granulomatosis with polyangiitis
+1710	C0860210	Granulomatous liver disease
+1711	C0235437	Gravitational oedema
+1712	C0270276	Grey syndrome neonatal
+1713	C0239779	Grimacing
+1714	C0239783	Groin pain
+1715	C0151685	Growth accelerated
+1716	C0423847	Growth of eyelashes
+1717	C0151686	Growth retardation
+1718	C0018378	Guillain-Barre syndrome
+1719	C0018418	Gynaecomastia
+1720	C0018916	Haemangioma
+1721	C0235753	Haemangioma congenital
+1722	C0018924	Haemarthrosis
+1723	C0018926	Haematemesis
+1724	C0018932	Haematochezia
+1725	C0744727	Haematocrit decreased
+1726	C0239935	Haematocrit increased
+1727	C0376545	Haematological malignancy
+1728	C1112712	Haematology test abnormal
+1729	C0018944	Haematoma
+1730	C0149707	Haematospermia
+1731	C0920103	Haematotoxicity
+1732	C0018965	Haematuria
+1733	C0018994	Haemobilia
+1734	C0018995	Haemochromatosis
+1735	C0948268	Haemodynamic instability
+1736	C0518015	Haemoglobin
+1737	C0349705	Haemoglobin abnormal
+1738	C0162119	Haemoglobin decreased
+1739	C0549448	Haemoglobin increased
+1740	C0474529	Haemoglobin normal
+1741	C0235573	Haemoglobinaemia
+1742	C0019048	Haemoglobinuria
+1743	C0019054	Haemolysis
+1744	C0002878	Haemolytic anaemia
+1745	C0019061	Haemolytic uraemic syndrome
+1746	C0684275	Haemophilia
+1747	C0019079	Haemoptysis
+1748	C0019080	Haemorrhage
+1749	C0269596	Haemorrhage in pregnancy
+1750	C0151699	Haemorrhage intracranial
+1751	C0854107	Haemorrhage subcutaneous
+1752	C0235620	Haemorrhage urinary tract
+1753	C0948824	Haemorrhagic anaemia
+1754	C0019087	Haemorrhagic disorder
+1755	C2242494	Haemorrhagic erosive gastritis
+1756	C0473311	Haemorrhagic ovarian cyst
+1757	C0553692	Haemorrhagic stroke
+1758	C1167785	Haemorrhagic urticaria
+1759	C0265031	Haemorrhoidal haemorrhage
+1760	C0019112	Haemorrhoids
+1761	C0019123	Haemothorax
+1762	C0474378	Hair colour changes
+1763	C0018500	Hair disorder
+1764	C0232409	Hair growth abnormal
+1765	C0235807	Hair texture abnormal
+1766	C0018524	Hallucination
+1767	C0233762	Hallucination, auditory
+1768	C0233767	Hallucination, tactile
+1769	C0233763	Hallucination, visual
+1770	C0855223	Hallucinations, mixed
+1771	C0422974	Halo vision
+1772	C0018552	Hamartoma
+1773	C0852711	Hand and foot syndrome secondary to sickle cell anaemia
+1774	C0239816	Hand dermatitis
+1775	C0435632	Hand fracture
+1776	C0221100	Hangover
+1777	C0236061	Haptoglobin increased
+1778	C0235002	Head discomfort
+1779	C0018674	Head injury
+1780	C1141884	Head lag abnormal
+1781	C1608410	Head titubation
+1782	C0018681	Headache
+1783	C1384666	Hearing impaired
+1784	C0919661	Heart alternation
+1785	C0152021	Heart disease congenital
+1786	C1744601	Heart rate abnormal
+1787	C0237314	Heart rate irregular
+1788	C0577822	Heart sounds abnormal
+1789	C0018839	Heat exhaustion
+1790	C0018843	Heat stroke
+1791	C0343378	Helicobacter gastritis
+1792	C0079487	Helicobacter infection
+1793	C0162739	HELLP syndrome
+1794	C0018979	Hemianopia
+1795	C0018989	Hemiparesis
+1796	C0018991	Hemiplegia
+1797	C0034152	Henoch-Schonlein purpura
+1798	C0272285	Heparin-induced thrombocytopenia
+1799	C0541760	Hepatic adenoma
+1800	C0345907	Hepatic angiosarcoma
+1801	C0392106	Hepatic artery thrombosis
+1802	C0391996	Hepatic atrophy
+1803	C0345904	Hepatic cancer
+1804	C0856554	Hepatic cancer metastatic
+1805	C0023890	Hepatic cirrhosis
+1806	C0267821	Hepatic congestion
+1807	C0267834	Hepatic cyst
+1808	C0019151	Hepatic encephalopathy
+1809	C0438237	Hepatic enzyme abnormal
+1810	C1261989	Hepatic enzyme decreased
+1811	C0235996	Hepatic enzyme increased
+1812	C0085605	Hepatic failure
+1813	C0239946	Hepatic fibrosis
+1814	C0086565	Hepatic function abnormal
+1815	C0235912	Hepatic haemorrhage
+1816	C1611157	Hepatic infiltration eosinophilic
+1817	C0151798	Hepatic necrosis
+1818	C0023903	Hepatic neoplasm
+1819	C0522067	Hepatic pain
+1820	C2711227	Hepatic steatosis
+1821	C1142158	Hepatic vein occlusion
+1822	C0019154	Hepatic vein thrombosis
+1823	C0019158	Hepatitis
+1824	C0019159	Hepatitis A
+1825	C0267797	Hepatitis acute
+1826	C0019187	Hepatitis alcoholic
+1827	C0019163	Hepatitis B
+1828	C0392390	Hepatitis B e antigen positive
+1829	C0149709	Hepatitis B surface antigen positive
+1830	C0019196	Hepatitis C
+1831	C0281863	Hepatitis C antibody positive
+1832	C0149904	Hepatitis cholestatic
+1833	C0520463	Hepatitis chronic active
+1834	C0854495	Hepatitis F
+1835	C0302809	Hepatitis fulminant
+1836	C0019193	Hepatitis toxic
+1837	C0042721	Hepatitis viral
+1838	C0267792	Hepatobiliary disease
+1839	C0206624	Hepatoblastoma
+1840	C2239176	Hepatocellular carcinoma
+1841	C0151763	Hepatocellular injury
+1842	C0019209	Hepatomegaly
+1843	C0019212	Hepatorenal syndrome
+1844	C1333984	Hepatosplenic T-cell lymphoma
+1845	C0019214	Hepatosplenomegaly
+1846	C0235378	Hepatotoxicity
+1847	C0019243	Hereditary angioedema
+1848	C0019270	Hernia
+1849	C0235832	Hernia congenital
+1850	C0877134	Hernia pain
+1851	C0019338	Herpangina
+1852	C1262170	Herpes dermatitis
+1853	C0019348	Herpes simplex
+1854	C0276226	Herpes simplex encephalitis
+1855	C1963747	Herpes simplex hepatitis
+1856	C0019372	Herpes virus infection
+1857	C0019360	Herpes zoster
+1858	C3489393	Hiatus hernia
+1859	C0019521	Hiccups
+1860	C0085160	Hidradenitis
+1861	C0151691	High density lipoprotein decreased
+1862	C0853084	High density lipoprotein increased
+1863	C1262165	High turnover osteopathy
+1864	C0019557	Hip fracture
+1865	C0019572	Hirsutism
+1866	C0019618	Histiocytosis
+1867	C0876991	Histiocytosis haematophagic
+1868	C0019655	Histoplasmosis
+1869	C0078911	HIV associated nephropathy
+1870	C0019829	Hodgkin's disease
+1871	C0152267	Hodgkin's disease lymphocyte depletion type stage unspecified
+1872	C1266194	Hodgkin's disease lymphocyte predominance type stage unspecified
+1873	C1167750	Hoigne's syndrome
+1874	C0455204	Homicidal ideation
+1875	C0019880	Homocystinuria
+1876	C0019917	Hordeolum
+1877	C3160891	Hormone-dependent prostate cancer
+1878	C0151477	Hormone level abnormal
+1879	C0019937	Horner's syndrome
+1880	C0020039	Hostility
+1881	C0600142	Hot flush
+1882	C0339807	House dust allergy
+1883	C0854530	Human herpesvirus 6 infection
+1884	C0020162	Humerus fracture
+1885	C0020175	Hunger
+1886	C1720771	Hydrocele
+1887	C0020255	Hydrocephalus
+1888	C0948277	Hydrometra
+1889	C0020295	Hydronephrosis
+1890	C0020305	Hydrops foetalis
+1891	C0020312	Hydrothorax
+1892	C0521620	Hydroureter
+1893	C0034880	Hyperacusis
+1894	C0001622	Hyperadrenocorticism
+1895	C0020452	Hyperaemia
+1896	C0020453	Hyperaesthesia
+1897	C1142113	Hyperalbuminaemia
+1898	C0220994	Hyperammonaemia
+1899	C0221773	Hyperamylasaemia
+1900	C0020433	Hyperbilirubinaemia
+1901	C0020437	Hypercalcaemia
+1902	C0149911	Hypercalcaemia of malignancy
+1903	C0020438	Hypercalciuria
+1904	C0020440	Hypercapnia
+1905	C0085679	Hyperchloraemia
+1906	C0151713	Hyperchlorhydria
+1907	C0020443	Hypercholesterolaemia
+1908	C0542027	Hypercoagulation
+1909	C0020450	Hyperemesis gravidarum
+1910	C0919890	Hyperfibrinogenaemia
+1911	C0020455	Hypergammaglobulinaemia
+1912	C0020456	Hyperglycaemia
+1913	C0020458	Hyperhidrosis
+1914	C0020459	Hyperinsulinism
+1915	C0020461	Hyperkalaemia
+1916	C0870082	Hyperkeratosis
+1917	C0424295	Hyperkinesia
+1918	C0795692	Hyperlactacidaemia
+1919	C0020473	Hyperlipidaemia
+1920	C0151714	Hypermagnesaemia
+1921	C0268621	Hypermethioninaemia
+1922	C0020488	Hypernatraemia
+1923	C0020502	Hyperparathyroidism
+1924	C0221002	Hyperparathyroidism primary
+1925	C0020503	Hyperparathyroidism secondary
+1926	C0020429	Hyperpathia
+1927	C0020505	Hyperphagia
+1928	C0085681	Hyperphosphataemia
+1929	C0020507	Hyperplasia
+1930	C0020514	Hyperprolactinaemia
+1931	C0267988	Hyperproteinaemia
+1932	C0392676	Hyperpyrexia
+1933	C0151889	Hyperreflexia
+1934	C0020517	Hypersensitivity
+1935	C0312420	Hypersexuality
+1936	C0917799	Hypersomnia
+1937	C0020532	Hypersplenism
+1938	C0020538	Hypertension
+1939	C0020546	Hypertensive crisis
+1940	C0151620	Hypertensive encephalopathy
+1941	C0848548	Hypertensive nephropathy
+1942	C0020550	Hyperthyroidism
+1943	C0026826	Hypertonia
+1944	C0878773	Hypertonic bladder
+1945	C2242708	Hypertransaminasaemia
+1946	C0020555	Hypertrichosis
+1947	C0020557	Hypertriglyceridaemia
+1948	C0007194	Hypertrophic cardiomyopathy
+1949	C0178703	Hypertrophic osteoarthropathy
+1950	C0162810	Hypertrophic scar
+1951	C0020564	Hypertrophy
+1952	C0740394	Hyperuricaemia
+1953	C0948643	Hyperuricosuria
+1954	C0020578	Hyperventilation
+1955	C0235013	Hypervigilance
+1956	C0221030	Hyperviscosity syndrome
+1957	C0020579	Hypervitaminosis A
+1958	C1442839	Hypervitaminosis D
+1959	C0020581	Hyphaema
+1960	C0233773	Hypnagogic hallucination
+1961	C0424082	Hypnopompic hallucination
+1962	C0020580	Hypoaesthesia
+1963	C0854097	Hypoaesthesia eye
+1964	C0521592	Hypoaesthesia oral
+1965	C0239981	Hypoalbuminaemia
+1966	C0020595	Hypoaldosteronism
+1967	C0020598	Hypocalcaemia
+1968	C0020599	Hypocalciuria
+1969	C0085383	Hypocapnia
+1970	C0085680	Hypochloraemia
+1971	C0151718	Hypocholesterolaemia
+1972	C0020604	Hypochondriasis
+1973	C0333912	Hypochromasia
+1974	C0002884	Hypochromic anaemia
+1975	C0553681	Hypofibrinogenaemia
+1976	C0086438	Hypogammaglobulinaemia
+1977	C0151934	Hypogeusia
+1978	C0020615	Hypoglycaemia
+1979	C0158986	Hypoglycaemia neonatal
+1980	C0020617	Hypoglycaemic coma
+1981	C0877056	Hypoglycaemic seizure
+1982	C1737211	Hypoglycaemic unconsciousness
+1983	C0020619	Hypogonadism
+1984	C0151721	Hypogonadism male
+1985	C0020620	Hypohidrosis
+1986	C0020621	Hypokalaemia
+1987	C0086439	Hypokinesia
+1988	C0342892	Hypolipidaemia
+1989	C0151723	Hypomagnesaemia
+1990	C0241934	Hypomania
+1991	C0020624	Hypomenorrhoea
+1992	C0020625	Hyponatraemia
+1993	C0020626	Hypoparathyroidism
+1994	C0442856	Hypoperfusion
+1995	C1504561	Hypophagia
+1996	C0085682	Hypophosphataemia
+1997	C1704375	Hypophosphataemic rickets
+1998	C0020635	Hypopituitarism
+1999	C0178416	Hypoplastic anaemia
+2000	C0235546	Hypopnoea
+2001	C0020639	Hypoproteinaemia
+2002	C3203356	Hypoprothrombinaemia
+2003	C0020641	Hypopyon
+2004	C0151888	Hyporeflexia
+2005	C2364082	Hyposmia
+2006	C0232831	Hyposthenuria
+2007	C0020649	Hypotension
+2008	C0413252	Hypothermia
+2009	C1142523	Hypothrombinaemia
+2010	C0020676	Hypothyroidism
+2011	C0026827	Hypotonia
+2012	C2267233	Hypotonia neonatal
+2013	C0549384	Hypotonic-hyporesponsive episode
+2014	C0028841	Hypotony of eye
+2015	C0020678	Hypotrichosis
+2016	C0221333	Hypouricaemia
+2017	C3203358	Hypoventilation
+2018	C1510471	Hypovitaminosis
+2019	C0546884	Hypovolaemia
+2020	C0020683	Hypovolaemic shock
+2021	C0242184	Hypoxia
+2022	C1140716	Hypoxic-ischaemic encephalopathy
+2023	C0020757	Ichthyosis
+2024	C0263386	Ichthyosis acquired
+2025	C1504431	Idiopathic pneumonia syndrome
+2026	C1800706	Idiopathic pulmonary fibrosis
+2027	C0043117	Idiopathic thrombocytopenic purpura
+2028	C0919578	Idiosyncratic drug reaction
+2029	C0028866	IIIrd nerve paralysis
+2030	C0559938	Ileal perforation
+2031	C0520564	Ileal ulcer
+2032	C0020877	Ileitis
+2033	C1258215	Ileus
+2034	C0030446	Ileus paralytic
+2035	C2047937	Ill-defined disorder
+2036	C0020903	Illusion
+2037	C1868821	Immediate post-injection reaction
+2038	C0231441	Immobile
+2039	C3267047	Immune-mediated necrotising myopathy
+2040	C0021053	Immune system disorder
+2041	C0021051	Immunodeficiency
+2042	C0151728	Immunoglobulins decreased
+2043	C0151729	Immunoglobulins increased
+2044	C0021061	Immunology test
+2045	C0948257	Immunosuppressant drug level increased
+2046	C0021080	Immunosuppression
+2047	C1272092	Impaired fasting glucose
+2048	C0522063	Impaired gastric emptying
+2049	C0151692	Impaired healing
+2050	C0919568	Impatience
+2051	C0152436	Imperforate hymen
+2052	C0021099	Impetigo
+2053	C1504452	Implant site pain
+2054	C0521510	Implant site reaction
+2055	C0021122	Impulse-control disorder
+2056	C0233467	Inappropriate affect
+2057	C0021141	Inappropriate antidiuretic hormone secretion
+2058	C1142172	Incision site complication
+2059	C1168175	Incision site haematoma
+2060	C0919882	Incision site haemorrhage
+2061	C1698400	Incision site oedema
+2062	C1142257	Incision site pain
+2063	C0267716	Incisional hernia
+2064	C0542044	Incoherent
+2065	C0854210	Incomplete precocious puberty
+2066	C0021167	Incontinence
+2067	C0232461	Increased appetite
+2068	C1262144	Increased bronchial secretion
+2069	C0235409	Increased insulin requirement
+2070	C0423798	Increased tendency to bruise
+2071	C1328308	Increased upper airway secretion
+2072	C1096275	Increased viscosity of bronchial secretion
+2073	C0332534	Induration
+2074	C0021308	Infarction
+2075	C0850638	Infected bites
+2076	C1142249	Infected cyst
+2077	C0009450	Infection
+2078	C0747256	Infection parasitic
+2079	C3160756	Infection reactivation
+2080	C0236171	Infection susceptibility increased
+2081	C0021345	Infectious mononucleosis
+2082	C0158353	Infective myositis
+2083	C0847403	Infective tenosynovitis
+2084	C0265072	Inferior vena cava syndrome
+2085	C0021359	Infertility
+2086	C0021361	Infertility female
+2087	C0021364	Infertility male
+2088	C1384353	Infestation
+2089	C0021368	Inflammation
+2090	C0021390	Inflammatory bowel disease
+2091	C0021400	Influenza
+2092	C0521839	Influenza like illness
+2093	C1167677	Infrequent bowel movements
+2094	C0948715	Infusion related reaction
+2095	C0877365	Infusion site erythema
+2096	C1608954	Infusion site extravasation
+2097	C1695896	Infusion site hypersensitivity
+2098	C1096034	Infusion site induration
+2099	C1096714	Infusion site infection
+2100	C1112470	Infusion site inflammation
+2101	C1695897	Infusion site irritation
+2102	C0919986	Infusion site oedema
+2103	C1096035	Infusion site pain
+2104	C1697973	Infusion site paraesthesia
+2105	C1096460	Infusion site phlebitis
+2106	C1096091	Infusion site pruritus
+2107	C1167945	Infusion site rash
+2108	C1096343	Infusion site reaction
+2109	C1096049	Infusion site swelling
+2110	C1697542	Infusion site thrombosis
+2111	C1698976	Infusion site urticaria
+2112	C1096036	Infusion site warmth
+2113	C0027343	Ingrowing nail
+2114	C0263492	Ingrown hair
+2115	C0019294	Inguinal hernia
+2116	C0393760	Initial insomnia
+2117	C0151464	Injection site abscess
+2118	C0234938	Injection site abscess sterile
+2119	C0151512	Injection site atrophy
+2120	C0521508	Injection site bruising
+2121	C0919590	Injection site cellulitis
+2122	C0919593	Injection site coldness
+2123	C0151584	Injection site cyst
+2124	C0521505	Injection site dermatitis
+2125	C0948991	Injection site discolouration
+2126	C1096267	Injection site discomfort
+2127	C1868843	Injection site dryness
+2128	C0852625	Injection site erythema
+2129	C2363949	Injection site exfoliation
+2130	C0521500	Injection site extravasation
+2131	C0151649	Injection site fibrosis
+2132	C0085654	Injection site granuloma
+2133	C0542008	Injection site haematoma
+2134	C0151698	Injection site haemorrhage
+2135	C0151726	Injection site hypersensitivity
+2136	C0854442	Injection site hypertrophy
+2137	C0521509	Injection site induration
+2138	C0221714	Injection site infection
+2139	C0151734	Injection site inflammation
+2140	C1737214	Injection site injury
+2141	C0521498	Injection site irritation
+2142	C0877179	Injection site joint pain
+2143	C0151775	Injection site mass
+2144	C0151795	Injection site necrosis
+2145	C0542120	Injection site nodule
+2146	C0151828	Injection site pain
+2147	C1735322	Injection site pallor
+2148	C0521506	Injection site paraesthesia
+2149	C0542149	Injection site phlebitis
+2150	C0852995	Injection site pruritus
+2151	C0151735	Injection site reaction
+2152	C0151605	Injection site swelling
+2153	C0521501	Injection site thrombosis
+2154	C0521507	Injection site ulcer
+2155	C0392196	Injection site urticaria
+2156	C0854431	Injection site vesicles
+2157	C0858934	Injection site warmth
+2158	C3263723	Injury
+2159	C2747853	Injury associated with device
+2160	C0494559	Inner ear disorder
+2161	C0917801	Insomnia
+2162	C1096668	Instillation site irritation
+2163	C0858797	Instillation site pain
+2164	C0854359	Insulin autoimmune syndrome
+2165	C0861020	Insulin C-peptide decreased
+2166	C0861021	Insulin C-peptide increased
+2167	C0021655	Insulin resistance
+2168	C0021670	Insulinoma
+2169	C1696685	Intentional drug misuse
+2170	C0853089	Intentional self-injury
+2171	C0021775	Intermittent claudication
+2172	C0021776	Intermittent explosive disorder
+2173	C0580417	International normalised ratio abnormal
+2174	C0853226	International normalised ratio decreased
+2175	C0853225	International normalised ratio increased
+2176	C0206062	Interstitial lung disease
+2177	C0021807	Intertrigo
+2178	C0014718	Intertrigo candida
+2179	C0158266	Intervertebral disc degeneration
+2180	C0158252	Intervertebral disc disorder
+2181	C0242362	Intervertebral disc protrusion
+2182	C0012624	Intervertebral discitis
+2183	C1608953	Intestinal diaphragm disease
+2184	C0267373	Intestinal haemorrhage
+2185	C0241950	Intestinal infarction
+2186	C2004435	Intestinal ischaemia
+2187	C1142163	Intestinal mass
+2188	C0021843	Intestinal obstruction
+2189	C0021845	Intestinal perforation
+2190	C0267465	Intestinal stenosis
+2191	C0151971	Intestinal ulcer
+2192	C0473120	Intra-abdominal haematoma
+2193	C0236178	Intra-abdominal haemorrhage
+2194	C0876998	Intracardiac thrombus
+2195	C0007766	Intracranial aneurysm
+2196	C0151740	Intracranial pressure increased
+2197	C0338573	Intracranial venous sinus thrombosis
+2198	C1868790	Intranasal hypoaesthesia
+2199	C0234708	Intraocular pressure increased
+2200	C0240059	Intraventricular haemorrhage
+2201	C0021933	Intussusception
+2202	C0022073	Iridocyclitis
+2203	C0154933	Iris adhesions
+2204	C0022078	Iris disorder
+2205	C0877306	Iris hyperpigmentation
+2206	C0022081	Iritis
+2207	C1283048	Iron binding capacity total
+2208	C0240066	Iron deficiency
+2209	C0162316	Iron deficiency anaemia
+2210	C0282193	Iron overload
+2211	C0022107	Irritability
+2212	C0022104	Irritable bowel syndrome
+2213	C0022116	Ischaemia
+2214	C0349782	Ischaemic cardiomyopathy
+2215	C1262005	Ischaemic cerebral infarction
+2216	C0473117	Ischaemic hepatitis
+2217	C0238309	Ischaemic neuropathy
+2218	C0948008	Ischaemic stroke
+2219	C0259756	Jarisch-Herxheimer reaction
+2220	C0022346	Jaundice
+2221	C0022354	Jaundice cholestatic
+2222	C1262535	Jaundice hepatocellular
+2223	C0022353	Jaundice neonatal
+2224	C0022362	Jaw disorder
+2225	C0580181	Jessner's lymphocytic infiltration
+2226	C0009918	Joint contracture
+2227	C0231592	Joint crepitation
+2228	C0012691	Joint dislocation
+2229	C1253936	Joint effusion
+2230	C0231451	Joint hyperextension
+2231	C0409497	Joint injury
+2232	C0022410	Joint instability
+2233	C0547000	Joint lock
+2234	C0877027	Joint range of motion decreased
+2235	C0162298	Joint stiffness
+2236	C0152031	Joint swelling
+2237	C0233818	Judgement impaired
+2238	C3495559	Juvenile idiopathic arthritis
+2239	C0036220	Kaposi's sarcoma
+2240	C0022504	Kaposi's varicelliform eruption
+2241	C0022541	Kearns-Sayre syndrome
+2242	C0022548	Keloid scar
+2243	C0022568	Keratitis
+2244	C0022572	Keratoacanthoma
+2245	C0022578	Keratoconus
+2246	C0235270	Keratopathy
+2247	C0263383	Keratosis pilaris
+2248	C0220982	Ketoacidosis
+2249	C0259972	Ketogenic diet
+2250	C0162275	Ketonuria
+2251	C0022638	Ketosis
+2252	C0151650	Kidney fibrosis
+2253	C0021313	Kidney infection
+2254	C0745528	Klebsiella sepsis
+2255	C0022735	Klinefelter's syndrome
+2256	C0576091	Knee deformity
+2257	C0263367	Koebner phenomenon
+2258	C2609176	Kounis syndrome
+2259	C0022821	Kyphosis
+2260	C0428895	Labile blood pressure
+2261	C3665418	Labile hypertension
+2262	C0438215	Laboratory test abnormal
+2263	C0022893	Labyrinthitis
+2264	C0043246	Laceration
+2265	C0855217	Lack of spontaneous speech
+2266	C0022904	Lacrimal disorder
+2267	C3495920	Lacrimal structural disorder
+2268	C0235857	Lacrimation decreased
+2269	C0152227	Lacrimation increased
+2270	C0302813	Lactase deficiency
+2271	C0001125	Lactic acidosis
+2272	C0022951	Lactose intolerance
+2273	C0333559	Lacunar infarction
+2274	C0019621	Langerhans' cell histiocytosis
+2275	C0948425	Large intestinal haemorrhage
+2276	C0460048	Large intestinal obstruction
+2277	C0267491	Large intestinal ulcer
+2278	C0151738	Large intestine perforation
+2279	C0949059	Large intestine polyp
+2280	C0007107	Laryngeal cancer
+2281	C0023051	Laryngeal disorder
+2282	C1697747	Laryngeal haemorrhage
+2283	C0023055	Laryngeal neoplasm
+2284	C0023052	Laryngeal oedema
+2285	C0549373	Laryngeal pain
+2286	C0023067	Laryngitis
+2287	C0023066	Laryngospasm
+2288	C0235551	Laryngotracheal oedema
+2289	C0948266	Latent tetany
+2290	C1609538	Latent tuberculosis
+2291	C0751265	Learning disability
+2292	C0023186	Learning disorder
+2293	C0242698	Left ventricular dysfunction
+2294	C0023212	Left ventricular failure
+2295	C0149721	Left ventricular hypertrophy
+2296	C0023267	Leiomyoma
+2297	C1510497	Lenticular opacities
+2298	C0151757	Lenticular pigmentation
+2299	C0023321	Lentigo
+2300	C0023370	Leriche syndrome
+2301	C0023380	Lethargy
+2302	C0023418	Leukaemia
+2303	C0948976	Leukaemia cutis
+2304	C0023501	Leukaemoid reaction
+2305	C2973529	Leukocytoclastic vasculitis
+2306	C0023518	Leukocytosis
+2307	C0162835	Leukoderma
+2308	C0270612	Leukoencephalopathy
+2309	C0023530	Leukopenia
+2310	C0023531	Leukoplakia
+2311	C0023532	Leukoplakia oral
+2312	C0282548	Leukostasis
+2313	C0576702	Lhermitte's sign
+2314	C0011124	Libido decreased
+2315	C0854382	Libido disorder
+2316	C0021177	Libido increased
+2317	C0023646	Lichen planus
+2318	C0023653	Lichenification
+2319	C1274594	Lichenoid keratosis
+2320	C3495827	Lid sulcus deepened
+2321	C0435001	Ligament injury
+2322	C0435002	Ligament sprain
+2323	C0475746	Light anaesthesia
+2324	C0239337	Limb deformity
+2325	C0854303	Limb discomfort
+2326	C0743668	Limb injury
+2327	C0206762	Limb malformation
+2328	C0265547	Limb reduction defect
+2329	C0406650	Linear IgA disease
+2330	C0858751	Lip blister
+2331	C0555724	Lip dry
+2332	C0849835	Lip haemorrhage
+2333	C0541923	Lip oedema
+2334	C0267028	Lip pain
+2335	C0240211	Lip swelling
+2336	C0267033	Lip ulceration
+2337	C1096303	Lipase abnormal
+2338	C0549475	Lipase increased
+2339	C0154251	Lipid metabolism disorder
+2340	C0023794	Lipidosis
+2341	C0549634	Lipids abnormal
+2342	C0851043	Lipids increased
+2343	C1280433	Lipoatrophy
+2344	C0877192	Lipodystrophy acquired
+2345	C0398370	Lipoedema
+2346	C1262113	Lipohypertrophy
+2347	C0023798	Lipoma
+2348	C0023801	Lipomatosis
+2349	C0023860	Listeriosis
+2350	C0085642	Livedo reticularis
+2351	C0023885	Liver abscess
+2352	C0023895	Liver disorder
+2353	C0151766	Liver function test abnormal
+2354	C0438235	Liver function test normal
+2355	C0160390	Liver injury
+2356	C0151767	Liver tenderness
+2357	C0332579	Lividity
+2358	C0032300	Lobar pneumonia
+2359	C0853813	Local reaction
+2360	C0853619	Local swelling
+2361	C0016397	Localised infection
+2362	C1868693	Localised intraabdominal fluid collection
+2363	C0013609	Localised oedema
+2364	C0242459	Loeffler's syndrome
+2365	C3248383	Logorrhoea
+2366	C0023976	Long QT syndrome
+2367	C1141890	Long QT syndrome congenital
+2368	C0024003	Lordosis
+2369	C0041657	Loss of consciousness
+2370	C0522042	Loss of control of legs
+2371	C2981158	Loss of libido
+2372	C1112616	Loss of proprioception
+2373	C1963897	Low birth weight baby
+2374	C0549399	Low density lipoprotein increased
+2375	C0239234	Low set ears
+2376	C0024050	Lower gastrointestinal haemorrhage
+2377	C1542178	Lower limb fracture
+2378	C0149725	Lower respiratory tract infection
+2379	C0574785	Lower urinary tract symptoms
+2380	C1263855	Lumbar radiculopathy
+2381	C0024110	Lung abscess
+2382	C0854985	Lung adenocarcinoma stage I
+2383	C0153676	Lung cancer metastatic
+2384	C0024115	Lung disorder
+2385	C0876973	Lung infection
+2386	C0235896	Lung infiltration
+2387	C0024121	Lung neoplasm
+2388	C0242379	Lung neoplasm malignant
+2389	C0919715	Lupus-like syndrome
+2390	C0024198	Lyme disease
+2391	C0272396	Lymph node abscess
+2392	C0578050	Lymph node pain
+2393	C0024205	Lymphadenitis
+2394	C0497156	Lymphadenopathy
+2395	C0751674	Lymphangioleiomyomatosis
+2396	C0024225	Lymphangitis
+2397	C0024228	Lymphatic disorder
+2398	C0024248	Lymphocele
+2399	C0580550	Lymphocyte count abnormal
+2400	C0853986	Lymphocyte count decreased
+2401	C0853698	Lymphocyte count increased
+2402	C1141863	Lymphocyte transformation test positive
+2403	C1262091	Lymphocytic infiltration
+2404	C0023448	Lymphocytic leukaemia
+2405	C0024282	Lymphocytosis
+2406	C0024236	Lymphoedema
+2407	C0024299	Lymphoma
+2408	C1276146	Lymphoma cutis
+2409	C0024312	Lymphopenia
+2410	C0024314	Lymphoproliferative disorder
+2411	C0333258	Lymphorrhoea
+2412	C1167699	Lymphostasis
+2413	C0024437	Macular degeneration
+2414	C0694575	Macular fibrosis
+2415	C0024441	Macular hole
+2416	C0271051	Macular oedema
+2417	C3160840	Macular pigmentation
+2418	C0332573	Macule
+2419	C0730362	Maculopathy
+2420	C0271321	Madarosis
+2421	C1269683	Major depression
+2422	C0024523	Malabsorption
+2423	C0231218	Malaise
+2424	C0024530	Malaria
+2425	C0033949	Male orgasmic disorder
+2426	C1112443	Male sexual dysfunction
+2427	C2937220	Malformation venous
+2428	C0019623	Malignant histiocytosis
+2429	C0020540	Malignant hypertension
+2430	C0025202	Malignant melanoma
+2431	C0334492	Malignant mesenchymoma
+2432	C0153618	Malignant neoplasm of renal pelvis
+2433	C0948048	Malignant neoplasm progression
+2434	C0235770	Malignant ovarian cyst
+2435	C1608408	Malignant transformation
+2436	C0024633	Mallory-Weiss syndrome
+2437	C0162429	Malnutrition
+2438	C0262365	Mammogram abnormal
+2439	C0338831	Mania
+2440	C0334634	Mantle cell lymphoma
+2441	C0005959	Marrow hyperplasia
+2442	C0424448	Masked facies
+2443	C0577559	Mass
+2444	C0854372	Mastication disorder
+2445	C0024894	Mastitis
+2446	C0024899	Mastocytosis
+2447	C0024904	Mastoiditis
+2448	C0428886	Mean arterial pressure
+2449	C0520854	Mean arterial pressure decreased
+2450	C0855791	Mean cell volume increased
+2451	C1096368	Mean platelet volume decreased
+2452	C0025007	Measles
+2453	C2609041	Mechanical urticaria
+2454	C0025061	Mediastinal disorder
+2455	C0025064	Mediastinitis
+2456	C0025063	Mediastinum neoplasm
+2457	C1112353	Medical device complication
+2458	C1096701	Medical device discomfort
+2459	C2349423	Medication overuse headache
+2460	C3665818	Medication residue present
+2461	C0025160	Megacolon
+2462	C0549398	Meibomianitis
+2463	C0025222	Melaena
+2464	C0027962	Melanocytic naevus
+2465	C0221436	Melanoderma
+2466	C0025209	Melanosis
+2467	C0233794	Memory impairment
+2468	C0025274	Menarche
+2469	C0085740	Mendelson's syndrome
+2470	C0025281	Meniere's disease
+2471	C0025286	Meningioma
+2472	C0281784	Meningioma benign
+2473	C0025287	Meningism
+2474	C0025289	Meningitis
+2475	C0025290	Meningitis aseptic
+2476	C0085437	Meningitis bacterial
+2477	C0393444	Meningitis chemical
+2478	C0085436	Meningitis cryptococcal
+2479	C0025297	Meningitis viral
+2480	C1261470	Meningocele
+2481	C0019385	Meningoencephalitis herpetic
+2482	C0025312	Meningomyelocele
+2483	C0232943	Menometrorrhagia
+2484	C0025319	Menopausal disorder
+2485	C0236075	Menopausal symptoms
+2486	C0025320	Menopause
+2487	C0025323	Menorrhagia
+2488	C0025345	Menstrual disorder
+2489	C0240322	Menstruation delayed
+2490	C0156404	Menstruation irregular
+2491	C1306341	Mental disability
+2492	C0004936	Mental disorder
+2493	C0853895	Mental disorder due to a general medical condition
+2494	C0025362	Mental retardation
+2495	C0856054	Mental status changes
+2496	C0267410	Mesenteric artery thrombosis
+2497	C0151815	Mesenteric occlusion
+2498	C1412000	Mesenteric vascular insufficiency
+2499	C0025500	Mesothelioma
+2500	C0220981	Metabolic acidosis
+2501	C0220983	Metabolic alkalosis
+2502	C0025517	Metabolic disorder
+2503	C0006112	Metabolic encephalopathy
+2504	C0524620	Metabolic syndrome
+2505	C0274869	Metal poisoning
+2506	C0265294	Metaphyseal dysplasia
+2507	C0025568	Metaplasia
+2508	C0686377	Metastases to central nervous system
+2509	C0494165	Metastases to liver
+2510	C0346989	Metastases to peritoneum
+2511	C0684550	Metastases to spine
+2512	C0027627	Metastasis
+2513	C0860594	Metastatic malignant melanoma
+2514	C2939419	Metastatic neoplasm
+2515	C0857144	Metastatic pain
+2516	C0278678	Metastatic renal cell carcinoma
+2517	C0025637	Methaemoglobinaemia
+2518	C0025874	Metrorrhagia
+2519	C0730345	Microalbuminuria
+2520	C0221021	Microangiopathic haemolytic anaemia
+2521	C0155765	Microangiopathy
+2522	C0025958	Microcephaly
+2523	C0085576	Microcytic anaemia
+2524	C0221265	Microcytosis
+2525	C3665795	Microembolism
+2526	C0015934	Microsomia
+2527	C0042035	Micturition disorder
+2528	C0085606	Micturition urgency
+2529	C0029883	Middle ear effusion
+2530	C0393761	Middle insomnia
+2531	C0149931	Migraine
+2532	C0338480	Migraine without aura
+2533	C0345996	Milia
+2534	C0026113	Miliaria
+2535	C1955743	Mineralocorticoid deficiency
+2536	C0026205	Miosis
+2537	C1096176	Mitochondrial toxicity
+2538	C0026265	Mitral valve disease
+2539	C0026266	Mitral valve incompetence
+2540	C0026272	Mixed connective tissue disease
+2541	C1735647	Mixed liver injury
+2542	C0859032	Moaning
+2543	C0700572	Mobility decreased
+2544	C0026393	Molluscum contagiosum
+2545	C0158026	Monarthritis
+2546	C1136085	Monoclonal gammopathy
+2547	C0549536	Monocyte count decreased
+2548	C0553698	Monocyte count increased
+2549	C0085702	Monocytosis
+2550	C0235880	Mononeuritis
+2551	C0494491	Mononeuropathy
+2552	C0270795	Monoparesis
+2553	C0085622	Monoplegia
+2554	C0085633	Mood swings
+2555	C0555358	Morbid thoughts
+2556	C1527383	Morphoea
+2557	C0026603	Motion sickness
+2558	C0234131	Motor dysfunction
+2559	C0085084	Motor neurone disease
+2560	C0029163	Mouth haemorrhage
+2561	C0272426	Mouth injury
+2562	C0149745	Mouth ulceration
+2563	C0026650	Movement disorder
+2564	C0006848	Mucocutaneous candidiasis
+2565	C2242595	Mucosal atrophy
+2566	C1096311	Mucosal discolouration
+2567	C0854113	Mucosal dryness
+2568	C0546343	Mucosal erosion
+2569	C1167783	Mucosal excoriation
+2570	C0854375	Mucosal haemorrhage
+2571	C0333355	Mucosal inflammation
+2572	C1963822	Mucosal pigmentation
+2573	C0236053	Mucosal ulceration
+2574	C0151785	Mucous membrane disorder
+2575	C0241254	Mucous stools
+2576	C0026766	Multi-organ failure
+2577	C0393847	Multifocal motor neuropathy
+2578	C0026751	Multiparous
+2579	C0740281	Multiple allergies
+2580	C0000772	Multiple congenital abnormalities
+2581	C0016655	Multiple fractures
+2582	C0032989	Multiple pregnancy
+2583	C0026769	Multiple sclerosis
+2584	C0856120	Multiple sclerosis relapse
+2585	C0026846	Muscle atrophy
+2586	C0235086	Muscle contractions involuntary
+2587	C0009917	Muscle contracture
+2588	C1141893	Muscle enzyme increased
+2589	C0242979	Muscle fatigue
+2590	C0877009	Muscle fibrosis
+2591	C0151702	Muscle haemorrhage
+2592	C0410256	Muscle injury
+2593	C0240417	Muscle mass
+2594	C0235957	Muscle necrosis
+2595	C1142135	Muscle relaxant therapy
+2596	C0026837	Muscle rigidity
+2597	C0149732	Muscle rupture
+2598	C0037763	Muscle spasms
+2599	C0026838	Muscle spasticity
+2600	C0080194	Muscle strain
+2601	C0281913	Muscle swelling
+2602	C0877322	Muscle tightness
+2603	C0851647	Muscle tone disorder
+2604	C0231530	Muscle twitching
+2605	C0151786	Muscular weakness
+2606	C0476280	Musculoskeletal chest pain
+2607	C0281914	Musculoskeletal deformity
+2608	C0948594	Musculoskeletal discomfort
+2609	C0026857	Musculoskeletal disorder
+2610	C0026858	Musculoskeletal pain
+2611	C0948525	Musculoskeletal stiffness
+2612	C0026884	Mutism
+2613	C0231528	Myalgia
+2614	C0026896	Myasthenia gravis
+2615	C0549225	Myasthenic syndrome
+2616	C0026918	Mycobacterial infection
+2617	C0026916	Mycobacterium avium complex infection
+2618	C1328428	Mycobacterium test
+2619	C0026948	Mycosis fungoides
+2620	C0026961	Mydriasis
+2621	C0026975	Myelitis
+2622	C0026976	Myelitis transverse
+2623	C0026986	Myelodysplastic syndrome
+2624	C1963864	Myelodysplastic syndrome transformation
+2625	C0026987	Myelofibrosis
+2626	C0023470	Myeloid leukaemia
+2627	C0027013	Myeloid metaplasia
+2628	C0027022	Myeloproliferative disorder
+2629	C0340515	Myocardial depression
+2630	C0877077	Myocardial haemorrhage
+2631	C0027051	Myocardial infarction
+2632	C0151744	Myocardial ischaemia
+2633	C0018813	Myocardial rupture
+2634	C0027059	Myocarditis
+2635	C0014550	Myoclonic epilepsy
+2636	C0027066	Myoclonus
+2637	C0027073	Myofascial pain syndrome
+2638	C0853875	Myoglobin urine present
+2639	C1142397	Myoglobinaemia
+2640	C0027080	Myoglobinuria
+2641	C0026848	Myopathy
+2642	C0154769	Myopathy toxic
+2643	C0854532	Myopericarditis
+2644	C0027092	Myopia
+2645	C0027121	Myositis
+2646	C0027125	Myotonia
+2647	C0027134	Myringitis
+2648	C0027145	Myxoedema
+2649	C0268543	N-acetylglutamate synthase deficiency
+2650	C0521476	Nail bed infection
+2651	C0877183	Nail bed tenderness
+2652	C0221345	Nail discolouration
+2653	C0549229	Nail discomfort
+2654	C0027339	Nail disorder
+2655	C0221260	Nail dystrophy
+2656	C0263536	Nail hypertrophy
+2657	C0343026	Nail infection
+2658	C1142520	Nail pigmentation
+2659	C0423820	Nail ridging
+2660	C1167686	Nail toxicity
+2661	C0027404	Narcolepsy
+2662	C0027424	Nasal congestion
+2663	C0858259	Nasal discomfort
+2664	C0028432	Nasal disorder
+2665	C0231919	Nasal dryness
+2666	C2718128	Nasal inflammation
+2667	C0919894	Nasal mucosal disorder
+2668	C0027429	Nasal obstruction
+2669	C0919913	Nasal odour
+2670	C0475765	Nasal oedema
+2671	C0027430	Nasal polyps
+2672	C0549397	Nasal septum deviation
+2673	C0151790	Nasal septum disorder
+2674	C0235761	Nasal septum perforation
+2675	C0264268	Nasal septum ulceration
+2676	C0264267	Nasal ulcer
+2677	C0153392	Nasopharyngeal cancer
+2678	C0027441	Nasopharyngitis
+2679	C0027497	Nausea
+2680	C0027531	Neck injury
+2681	C0007859	Neck pain
+2682	C0027540	Necrosis
+2683	C0027543	Necrosis ischaemic
+2684	C0948692	Necrotising colitis
+2685	C1442826	Necrotising enterocolitis neonatal
+2686	C0238124	Necrotising fasciitis
+2687	C0027562	Negativism
+2688	C0851883	Neisseria infection
+2689	C0021290	Neonatal disorder
+2690	C0877169	Neonatal hyponatraemia
+2691	C0854706	Neonatal infection
+2692	C1112613	Neonatal tachypnoea
+2693	C0027651	Neoplasm
+2694	C0006826	Neoplasm malignant
+2695	C0178874	Neoplasm progression
+2696	C0033578	Neoplasm prostate
+2697	C0521158	Neoplasm recurrence
+2698	C0037286	Neoplasm skin
+2699	C0268732	Nephritic syndrome
+2700	C0027697	Nephritis
+2701	C0027709	Nephrocalcinosis
+2702	C0162283	Nephrogenic diabetes insipidus
+2703	C1619692	Nephrogenic systemic fibrosis
+2704	C0392525	Nephrolithiasis
+2705	C0022658	Nephropathy
+2706	C0595916	Nephropathy toxic
+2707	C0027719	Nephrosclerosis
+2708	C0027726	Nephrotic syndrome
+2709	C0273482	Nerve compression
+2710	C0853150	Nerve conduction studies abnormal
+2711	C0161479	Nerve injury
+2712	C0027765	Nervous system disorder
+2713	C0027769	Nervousness
+2714	C0265962	Netherton's syndrome
+2715	C0027794	Neural tube defect
+2716	C0027796	Neuralgia
+2717	C0027813	Neuritis
+2718	C0027822	Neurodermatitis
+2719	C0206093	Neuroectodermal neoplasm
+2720	C0027830	Neurofibroma
+2721	C0162678	Neurofibromatosis
+2722	C0005697	Neurogenic bladder
+2723	C0342311	Neuroglycopenia
+2724	C0027849	Neuroleptic malignant syndrome
+2725	C1112537	Neurological examination abnormal
+2726	C0235031	Neurological symptom
+2727	C0027858	Neuroma
+2728	C0520758	Neuromuscular block prolonged
+2729	C1262106	Neuromuscular toxicity
+2730	C0027868	Neuromyopathy
+2731	C0003892	Neuropathic arthropathy
+2732	C0031117	Neuropathy peripheral
+2733	C0027932	Neurosis
+2734	C0235032	Neurotoxicity
+2735	C0151478	Neurotransmitter level altered
+2736	C0027947	Neutropenia
+2737	C0400823	Neutropenic colitis
+2738	C1167779	Neutropenic infection
+2739	C0877153	Neutropenic sepsis
+2740	C0853697	Neutrophil count decreased
+2741	C0151683	Neutrophil count increased
+2742	C0948333	Neutrophil percentage increased
+2743	C3665444	Neutrophilia
+2744	C1142272	Neutrophilic dermatosis
+2745	C0028043	Nicotine dependence
+2746	C0030783	Nicotinic acid deficiency
+2747	C0028077	Night blindness
+2748	C0028081	Night sweats
+2749	C0028084	Nightmare
+2750	C0405479	Nipple disorder
+2751	C0240515	Nipple pain
+2752	C0240520	Nipple swelling
+2753	C0854100	Nitrogen balance negative
+2754	C0028242	Nocardiosis
+2755	C0028734	Nocturia
+2756	C0344357	Nocturnal dyspnoea
+2757	C0233931	Nocturnal emission
+2758	C0264893	Nodal arrhythmia
+2759	C0232208	Nodal rhythm
+2760	C0020510	Nodular regenerative hyperplasia
+2761	C0028259	Nodule
+2762	C0476281	Non-cardiac chest pain
+2763	C3241936	Non-cardiogenic pulmonary oedema
+2764	C0024305	Non-Hodgkin's lymphoma
+2765	C0007131	Non-small cell lung cancer
+2766	C3203695	Noninfectious peritonitis
+2767	C0271899	Normochromic normocytic anaemia
+2768	C1320474	Nuchal rigidity
+2769	C0028738	Nystagmus
+2770	C0028754	Obesity
+2771	C0006272	Obliterative bronchiolitis
+2772	C0028768	Obsessive-compulsive disorder
+2773	C0009595	Obsessive-compulsive personality disorder
+2774	C0233697	Obsessive rumination
+2775	C0679048	Obsessive thoughts
+2776	C0405139	Obstetric procedure complication
+2777	C0028778	Obstruction
+2778	C0600260	Obstructive airways disorder
+2779	C0007863	Occipital neuralgia
+2780	C0877047	Occult blood positive
+2781	C0028817	Ochronosis
+2782	C0948595	Ocular discomfort
+2783	C0155169	Ocular hyperaemia
+2784	C0028840	Ocular hypertension
+2785	C1141938	Ocular icterus
+2786	C1557335	Ocular surface disease
+2787	C1262036	Ocular toxicity
+2788	C0948522	Ocular vascular disorder
+2789	C0085637	Oculogyric crisis
+2790	C0236036	Oculomucocutaneous syndrome
+2791	C1963718	Oculorespiratory syndrome
+2792	C0221150	Odynophagia
+2793	C0013604	Oedema
+2794	C0013608	Oedema due to cardiac disease
+2795	C0151604	Oedema genital
+2796	C0236065	Oedema mouth
+2797	C0521481	Oedema mucosal
+2798	C0085649	Oedema peripheral
+2799	C0014848	Oesophageal achalasia
+2800	C0014850	Oesophageal atresia
+2801	C0239295	Oesophageal candidiasis
+2802	C0152018	Oesophageal carcinoma
+2803	C1096082	Oesophageal discomfort
+2804	C0014852	Oesophageal disorder
+2805	C0239293	Oesophageal haemorrhage
+2806	C0743575	Oesophageal irritation
+2807	C0014858	Oesophageal motility disorder
+2808	C0014859	Oesophageal neoplasm
+2809	C0239296	Oesophageal obstruction
+2810	C1536009	Oesophageal oedema
+2811	C0221727	Oesophageal pain
+2812	C0014860	Oesophageal perforation
+2813	C0281839	Oesophageal rupture
+2814	C0014863	Oesophageal spasm
+2815	C0014866	Oesophageal stenosis
+2816	C0151970	Oesophageal ulcer
+2817	C0155789	Oesophageal varices haemorrhage
+2818	C0014868	Oesophagitis
+2819	C2586050	Oesophagitis ulcerative
+2820	C0860851	Oestradiol increased
+2821	C0853662	Oestrogen deficiency
+2822	C0877035	Oestrogenic effect
+2823	C0079924	Oligohydramnios
+2824	C0028949	Oligomenorrhoea
+2825	C0028961	Oliguria
+2826	C0546956	Onychoclasis
+2827	C0085661	Onycholysis
+2828	C0263540	Onychomadesis
+2829	C0040261	Onychomycosis
+2830	C0019357	Ophthalmic herpes simplex
+2831	C0019364	Ophthalmic herpes zoster
+2832	C0029089	Ophthalmoplegia
+2833	C0151818	Opisthotonus
+2834	C0029118	Opportunistic infection
+2835	C0029124	Optic atrophy
+2836	C1112376	Optic disc vascular disorder
+2837	C0155305	Optic ischaemic neuropathy
+2838	C0852952	Optic nerve cupping
+2839	C0029132	Optic nerve disorder
+2840	C0029134	Optic neuritis
+2841	C0006849	Oral candidiasis
+2842	C0399459	Oral discomfort
+2843	C0026636	Oral disorder
+2844	C0877048	Oral fungal infection
+2845	C0341012	Oral herpes
+2846	C0555971	Oral infection
+2847	C0399461	Oral mucosa erosion
+2848	C0853945	Oral mucosal blistering
+2849	C0853939	Oral mucosal discolouration
+2850	C1536052	Oral mucosal exfoliation
+2851	C0026640	Oral neoplasm
+2852	C0347197	Oral neoplasm benign
+2853	C0221776	Oral pain
+2854	C1262299	Oral papilloma
+2855	C0948521	Oral pruritus
+2856	C1112257	Oral pustule
+2857	C1142072	Oral toxicity
+2858	C0424813	Orbital oedema
+2859	C0029191	Orchitis
+2860	C1142011	Orchitis noninfective
+2861	C0349410	Organ failure
+2862	C0264383	Organising pneumonia
+2863	C0029261	Orgasm abnormal
+2864	C0948856	Orgasmic sensation decreased
+2865	C2242577	Oromandibular dystonia
+2866	C2242576	Oropharyngeal blistering
+2867	C0919659	Oropharyngeal candidiasis
+2868	C2363730	Oropharyngeal discomfort
+2869	C2363731	Oropharyngeal pain
+2870	C0234952	Oropharyngeal spasm
+2871	C0280313	Oropharyngeal squamous cell carcinoma
+2872	C0853908	Oropharyngeal swelling
+2873	C0085619	Orthopnoea
+2874	C0544618	Orthostatic hypertension
+2875	C0020651	Orthostatic hypotension
+2876	C1535893	Orthostatic intolerance
+2877	C0422980	Oscillopsia
+2878	C2721559	Osmotic demyelination syndrome
+2879	C0029400	Osteitis
+2880	C0029408	Osteoarthritis
+2881	C0919840	Osteocalcin increased
+2882	C0029429	Osteochondrosis
+2883	C0264009	Osteodystrophy
+2884	C0029434	Osteogenesis imperfecta
+2885	C0221204	Osteolysis
+2886	C0029442	Osteomalacia
+2887	C0029443	Osteomyelitis
+2888	C0029445	Osteonecrosis
+2889	C2711248	Osteonecrosis of jaw
+2890	C0029453	Osteopenia
+2891	C0029456	Osteoporosis
+2892	C0521170	Osteoporotic fracture
+2893	C0029463	Osteosarcoma
+2894	C0278512	Osteosarcoma metastatic
+2895	C0029464	Osteosclerosis
+2896	C0029878	Otitis externa
+2897	C0029882	Otitis media
+2898	C0271429	Otitis media acute
+2899	C0271441	Otitis media chronic
+2900	C0155540	Otorrhoea
+2901	C0155428	Otosalpingitis
+2902	C0235280	Ototoxicity
+2903	C0404445	Ovarian atrophy
+2904	C1140680	Ovarian cancer
+2905	C0029927	Ovarian cyst
+2906	C0029928	Ovarian disorder
+2907	C0392039	Ovarian enlargement
+2908	C0747102	Ovarian failure
+2909	C0854954	Ovarian germ cell teratoma benign
+2910	C1696704	Ovarian haemorrhage
+2911	C0085083	Ovarian hyperstimulation syndrome
+2912	C0919267	Ovarian neoplasm
+2913	C0029944	Overdose
+2914	C1411873	Ovulation disorder
+2915	C0152149	Ovulation pain
+2916	C0746961	Oxygen saturation decreased
+2917	C0030193	Pain
+2918	C0030196	Pain in extremity
+2919	C0236000	Pain in jaw
+2920	C0241136	Pain of skin
+2921	C0278107	Painful ejaculation
+2922	C0233973	Painful erection
+2923	C0423729	Painful respiration
+2924	C0030232	Pallor
+2925	C0549410	Palmar-plantar erythrodysaesthesia syndrome
+2926	C0014745	Palmar erythema
+2927	C0151190	Palpable purpura
+2928	C0030252	Palpitations
+2929	C0238334	Pancreatic abscess
+2930	C0235974	Pancreatic carcinoma
+2931	C0030286	Pancreatic disorder
+2932	C0855440	Pancreatic enzymes abnormal
+2933	C0549369	Pancreatic enzymes increased
+2934	C0030293	Pancreatic insufficiency
+2935	C0267953	Pancreatic necrosis
+2936	C0030297	Pancreatic neoplasm
+2937	C0030299	Pancreatic pseudocyst
+2938	C0030305	Pancreatitis
+2939	C0001339	Pancreatitis acute
+2940	C0149521	Pancreatitis chronic
+2941	C0267940	Pancreatitis haemorrhagic
+2942	C0267941	Pancreatitis necrotising
+2943	C0030312	Pancytopenia
+2944	C0086769	Panic attack
+2945	C0030319	Panic disorder
+2946	C0030318	Panic reaction
+2947	C0030326	Panniculitis
+2948	C0030332	Panophthalmitis
+2949	C0155713	Papillary muscle rupture
+2950	C0238463	Papillary thyroid cancer
+2951	C0030353	Papilloedema
+2952	C0030354	Papilloma
+2953	C0332563	Papule
+2954	C0030409	Paracoccidioides infection
+2955	C0221733	Paradoxical pressor response
+2956	C0030554	Paraesthesia
+2957	C0521591	Paraesthesia oral
+2958	C0302507	Parainfluenzae virus infection
+2959	C0522224	Paralysis
+2960	C0085620	Paralysis flaccid
+2961	C1112369	Paranasal sinus hypersecretion
+2962	C1456784	Paranoia
+2963	C0221166	Paraparesis
+2964	C0030486	Paraplegia
+2965	C0030489	Paraproteinaemia
+2966	C0030508	Parasomnia
+2967	C0030517	Parathyroid disorder
+2968	C0030521	Parathyroid tumour
+2969	C0154041	Parathyroid tumour benign
+2970	C0030552	Paresis
+2971	C0030567	Parkinson's disease
+2972	C0427160	Parkinsonian gait
+2973	C1112182	Parkinsonian rest tremor
+2974	C0242422	Parkinsonism
+2975	C0030578	Paronychia
+2976	C1510410	Parosmia
+2977	C0549334	Parotid duct obstruction
+2978	C0341047	Parotid gland enlargement
+2979	C2242496	Parotid gland inflammation
+2980	C0030583	Parotitis
+2981	C0024790	Paroxysmal nocturnal haemoglobinuria
+2982	C0751495	Partial seizures
+2983	C1619718	Partner stress
+2984	C0013274	Patent ductus arteriosus
+2985	C0853847	Pathogen resistance
+2986	C0030662	Pathological gambling
+2987	C0391839	PCO2
+2988	C0016842	Pectus excavatum
+2989	C1328358	Pedal pulse decreased
+2990	C0030781	Peliosis hepatis
+2991	C0521619	Pelvi-ureteric obstruction
+2992	C0030785	Pelvic abscess
+2993	C1535975	Pelvic discomfort
+2994	C0341753	Pelvic fibrosis
+2995	C0149531	Pelvic fracture
+2996	C0475319	Pelvic haematoma
+2997	C1504419	Pelvic haemorrhage
+2998	C0030790	Pelvic infection
+2999	C0242172	Pelvic inflammatory disease
+3000	C0030793	Pelvic neoplasm
+3001	C0030794	Pelvic pain
+3002	C0549288	Pelvic venous thrombosis
+3003	C0030805	Pemphigoid
+3004	C0030807	Pemphigus
+3005	C2938970	Penile curvature
+3006	C0232861	Penile discharge
+3007	C2938972	Penile haematoma
+3008	C0269002	Penile haemorrhage
+3009	C0581395	Penile infection
+3010	C0156308	Penile oedema
+3011	C0497481	Penile pain
+3012	C1282799	Penile swelling
+3013	C0030846	Penis disorder
+3014	C0030920	Peptic ulcer
+3015	C0030922	Peptic ulcer haemorrhage
+3016	C0030925	Peptic ulcer perforation
+3017	C0877406	Performance status decreased
+3018	C0031037	Periarthritis
+3019	C0265122	Pericardial disease
+3020	C0031039	Pericardial effusion
+3021	C0019064	Pericardial haemorrhage
+3022	C0232267	Pericardial rub
+3023	C0031046	Pericarditis
+3024	C0031048	Pericarditis constrictive
+3025	C0263111	Perineal abscess
+3026	C3544174	Perineal injury
+3027	C0240717	Perineal pain
+3028	C1167868	Perinephric collection
+3029	C0236023	Periodontal destruction
+3030	C0031090	Periodontal disease
+3031	C0031099	Periodontitis
+3032	C0520723	Periorbital haematoma
+3033	C0151205	Periorbital oedema
+3034	C0031111	Periostitis
+3035	C1306889	Peripheral arterial occlusive disease
+3036	C1112413	Peripheral artery aneurysm
+3037	C3495797	Peripheral artery stenosis
+3038	C1407280	Peripheral artery thrombosis
+3039	C0277925	Peripheral coldness
+3040	C0856049	Peripheral embolism
+3041	C0235490	Peripheral ischaemia
+3042	C0235025	Peripheral motor neuropathy
+3043	C0262593	Peripheral nerve injury
+3044	C1142028	Peripheral nerve palsy
+3045	C1112256	Peripheral sensorimotor neuropathy
+3046	C0151313	Peripheral sensory neuropathy
+3047	C0085096	Peripheral vascular disorder
+3048	C0267566	Perirectal abscess
+3049	C0473124	Perirenal haematoma
+3050	C0156181	Peritoneal adhesions
+3051	C1868771	Peritoneal cloudy effluent
+3052	C0019065	Peritoneal haemorrhage
+3053	C0031154	Peritonitis
+3054	C0341503	Peritonitis bacterial
+3055	C0031157	Peritonsillar abscess
+3056	C0877267	Peritonsillitis
+3057	C0023529	Periventricular leukomalacia
+3058	C0270810	Peroneal nerve palsy
+3059	C0233651	Perseveration
+3060	C0031190	Persistent foetal circulation
+3061	C0240735	Personality change
+3062	C0031212	Personality disorder
+3063	C0043167	Pertussis
+3064	C0031256	Petechiae
+3065	C0014553	Petit mal epilepsy
+3066	C0030848	Peyronie's disease
+3067	C0854059	pH urine decreased
+3068	C0854058	pH urine increased
+3069	C3495442	Phantom pain
+3070	C0031345	Pharyngeal disorder
+3071	C0455899	Pharyngeal erythema
+3072	C0576995	Pharyngeal haemorrhage
+3073	C0749389	Pharyngeal lesion
+3074	C0236024	Pharyngeal oedema
+3075	C0031350	Pharyngitis
+3076	C0036689	Pharyngitis streptococcal
+3077	C0031485	Phenylketonuria
+3078	C0345326	Phimosis
+3079	C0031542	Phlebitis
+3080	C0750876	Phlebitis superficial
+3081	C0333494	Phlebosclerosis
+3082	C0349231	Phobia
+3083	C0003910	Phonological disorder
+3084	C0751466	Phonophobia
+3085	C0920193	Photodermatosis
+3086	C0406209	Photoonycholysis
+3087	C0085636	Photophobia
+3088	C0085635	Photopsia
+3089	C0162830	Photosensitivity reaction
+3090	C0740319	Physical assault
+3091	C0031873	Pica
+3092	C1271398	Pigment dispersion syndrome
+3093	C0549567	Pigmentation disorder
+3094	C0031924	Piloerection
+3095	C0031925	Pilonidal cyst
+3096	C0221406	Pituitary-dependent Cushing's syndrome
+3097	C0342406	Pituitary haemorrhage
+3098	C0342405	Pituitary infarction
+3099	C0032019	Pituitary tumour
+3100	C0496901	Pituitary tumour benign
+3101	C0162852	Pityriasis lichenoides et varioliformis acuta
+3102	C0032045	Placental disorder
+3103	C0240773	Plantar erythema
+3104	C0149756	Plantar fasciitis
+3105	C0023484	Plasma cell leukaemia
+3106	C0026764	Plasma cell myeloma
+3107	C0032131	Plasmacytoma
+3108	C0858318	Plasmodium falciparum infection
+3109	C0541767	Platelet aggregation abnormal
+3110	C2745924	Platelet aggregation increased
+3111	C0919737	Platelet aggregation inhibition
+3112	C0580317	Platelet count abnormal
+3113	C0392386	Platelet count decreased
+3114	C0427564	Platelet count normal
+3115	C0005818	Platelet disorder
+3116	C0679429	Platelet dysfunction
+3117	C0221147	Platelet production decreased
+3118	C1611162	Plateletcrit decreased
+3119	C0032226	Pleural disorder
+3120	C0032227	Pleural effusion
+3121	C2720436	Pleural fibrosis
+3122	C0919907	Pleural infection
+3123	C0032230	Pleural rub
+3124	C0032231	Pleurisy
+3125	C0008033	Pleuritic pain
+3126	C1167732	Pleuropericarditis
+3127	C0520821	Pleurothotonus
+3128	C0333139	Pneumatosis
+3129	C1112565	Pneumatosis intestinalis
+3130	C0276908	Pneumocystis jirovecii infection
+3131	C1535939	Pneumocystis jirovecii pneumonia
+3132	C0025062	Pneumomediastinum
+3133	C0032285	Pneumonia
+3134	C0155866	Pneumonia anthrax
+3135	C0032290	Pneumonia aspiration
+3136	C0004626	Pneumonia bacterial
+3137	C0276253	Pneumonia cytomegaloviral
+3138	C0339961	Pneumonia fungal
+3139	C0519030	Pneumonia klebsiella
+3140	C0032302	Pneumonia mycoplasmal
+3141	C0155862	Pneumonia streptococcal
+3142	C0032319	Pneumopericardium
+3143	C0032320	Pneumoperitoneum
+3144	C0032326	Pneumothorax
+3145	C0221281	Poikilocytosis
+3146	C0032343	Poisoning
+3147	C0032371	Poliomyelitis
+3148	C0042023	Pollakiuria
+3149	C0031036	Polyarteritis nodosa
+3150	C0162323	Polyarthritis
+3151	C0032460	Polycystic ovaries
+3152	C0032461	Polycythaemia
+3153	C0032463	Polycythaemia vera
+3154	C0152427	Polydactyly
+3155	C0085602	Polydipsia
+3156	C0395005	Polydipsia psychogenic
+3157	C0020224	Polyhydramnios
+3158	C0032519	Polymenorrhoea
+3159	C0031736	Polymorphic light eruption
+3160	C0032533	Polymyalgia rheumatica
+3161	C0085655	Polymyositis
+3162	C0152025	Polyneuropathy
+3163	C1696946	Polyomavirus-associated nephropathy
+3164	C0032584	Polyp
+3165	C0151859	Polyserositis
+3166	C0032617	Polyuria
+3167	C0520547	Poor peripheral circulation
+3168	C1262141	Poor quality sleep
+3169	C0162565	Porphyria acute
+3170	C0853026	Porphyria non-acute
+3171	C0032708	Porphyrin metabolism disorder
+3172	C0020541	Portal hypertension
+3173	C0155773	Portal vein thrombosis
+3174	C3203531	Post-traumatic neck syndrome
+3175	C1611174	Post-traumatic pain
+3176	C1740793	Post-tussive vomiting
+3177	C0032768	Post herpetic neuralgia
+3178	C1262010	Post lumbar puncture syndrome
+3179	C1141930	Post procedural complication
+3180	C2363914	Post procedural constipation
+3181	C1112773	Post procedural diarrhoea
+3182	C0948693	Post procedural discharge
+3183	C1328411	Post procedural haematoma
+3184	C0919874	Post procedural haemorrhage
+3185	C1868855	Post procedural infection
+3186	C1504411	Post procedural oedema
+3187	C1737224	Post procedural swelling
+3188	C0277919	Post thrombotic syndrome
+3189	C0432487	Post transplant lymphoproliferative disorder
+3190	C1444680	Posterior capsule opacification
+3191	C3160858	Posterior reversible encephalopathy syndrome
+3192	C0234543	Postictal state
+3193	C1142492	Postinfarction angina
+3194	C0032776	Postmenopausal haemorrhage
+3195	C0424786	Postoperative fever
+3196	C0400877	Postoperative ileus
+3197	C0877305	Postoperative wound complication
+3198	C0038941	Postoperative wound infection
+3199	C0034040	Postpartum disorder
+3200	C0032797	Postpartum haemorrhage
+3201	C1299624	Postural orthostatic tachycardia syndrome
+3202	C0231471	Posture abnormal
+3203	C0032914	Pre-eclampsia
+3204	C0521987	Pre-existing disease
+3205	C0034013	Precocious puberty
+3206	C0032961	Pregnancy
+3207	C0151865	Pregnancy test false positive
+3208	C0240802	Pregnancy test positive
+3209	C1696708	Prehypertension
+3210	C0021294	Premature baby
+3211	C0151526	Premature delivery
+3212	C0033038	Premature ejaculation
+3213	C0022876	Premature labour
+3214	C0025322	Premature menopause
+3215	C0015944	Premature rupture of membranes
+3216	C0000832	Premature separation of placenta
+3217	C0033046	Premenstrual syndrome
+3218	C0033075	Presbyopia
+3219	C0233718	Pressure of speech
+3220	C0700200	Presyncope
+3221	C0033117	Priapism
+3222	C0700502	Primary hypothyroidism
+3223	C0002963	Prinzmetal angina
+3224	C1141861	Procedural complication
+3225	C3203457	Procedural haemorrhage
+3226	C1328332	Procedural hypertension
+3227	C1262109	Procedural hypotension
+3228	C1868752	Procedural nausea
+3229	C1619712	Procedural pain
+3230	C0549430	Procedural site reaction
+3231	C0034886	Proctalgia
+3232	C0033246	Proctitis
+3233	C0149976	Proctitis herpes
+3234	C2937222	Proctitis ulcerative
+3235	C0033247	Proctocolitis
+3236	C2609199	Product taste abnormal
+3237	C0239134	Productive cough
+3238	C0373705	Progesterone
+3239	C0023524	Progressive multifocal leukoencephalopathy
+3240	C0033375	Prolactinoma
+3241	C0152154	Prolonged labour
+3242	C0376358	Prostate cancer
+3243	C0936223	Prostate cancer metastatic
+3244	C1096657	Prostate examination abnormal
+3245	C1112346	Prostate induration
+3246	C0240811	Prostate infection
+3247	C0748019	Prostatic acid phosphatase increased
+3248	C0520477	Prostatic adenoma
+3249	C0033575	Prostatic disorder
+3250	C3160830	Prostatic dysplasia
+3251	C0240812	Prostatic pain
+3252	C0178415	Prostatic specific antigen increased
+3253	C0242453	Prostatism
+3254	C0033581	Prostatitis
+3255	C0426732	Prostatomegaly
+3256	C0302858	Protein-losing gastroenteropathy
+3257	C0398625	Protein C deficiency
+3258	C0860901	Protein total decreased
+3259	C0948586	Protein urine present
+3260	C0033687	Proteinuria
+3261	C0860700	Prothrombin level abnormal
+3262	C0553732	Prothrombin level decreased
+3263	C0151872	Prothrombin level increased
+3264	C0580412	Prothrombin time abnormal
+3265	C0483455	Prothrombin time ratio
+3266	C0580413	Prothrombin time shortened
+3267	C0241442	Protrusion tongue
+3268	C0033771	Prurigo
+3269	C0033774	Pruritus
+3270	C0475858	Pruritus generalised
+3271	C0033777	Pruritus genital
+3272	C0853277	Pseudo-Bartter syndrome
+3273	C0268379	Pseudocholinesterase deficiency
+3274	C0033797	Pseudodementia
+3275	C0549150	Pseudofolliculitis barbae
+3276	C0948309	Pseudohyperkalaemia
+3277	C0221269	Pseudolymphoma
+3278	C1257843	Pseudomembranous colitis
+3279	C0152972	Pseudomonal sepsis
+3280	C0033817	Pseudomonas infection
+3281	C1142248	Pseudomononucleosis
+3282	C0521616	Pseudoporphyria
+3283	C0033860	Psoriasis
+3284	C0003872	Psoriatic arthropathy
+3285	C0748055	Psychiatric decompensation
+3286	C1095967	Psychiatric evaluation abnormal
+3287	C0233401	Psychiatric symptom
+3288	C0424230	Psychomotor retardation
+3289	C0877167	Psychomotor skills impaired
+3290	C0033953	Psychosexual disorder
+3291	C0033931	Psychosomatic disease
+3292	C0740409	Psychotic behaviour
+3293	C0033975	Psychotic disorder
+3294	C0033999	Pterygium
+3295	C0034011	Puberty
+3296	C1331543	Puerperal pyrexia
+3297	C0852879	Pulmonary alveolar haemorrhage
+3298	C2973725	Pulmonary arterial hypertension
+3299	C0242073	Pulmonary congestion
+3300	C0034065	Pulmonary embolism
+3301	C0034068	Pulmonary eosinophilia
+3302	C0034069	Pulmonary fibrosis
+3303	C0476405	Pulmonary function test abnormal
+3304	C0855775	Pulmonary function test decreased
+3305	C0235557	Pulmonary granuloma
+3306	C0151701	Pulmonary haemorrhage
+3307	C0020542	Pulmonary hypertension
+3308	C0265783	Pulmonary hypoplasia
+3309	C0034074	Pulmonary infarction
+3310	C0149726	Pulmonary mass
+3311	C0520546	Pulmonary microemboli
+3312	C0034063	Pulmonary oedema
+3313	C2721578	Pulmonary oil microembolism
+3314	C0264523	Pulmonary ossification
+3315	C0151946	Pulmonary thrombosis
+3316	C0919924	Pulmonary toxicity
+3317	C0034088	Pulmonary valve incompetence
+3318	C0234962	Pulmonary vasculitis
+3319	C0034091	Pulmonary veno-occlusive disease
+3320	C0034103	Pulpitis dental
+3321	C0235472	Pulse abnormal
+3322	C0277899	Pulse absent
+3323	C0240840	Pulse pressure decreased
+3324	C0340861	Pulseless electrical activity
+3325	C0259799	Punctate keratitis
+3326	C0919883	Puncture site haemorrhage
+3327	C1697642	Puncture site pain
+3328	C1096188	Puncture site reaction
+3329	C0240846	Pupillary deformity
+3330	C0034124	Pupillary disorder
+3331	C0235802	Pupillary reflex impaired
+3332	C0003079	Pupils unequal
+3333	C0268104	Purine metabolism disorder
+3334	C1141936	Purple glove syndrome
+3335	C0034150	Purpura
+3336	C0085650	Purpura fulminans
+3337	C0242461	Purpura non-thrombocytopenic
+3338	C0149766	Purpura senile
+3339	C0152081	Pustular psoriasis
+3340	C0034186	Pyelonephritis
+3341	C0520575	Pyelonephritis acute
+3342	C0085697	Pyelonephritis chronic
+3343	C0034194	Pyloric stenosis
+3344	C0034212	Pyoderma
+3345	C0085652	Pyoderma gangrenosum
+3346	C0085653	Pyogenic granuloma
+3347	C0034215	Pyometra
+3348	C1504405	Pyramidal tract syndrome
+3349	C0034359	Pyuria
+3350	C1112436	QRS axis abnormal
+3351	C0270790	Quadriparesis
+3352	C0034372	Quadriplegia
+3353	C1306600	Radial nerve palsy
+3354	C0034530	Radiation injury
+3355	C0270769	Radiation myelopathy
+3356	C0238113	Radiation oesophagitis
+3357	C0206063	Radiation pneumonitis
+3358	C1504383	Radiation skin injury
+3359	C0278147	Radicular pain
+3360	C0034544	Radiculitis
+3361	C0700594	Radiculopathy
+3362	C0034628	Radius fracture
+3363	C0034642	Rales
+3364	C0015230	Rash
+3365	C0234913	Rash erythematous
+3366	C0234916	Rash follicular
+3367	C0497365	Rash generalised
+3368	C0221201	Rash macular
+3369	C0423791	Rash maculo-papular
+3370	C0234918	Rash morbilliform
+3371	C1519353	Rash papular
+3372	C0085641	Rash pustular
+3373	C0263355	Rash scarlatiniform
+3374	C0221203	Rash vesicular
+3375	C0034735	Raynaud's phenomenon
+3376	C0853040	Reaction to drug excipients
+3377	C0549262	Rebound effect
+3378	C1262013	Recall phenomenon
+3379	C0149770	Rectal abscess
+3380	C0007113	Rectal cancer
+3381	C0221780	Rectal discharge
+3382	C0267596	Rectal haemorrhage
+3383	C0034887	Rectal polyp
+3384	C0034888	Rectal prolapse
+3385	C1112789	Rectal spasm
+3386	C0232726	Rectal tenesmus
+3387	C0400839	Rectal ulcer
+3388	C0149771	Rectocele
+3389	C2363784	Recurrence of neuromuscular blockade
+3390	C0391870	Red blood cell abnormality
+3391	C0427457	Red blood cell count decreased
+3392	C0427458	Red blood cell count increased
+3393	C0151632	Red blood cell sedimentation rate increased
+3394	C0855506	Red blood cells semen positive
+3395	C0948014	Red cell distribution width increased
+3396	C1306792	Red man syndrome
+3397	C0034933	Reflexes abnormal
+3398	C0267158	Reflux gastritis
+3399	C0034951	Refraction disorder
+3400	C0002894	Refractory anaemia with an excess of blasts
+3401	C2826318	Refractory cytopenia with unilineage dysplasia
+3402	C2004489	Regurgitation
+3403	C0035021	Relapsing fever
+3404	C0151465	Renal abscess
+3405	C1619700	Renal aplasia
+3406	C0035067	Renal artery stenosis
+3407	C0340608	Renal artery thrombosis
+3408	C0740457	Renal cancer
+3409	C0007134	Renal cell carcinoma
+3410	C0152169	Renal colic
+3411	C0022656	Renal cortical necrosis
+3412	C2173677	Renal cyst
+3413	C0035078	Renal failure
+3414	C0022660	Renal failure acute
+3415	C0022661	Renal failure chronic
+3416	C0236151	Renal function test abnormal
+3417	C0877690	Renal graft loss
+3418	C0392175	Renal haemorrhage
+3419	C1565489	Renal impairment
+3420	C0035085	Renal infarct
+3421	C0262613	Renal mass
+3422	C0022665	Renal neoplasm
+3423	C0558489	Renal pain
+3424	C0022667	Renal papillary necrosis
+3425	C1527410	Renal rickets
+3426	C0001126	Renal tubular acidosis
+3427	C0151747	Renal tubular disorder
+3428	C1720775	Renal tubular necrosis
+3429	C0152002	Renal vasculitis
+3430	C0238457	Renal vein thrombosis
+3431	C0020545	Renovascular hypertension
+3432	C0035126	Reperfusion injury
+3433	C0392185	Repetitive speech
+3434	C0035127	Repetitive strain injury
+3435	C3665888	Reproductive toxicity
+3436	C0178829	Reproductive tract disorder
+3437	C0429774	Residual urine volume
+3438	C1260922	Respiration abnormal
+3439	C0001127	Respiratory acidosis
+3440	C0002064	Respiratory alkalosis
+3441	C0162297	Respiratory arrest
+3442	C0235063	Respiratory depression
+3443	C1321587	Respiratory depth increased
+3444	C0035204	Respiratory disorder
+3445	C1285373	Respiratory disorder neonatal
+3446	C0476273	Respiratory distress
+3447	C1145670	Respiratory failure
+3448	C0153251	Respiratory moniliasis
+3449	C0035232	Respiratory paralysis
+3450	C0231837	Respiratory rate decreased
+3451	C0035235	Respiratory syncytial virus infection
+3452	C0948349	Respiratory tract congestion
+3453	C0235560	Respiratory tract haemorrhage
+3454	C0035243	Respiratory tract infection
+3455	C0877203	Respiratory tract infection viral
+3456	C2939062	Respiratory tract oedema
+3457	C0035258	Restless legs syndrome
+3458	C0007196	Restrictive cardiomyopathy
+3459	C0405106	Retained placenta or membranes
+3460	C0232602	Retching
+3461	C0858867	Reticulocytopenia
+3462	C0206160	Reticulocytosis
+3463	C0236174	Reticuloendothelial system stimulated
+3464	C1535948	Retinal aneurysm
+3465	C0035302	Retinal artery occlusion
+3466	C0035304	Retinal degeneration
+3467	C0151891	Retinal depigmentation
+3468	C0235972	Retinal deposits
+3469	C0035305	Retinal detachment
+3470	C0035309	Retinal disorder
+3471	C0240897	Retinal exudates
+3472	C0035317	Retinal haemorrhage
+3473	C0347602	Retinal injury
+3474	C0162291	Retinal ischaemia
+3475	C0242420	Retinal oedema
+3476	C1328519	Retinal pigment epithelial tear
+3477	C0151892	Retinal pigmentation
+3478	C0271036	Retinal scar
+3479	C0035321	Retinal tear
+3480	C0877104	Retinal toxicity
+3481	C0154833	Retinal vascular disorder
+3482	C0035326	Retinal vascular occlusion
+3483	C0919714	Retinal vascular thrombosis
+3484	C0035328	Retinal vein occlusion
+3485	C1527411	Retinal vein thrombosis
+3486	C0035333	Retinitis
+3487	C1167863	Retinogram abnormal
+3488	C0860564	Retinoic acid syndrome
+3489	C0035344	Retinopathy of prematurity
+3490	C0339467	Retinopathy proliferative
+3491	C0002624	Retrograde amnesia
+3492	C0403673	Retrograde ejaculation
+3493	C0035357	Retroperitoneal fibrosis
+3494	C0341512	Retroperitoneal haematoma
+3495	C0151705	Retroperitoneal haemorrhage
+3496	C0553690	Reversible ischaemic neurological deficit
+3497	C0035400	Reye's syndrome
+3498	C0035410	Rhabdomyolysis
+3499	C3495832	Rheumatic disorder
+3500	C0003873	Rheumatoid arthritis
+3501	C0948070	Rhinalgia
+3502	C0035455	Rhinitis
+3503	C2607914	Rhinitis allergic
+3504	C0035459	Rhinitis atrophic
+3505	C0848309	Rhinitis perennial
+3506	C1322281	Rhinitis seasonal
+3507	C0235963	Rhinitis ulcerative
+3508	C1260880	Rhinorrhoea
+3509	C0035508	Rhonchi
+3510	C0700363	Rhythm idioventricular
+3511	C0035522	Rib fracture
+3512	C0035579	Rickets
+3513	C2939447	Right ventricular failure
+3514	C0343494	Risus sardonicus
+3515	C0221706	Road traffic accident
+3516	C0035854	Rosacea
+3517	C0263912	Rotator cuff syndrome
+3518	C0856604	Rubber sensitivity
+3519	C0574960	Sacroiliitis
+3520	C0235746	Saliva altered
+3521	C0235984	Salivary duct obstruction
+3522	C0036093	Salivary gland disorder
+3523	C0020569	Salivary gland enlargement
+3524	C0235338	Salivary gland pain
+3525	C0037036	Salivary hypersecretion
+3526	C0152486	Salmonella sepsis
+3527	C0036117	Salmonellosis
+3528	C0036130	Salpingitis
+3529	C0036202	Sarcoidosis
+3530	C1261473	Sarcoma
+3531	C0338113	Sarcoma uterus
+3532	C0205204	Scab
+3533	C2004491	Scar
+3534	C0877113	Scar pain
+3535	C0036337	Schizoaffective disorder
+3536	C0036341	Schizophrenia
+3537	C0036358	Schizophreniform disorder
+3538	C0036396	Sciatica
+3539	C0235068	Scintillating scotoma
+3540	C0235980	Scleral discolouration
+3541	C0036412	Scleral disorder
+3542	C0748536	Scleral haemorrhage
+3543	C0423271	Scleral hyperaemia
+3544	C0748538	Scleral pigmentation
+3545	C0423273	Scleral thinning
+3546	C0036416	Scleritis
+3547	C0011644	Scleroderma
+3548	C1142151	Scleromalacia
+3549	C1141885	Sclerosing encapsulating peritonitis
+3550	C0036439	Scoliosis
+3551	C0036454	Scotoma
+3552	C1384489	Scratch
+3553	C0521008	Screaming
+3554	C0268919	Scrotal disorder
+3555	C0240972	Scrotal erythema
+3556	C0151609	Scrotal oedema
+3557	C0236078	Scrotal pain
+3558	C0282005	Scrotal swelling
+3559	C0268948	Scrotal ulcer
+3560	C0018621	Seasonal allergy
+3561	C0036502	Sebaceous gland disorder
+3562	C0406484	Sebaceous hyperplasia
+3563	C0036508	Seborrhoeic dermatitis
+3564	C0022603	Seborrhoeic keratosis
+3565	C0271738	Secondary adrenocortical insufficiency
+3566	C0155616	Secondary hypertension
+3567	C0271623	Secondary hypogonadism
+3568	C0149985	Secondary syphilis
+3569	C0235195	Sedation
+3570	C0522178	Self-injurious ideation
+3571	C0085271	Self injurious behaviour
+3572	C2363829	Semen analysis abnormal
+3573	C0855521	Semen volume decreased
+3574	C0020498	Senile ankylosing vertebral hyperostosis
+3575	C0549264	Sensation of blood flow
+3576	C0423602	Sensation of foreign body
+3577	C0581912	Sensation of heaviness
+3578	C0234222	Sensation of pressure
+3579	C0522171	Sense of oppression
+3580	C1325847	Sensitisation
+3581	C0011432	Sensitivity of teeth
+3582	C0877401	Sensorimotor disorder
+3583	C0152027	Sensory disturbance
+3584	C0278134	Sensory loss
+3585	C0243026	Sepsis
+3586	C0456103	Sepsis neonatal
+3587	C0854144	Septic arthritis streptobacillus
+3588	C0036983	Septic shock
+3589	C0262627	Seroma
+3590	C0036749	Serositis
+3591	C0699828	Serotonin syndrome
+3592	C0241012	Serum ferritin decreased
+3593	C0241013	Serum ferritin increased
+3594	C0036830	Serum sickness
+3595	C0221742	Serum sickness-like reaction
+3596	C1175175	Severe acute respiratory syndrome
+3597	C0549622	Sexual dysfunction
+3598	C0241028	Sexually active
+3599	C0036916	Sexually transmitted disease
+3600	C0240173	Shift to the left
+3601	C0036974	Shock
+3602	C0036982	Shock haemorrhagic
+3603	C0851302	Shock hypoglycaemic
+3604	C1963824	Shortened cervix
+3605	C1142175	Shunt thrombosis
+3606	C0037023	Sialoadenitis
+3607	C0037052	Sick sinus syndrome
+3608	C0002895	Sickle cell anaemia
+3609	C0238425	Sickle cell anaemia with crisis
+3610	C0002896	Sideroblastic anaemia
+3611	C1384670	Single umbilical artery
+3612	C0037188	Sinoatrial block
+3613	C0877107	Sinobronchitis
+3614	C0541782	Sinus arrest
+3615	C0003813	Sinus arrhythmia
+3616	C0085610	Sinus bradycardia
+3617	C0152029	Sinus congestion
+3618	C0030469	Sinus disorder
+3619	C0037195	Sinus headache
+3620	C0748725	Sinus operation
+3621	C0232201	Sinus rhythm
+3622	C0039239	Sinus tachycardia
+3623	C0037199	Sinusitis
+3624	C1262006	Sinusitis bacterial
+3625	C1527336	Sjogren's syndrome
+3626	C0597457	Skeletal injury
+3627	C0151514	Skin atrophy
+3628	C0162627	Skin bacterial infection
+3629	C0241057	Skin burning sensation
+3630	C0007114	Skin cancer
+3631	C0006846	Skin candida
+3632	C0262977	Skin depigmentation
+3633	C0151907	Skin discolouration
+3634	C0863084	Skin discomfort
+3635	C0037274	Skin disorder
+3636	C0241069	Skin erosion
+3637	C0237849	Skin exfoliation
+3638	C0263008	Skin fibrosis
+3639	C0221245	Skin fissures
+3640	C0549419	Skin fragility
+3641	C0852361	Skin haemorrhage
+3642	C0162834	Skin hyperpigmentation
+3643	C0151717	Skin hypertrophy
+3644	C0241075	Skin induration
+3645	C0037278	Skin infection
+3646	C0152030	Skin irritation
+3647	C0037284	Skin lesion
+3648	C0558143	Skin maceration
+3649	C0281981	Skin mass
+3650	C0151799	Skin necrosis
+3651	C0234930	Skin odour abnormal
+3652	C0521464	Skin oedema
+3653	C0347390	Skin papilloma
+3654	C0221743	Skin reaction
+3655	C2939094	Skin sensitisation
+3656	C0152459	Skin striae
+3657	C0281982	Skin swelling
+3658	C0241166	Skin tightness
+3659	C1167791	Skin toxicity
+3660	C0037299	Skin ulcer
+3661	C0235218	Skin warm
+3662	C0037301	Skin wrinkling
+3663	C0235942	Skull malformation
+3664	C0037315	Sleep apnoea syndrome
+3665	C0855247	Sleep attacks
+3666	C0851578	Sleep disorder
+3667	C0456511	Sleep paralysis
+3668	C0852566	Sleep phase rhythm disturbance
+3669	C0542313	Sleep talking
+3670	C0037320	Sleep terror
+3671	C1859270	Slow speech
+3672	C0920289	Sluggishness
+3673	C0948050	Small bowel angioedema
+3674	C0149925	Small cell lung cancer
+3675	C0235329	Small intestinal obstruction
+3676	C0151739	Small intestinal perforation
+3677	C0151977	Small intestine ulcer
+3678	C0476427	Smear cervix abnormal
+3679	C0853203	Smear cervix normal
+3680	C0037383	Sneezing
+3681	C0037384	Snoring
+3682	C0855237	Social avoidant behaviour
+3683	C0263978	Soft tissue disorder
+3684	C0149778	Soft tissue infection
+3685	C0853314	Soft tissue inflammation
+3686	C0037578	Soft tissue injury
+3687	C1561230	Soft tissue necrosis
+3688	C1442835	Solar dermatitis
+3689	C0036651	Solar lentigo
+3690	C0233774	Somatic hallucination
+3691	C0037650	Somatoform disorder
+3692	C0037672	Somnambulism
+3693	C2830004	Somnolence
+3694	C0235774	Somnolence neonatal
+3695	C0264588	Spasmodic dysphonia
+3696	C0085621	Spastic paralysis
+3697	C0037822	Speech disorder
+3698	C1261167	Sperm concentration
+3699	C3160771	Sperm concentration decreased
+3700	C0037859	Spermatocele
+3701	C0520933	Spermatogenesis abnormal
+3702	C0541896	Spermatozoa abnormal
+3703	C0878588	Sphincter of Oddi dysfunction
+3704	C0080178	Spina bifida
+3705	C0080174	Spina bifida occulta
+3706	C0002928	Spinal anaesthesia
+3707	C0262431	Spinal compression fracture
+3708	C0037926	Spinal cord compression
+3709	C0037928	Spinal cord disorder
+3710	C0018949	Spinal cord haemorrhage
+3711	C2314994	Spinal cord infarction
+3712	C0037929	Spinal cord injury
+3713	C1112349	Spinal cord paralysis
+3714	C0037933	Spinal disorder
+3715	C0877172	Spinal epidural haematoma
+3716	C0080179	Spinal fracture
+3717	C0856150	Spinal haematoma
+3718	C0949690	Spinal osteoarthritis
+3719	C0158775	Spine malformation
+3720	C0037997	Spleen disorder
+3721	C0241228	Spleen palpable
+3722	C0037998	Splenic infarction
+3723	C2609073	Splenic peliosis
+3724	C0038000	Splenic rupture
+3725	C0038002	Splenomegaly
+3726	C0333286	Splinter haemorrhages
+3727	C0038012	Spondylitis
+3728	C0949691	Spondyloarthropathy
+3729	C1697453	Spontaneous haematoma
+3730	C0877144	Spontaneous penile erection
+3731	C0004161	Sports injury
+3732	C0854425	Sputum discoloured
+3733	C0235567	Sputum increased
+3734	C0241235	Sputum purulent
+3735	C0007137	Squamous cell carcinoma
+3736	C0149782	Squamous cell carcinoma of lung
+3737	C0553723	Squamous cell carcinoma of skin
+3738	C0152965	Staphylococcal bacteraemia
+3739	C0038160	Staphylococcal infection
+3740	C0038165	Staphylococcal scalded skin syndrome
+3741	C0038166	Staphylococcal skin infection
+3742	C0271093	Stargardt's disease
+3743	C0423086	Staring
+3744	C0038218	Status asthmaticus
+3745	C0038220	Status epilepticus
+3746	C0038238	Steatorrhoea
+3747	C0038273	Stereotypy
+3748	C0235453	Steroid withdrawal syndrome
+3749	C0038325	Stevens-Johnson syndrome
+3750	C0392162	Sticky skin
+3751	C0595939	Stillbirth
+3752	C1456329	Stomach dilation procedure
+3753	C0038362	Stomatitis
+3754	C0235849	Stomatitis necrotising
+3755	C0038379	Strabismus
+3756	C0241705	Strangury
+3757	C0152063	Streptobacillary fever
+3758	C0038395	Streptococcal infection
+3759	C0152964	Streptococcal sepsis
+3760	C0038435	Stress
+3761	C0558919	Stress at work
+3762	C0016664	Stress fracture
+3763	C0038450	Stridor
+3764	C0520872	Stroke volume increased
+3765	C0038463	Strongyloidiasis
+3766	C0085628	Stupor
+3767	C0264863	Subacute endocarditis
+3768	C0038525	Subarachnoid haemorrhage
+3769	C0520729	Subconjunctival cyst
+3770	C0241266	Subcutaneous abscess
+3771	C0520532	Subcutaneous haematoma
+3772	C0038538	Subdural effusion
+3773	C0018946	Subdural haematoma
+3774	C0919671	Subileus
+3775	C0749106	Submandibular mass
+3776	C2987469	Substance-induced psychotic disorder
+3777	C0740858	Substance abuse
+3778	C0085298	Sudden cardiac death
+3779	C0011071	Sudden death
+3780	C0011057	Sudden hearing loss
+3781	C0038644	Sudden infant death syndrome
+3782	C0919582	Sudden onset of sleep
+3783	C1536075	Sudden unexplained death in epilepsy
+3784	C0155002	Sudden visual loss
+3785	C1760428	Suicidal behaviour
+3786	C0424000	Suicidal ideation
+3787	C0038663	Suicide attempt
+3788	C0038732	Sulphaemoglobinaemia
+3789	C0038814	Sunburn
+3790	C0038826	Superinfection
+3791	C0338575	Superior sagittal sinus thrombosis
+3792	C0038833	Superior vena cava syndrome
+3793	C0266011	Supernumerary nipple
+3794	C0269993	Suppressed lactation
+3795	C0241310	Suprapubic pain
+3796	C0033036	Supraventricular extrasystoles
+3797	C1698480	Supraventricular tachyarrhythmia
+3798	C0039240	Supraventricular tachycardia
+3799	C0543467	Surgery
+3800	C0233519	Suspiciousness
+3801	C1142470	Suture related complication
+3802	C0038986	Sweat gland disorder
+3803	C0038987	Sweat gland tumour
+3804	C0038999	Swelling
+3805	C0151602	Swelling face
+3806	C0236068	Swollen tongue
+3807	C0877014	Sympathomimetic effect
+3808	C0039070	Syncope
+3809	C0039075	Syndactyly
+3810	C0085648	Synovial cyst
+3811	C0039103	Synovitis
+3812	C0039128	Syphilis
+3813	C0153252	Systemic candida
+3814	C0242966	Systemic inflammatory response syndrome
+3815	C0024141	Systemic lupus erythematosus
+3816	C0521471	Systemic lupus erythematosus rash
+3817	C0553576	Systemic mycosis
+3818	C0221155	Systolic hypertension
+3819	C0079772	T-cell lymphoma
+3820	C0080203	Tachyarrhythmia
+3821	C0039231	Tachycardia
+3822	C0410918	Tachycardia foetal
+3823	C0039242	Tachyphylaxis
+3824	C0231835	Tachypnoea
+3825	C1301937	Talipes
+3826	C1142034	Tandem gait test abnormal
+3827	C0686347	Tardive dyskinesia
+3828	C0424109	Tearfulness
+3829	C0039437	Teething
+3830	C0039446	Telangiectasia
+3831	C1112320	Temperature intolerance
+3832	C0854171	Temperature regulation disorder
+3833	C1956391	Temporal arteritis
+3834	C0039496	Temporomandibular joint syndrome
+3835	C0234233	Tenderness
+3836	C0158350	Tendinous contracture
+3837	C0151936	Tendon disorder
+3838	C0039504	Tendon injury
+3839	C0231529	Tendon pain
+3840	C0151937	Tendon rupture
+3841	C0039503	Tendonitis
+3842	C0039520	Tenosynovitis
+3843	C0233494	Tension
+3844	C0033893	Tension headache
+3845	C0232910	Teratogenicity
+3846	C0541798	Terminal insomnia
+3847	C0156312	Testicular atrophy
+3848	C0039584	Testicular disorder
+3849	C0039591	Testicular pain
+3850	C2584688	Testicular swelling
+3851	C0153594	Testis cancer
+3852	C0039614	Tetanus
+3853	C0039621	Tetany
+3854	C0751436	Tetrahydrobiopterin deficiency
+3855	C0235827	Therapeutic response decreased
+3856	C0235821	Therapeutic response increased
+3857	C0853141	Therapeutic response unexpected
+3858	C0919936	Therapy naive
+3859	C0701836	Thermal burn
+3860	C0233632	Thinking abnormal
+3861	C0039971	Thirst
+3862	C0919947	Thoracic vertebral fracture
+3863	C0233660	Thought blocking
+3864	C0700184	Throat irritation
+3865	C0236071	Throat tightness
+3866	C0040034	Thrombocytopenia
+3867	C0857305	Thrombocytopenic purpura
+3868	C0836924	Thrombocytosis
+3869	C0040046	Thrombophlebitis
+3870	C1510431	Thrombophlebitis superficial
+3871	C0040053	Thrombosis
+3872	C1262281	Thrombosis in device
+3873	C0267412	Thrombosis mesenteric vessel
+3874	C2717961	Thrombotic microangiopathy
+3875	C0034155	Thrombotic thrombocytopenic purpura
+3876	C1096195	Thyroglobulin increased
+3877	C0151468	Thyroid adenoma
+3878	C0007115	Thyroid cancer
+3879	C0040128	Thyroid disorder
+3880	C0476414	Thyroid function test abnormal
+3881	C0040136	Thyroid neoplasm
+3882	C0040147	Thyroiditis
+3883	C0040127	Thyrotoxic crisis
+3884	C1295666	Thyroxine decreased
+3885	C0948240	Thyroxine free decreased
+3886	C0426900	Tibial torsion
+3887	C0040188	Tic
+3888	C1384589	Tinea cruris
+3889	C0040247	Tinea infection
+3890	C0040259	Tinea pedis
+3891	C0040262	Tinea versicolour
+3892	C0040264	Tinnitus
+3893	C0275378	Tobacco poisoning
+3894	C1167842	Tobacco withdrawal symptoms
+3895	C0427144	Toe walking
+3896	C0853942	Tongue blistering
+3897	C0009144	Tongue coated
+3898	C0151596	Tongue discolouration
+3899	C0040409	Tongue disorder
+3900	C0426498	Tongue dry
+3901	C0017677	Tongue geographic
+3902	C0040411	Tongue neoplasm
+3903	C0153349	Tongue neoplasm malignant stage unspecified
+3904	C0151610	Tongue oedema
+3905	C0235074	Tongue paralysis
+3906	C2609174	Tongue pigmentation
+3907	C0234953	Tongue spasm
+3908	C0235351	Tongue ulceration
+3909	C0919909	Tonic clonic movements
+3910	C0270844	Tonic convulsion
+3911	C0272380	Tonsillar disorder
+3912	C0272386	Tonsillar hypertrophy
+3913	C0040425	Tonsillitis
+3914	C0518988	Tooth abscess
+3915	C0040434	Tooth discolouration
+3916	C0040435	Tooth disorder
+3917	C0040436	Tooth erosion
+3918	C0040441	Tooth fracture
+3919	C0235357	Tooth hypoplasia
+3920	C0877046	Tooth infection
+3921	C0242891	Tooth injury
+3922	C0080233	Tooth loss
+3923	C0040427	Tooth malformation
+3924	C0040460	Toothache
+3925	C0040479	Torsade de pointes
+3926	C0040485	Torticollis
+3927	C0040517	Tourette's disorder
+3928	C0520563	Toxic dilatation of intestine
+3929	C0149504	Toxic encephalopathy
+3930	C0014518	Toxic epidermal necrolysis
+3931	C0270934	Toxic neuropathy
+3932	C0600327	Toxic shock syndrome
+3933	C0521465	Toxic skin eruption
+3934	C3160741	Toxicity to various agents
+3935	C0040558	Toxoplasmosis
+3936	C0040580	Tracheal disorder
+3937	C0340214	Tracheal fistula
+3938	C0040584	Tracheitis
+3939	C0040588	Tracheo-oesophageal fistula
+3940	C0040586	Tracheobronchitis
+3941	C0695236	Tracheostomy infection
+3942	C1096286	Transaminases decreased
+3943	C0438717	Transaminases increased
+3944	C0274435	Transfusion reaction
+3945	C0338591	Transient global amnesia
+3946	C0007787	Transient ischaemic attack
+3947	C1262018	Transplant failure
+3948	C0018129	Transplant rejection
+3949	C0270639	Transverse sinus thrombosis
+3950	C0152086	Traumatic arthropathy
+3951	C0877237	Traumatic fracture
+3952	C0549453	Traumatic haematoma
+3953	C0040797	Traumatic haemorrhage
+3954	C2242588	Traumatic liver injury
+3955	C0273115	Traumatic lung injury
+3956	C0040822	Tremor
+3957	C0702163	Trichorrhexis
+3958	C0040953	Trichotillomania
+3959	C0040961	Tricuspid valve incompetence
+3960	C0040997	Trigeminal neuralgia
+3961	C0158328	Trigger finger
+3962	C0041105	Trismus
+3963	C0152096	Trisomy 18
+3964	C0013080	Trisomy 21
+3965	C1141949	Troponin I increased
+3966	C1141948	Troponin increased
+3967	C0032739	Tuberculin test positive
+3968	C0041296	Tuberculosis
+3969	C0041349	Tubulointerstitial nephritis
+3970	C3160759	Tumour cell mobilisation
+3971	C2242727	Tumour compression
+3972	C0853891	Tumour flare
+3973	C0877584	Tumour haemorrhage
+3974	C1269955	Tumour invasion
+3975	C0041364	Tumour lysis syndrome
+3976	C0333516	Tumour necrosis
+3977	C0854069	Tumour pain
+3978	C2937228	Tunnel vision
+3979	C0041408	Turner's syndrome
+3980	C0041825	Tympanic membrane disorder
+3981	C0948298	Tympanic membrane hyperaemia
+3982	C0206504	Tympanic membrane perforation
+3983	C0011854	Type 1 diabetes mellitus
+3984	C0011860	Type 2 diabetes mellitus
+3985	C0020523	Type I hypersensitivity
+3986	C0745103	Type IIa hyperlipidaemia
+3987	C1096071	Type III immune complex mediated reaction
+3988	C0020522	Type IV hypersensitivity reaction
+3989	C0041466	Typhoid fever
+3990	C0041582	Ulcer
+3991	C0333291	Ulcer haemorrhage
+3992	C0010043	Ulcerative keratitis
+3993	C0041601	Ulna fracture
+3994	C0740314	Ultrasound breast abnormal
+3995	C1868829	Ultrasound ovary abnormal
+3996	C0019322	Umbilical hernia
+3997	C0041667	Underweight
+3998	C0041747	Unintended pregnancy
+3999	C0857494	Unresponsive to stimuli
+4000	C0919728	Unwanted awareness during anaesthesia
+4001	C2938875	Upper-airway cough syndrome
+4002	C0740852	Upper airway obstruction
+4003	C0041909	Upper gastrointestinal haemorrhage
+4004	C0178316	Upper limb fracture
+4005	C0235834	Upper motor neurone lesion
+4006	C0949070	Upper respiratory tract congestion
+4007	C0041912	Upper respiratory tract infection
+4008	C0877266	Upper respiratory tract inflammation
+4009	C2955673	Urate nephropathy
+4010	C0948226	Ureteral spasm
+4011	C0153619	Ureteric cancer
+4012	C0041956	Ureteric obstruction
+4013	C0041959	Ureteritis
+4014	C0877187	Ureterostomy site discomfort
+4015	C0152447	Urethral discharge
+4016	C0041969	Urethral disorder
+4017	C0241558	Urethral haemorrhage
+4018	C0041972	Urethral obstruction
+4019	C0151830	Urethral pain
+4020	C0041974	Urethral stenosis
+4021	C0156279	Urethral syndrome
+4022	C0041976	Urethritis
+4023	C1328337	Urethritis noninfective
+4024	C0150045	Urge incontinence
+4025	C0877645	Urinary bladder polyp
+4026	C0152032	Urinary hesitation
+4027	C0042024	Urinary incontinence
+4028	C0080274	Urinary retention
+4029	C0920114	Urinary sediment abnormal
+4030	C0877324	Urinary sediment present
+4031	C0042075	Urinary tract disorder
+4032	C0042029	Urinary tract infection
+4033	C0877131	Urinary tract infection fungal
+4034	C0178879	Urinary tract obstruction
+4035	C0423701	Urinary tract pain
+4036	C0235639	Urine abnormality
+4037	C0438142	Urine analysis abnormal
+4038	C0919643	Urine calcium increased
+4039	C0438254	Urine electrolytes abnormal
+4040	C0549418	Urine flow decreased
+4041	C0860805	Urine ketone body present
+4042	C0278045	Urine odour abnormal
+4043	C1287298	Urine output
+4044	C1167965	Urine output increased
+4045	C1096658	Urine phosphorus increased
+4046	C0854101	Urine sodium increased
+4047	C0080276	Urogenital disorder
+4048	C0919591	Urogenital haemorrhage
+4049	C0149801	Urosepsis
+4050	C0042109	Urticaria
+4051	C0263338	Urticaria chronic
+4052	C0343065	Urticaria physical
+4053	C0234934	Urticaria vesiculosa
+4054	C0042135	Uterine atony
+4055	C0153567	Uterine cancer
+4056	C0007869	Uterine cervical erosion
+4057	C0269190	Uterine cervical squamous metaplasia
+4058	C0919567	Uterine contractions during pregnancy
+4059	C0269188	Uterine cyst
+4060	C0042131	Uterine disorder
+4061	C0151994	Uterine enlargement
+4062	C0042134	Uterine haemorrhage
+4063	C0269842	Uterine hypertonus
+4064	C0152159	Uterine hypotonus
+4065	C0235883	Uterine inflammation
+4066	C0042133	Uterine leiomyoma
+4067	C0221782	Uterine mass
+4068	C0042138	Uterine neoplasm
+4069	C0567085	Uterine pain
+4070	C0042139	Uterine perforation
+4071	C0156369	Uterine polyp
+4072	C0042140	Uterine prolapse
+4073	C0042143	Uterine rupture
+4074	C0151998	Uterine spasm
+4075	C0156353	Uterovaginal prolapse
+4076	C0042164	Uveitis
+4077	C0241619	Vaginal cyst
+4078	C0227791	Vaginal discharge
+4079	C0042251	Vaginal disorder
+4080	C0156384	Vaginal dysplasia
+4081	C1262149	Vaginal erosion
+4082	C2979982	Vaginal haemorrhage
+4083	C0404521	Vaginal infection
+4084	C0042267	Vaginal inflammation
+4085	C0877089	Vaginal mucosal blistering
+4086	C0042258	Vaginal neoplasm
+4087	C0235678	Vaginal odour
+4088	C0205990	Vaginal prolapse
+4089	C0566951	Vaginal ulceration
+4090	C0854131	Vaginal wall congestion
+4091	C2004487	Vaginismus
+4092	C0085166	Vaginitis bacterial
+4093	C1096272	Vanishing bile duct syndrome
+4094	C0008049	Varicella
+4095	C0014867	Varices oesophageal
+4096	C0042341	Varicocele
+4097	C0042345	Varicose vein
+4098	C0155796	Varicose veins vulval
+4099	C0158570	Vascular anomaly
+4100	C0342649	Vascular calcification
+4101	C0011269	Vascular dementia
+4102	C0018128	Vascular graft occlusion
+4103	C0042376	Vascular headache
+4104	C0232352	Vascular insufficiency
+4105	C1096458	Vascular occlusion
+4106	C0858765	Vascular pain
+4107	C1510412	Vascular pseudoaneurysm
+4108	C1368065	Vascular purpura
+4109	C1867423	Vascular resistance pulmonary increased
+4110	C1258192	Vascular resistance systemic
+4111	C0679401	Vascular rupture
+4112	C0679403	Vascular stenosis
+4113	C0521161	Vasculitic rash
+4114	C0042384	Vasculitis
+4115	C0238051	Vasculitis cerebral
+4116	C0856069	Vasculitis gastrointestinal
+4117	C1318520	Vasculitis necrotising
+4118	C1456863	Vasoconstriction
+4119	C0595862	Vasodilatation
+4120	C1142412	Vasodilation procedure
+4121	C0035460	Vasomotor rhinitis
+4122	C0085616	Vasospasm
+4123	C0549444	Vein discolouration
+4124	C0235522	Vein disorder
+4125	C0265050	Vena cava thrombosis
+4126	C1275515	Venomous bite
+4127	C0948441	Venoocclusive disease
+4128	C0019156	Venoocclusive liver disease
+4129	C0042485	Venous insufficiency
+4130	C0241669	Venous occlusion
+4131	C0232115	Venous pressure increased
+4132	C0520861	Venous pressure jugular increased
+4133	C0042487	Venous thrombosis
+4134	C0853347	Venous thrombosis limb
+4135	C0085612	Ventricular arrhythmia
+4136	C0242973	Ventricular dysfunction
+4137	C0151636	Ventricular extrasystoles
+4138	C0849925	Ventricular failure
+4139	C0042510	Ventricular fibrillation
+4140	C0152173	Ventricular flutter
+4141	C0340279	Ventricular hypertrophy
+4142	C0919702	Ventricular hypokinesia
+4143	C0018818	Ventricular septal defect
+4144	C0042514	Ventricular tachycardia
+4145	C0042568	Vertebrobasilar insufficiency
+4146	C0242648	Vertical infection transmission
+4147	C0042571	Vertigo
+4148	C0155503	Vertigo CNS origin
+4149	C0522351	Vertigo positional
+4150	C1710632	Vessel perforation
+4151	C1535879	Vessel puncture site bruise
+4152	C1696110	Vessel puncture site haematoma
+4153	C1096225	Vessel puncture site haemorrhage
+4154	C1096708	Vessel puncture site inflammation
+4155	C0235927	Vestibular ataxia
+4156	C0042594	Vestibular disorder
+4157	C0751908	Vestibular neuronitis
+4158	C0919980	VIIth nerve paralysis
+4159	C0042749	Viraemia
+4160	C0152517	Viral diarrhoea
+4161	C0042769	Viral infection
+4162	C0276143	Viral pharyngitis
+4163	C0162628	Viral skin infection
+4164	C0339916	Viral upper respiratory tract infection
+4165	C0042755	Virilism
+4166	C0344232	Vision blurred
+4167	C0234632	Visual acuity reduced
+4168	C0877154	Visual brightness
+4169	C0522214	Visual evoked potentials abnormal
+4170	C3665347	Visual impairment
+4171	C0855704	Vital dye staining cornea present
+4172	C0042850	Vitamin B complex deficiency
+4173	C0042847	Vitamin B12 deficiency
+4174	C0936215	Vitamin B6 deficiency
+4175	C1142086	Vitamin E decreased
+4176	C1142530	Vitamin K decreased
+4177	C0042880	Vitamin K deficiency
+4178	C0271355	VIth nerve paralysis
+4179	C0042900	Vitiligo
+4180	C0042907	Vitreous detachment
+4181	C0155365	Vitreous disorder
+4182	C0016242	Vitreous floaters
+4183	C0042909	Vitreous haemorrhage
+4184	C0152006	Vitreous opacities
+4185	C0155369	Vitreous prolapse
+4186	C0264309	Vocal cord disorder
+4187	C0042928	Vocal cord paralysis
+4188	C0751576	Vocal cord paresis
+4189	C0042170	Vogt-Koyanagi-Harada syndrome
+4190	C0085607	Volume blood increased
+4191	C0042961	Volvulus
+4192	C0042963	Vomiting
+4193	C0270274	Vomiting neonatal
+4194	C0262666	Vulval abscess
+4195	C0042994	Vulval disorder
+4196	C0156339	Vulval ulceration
+4197	C0042996	Vulvitis
+4198	C1963790	Vulvovaginal burning sensation
+4199	C0700345	Vulvovaginal candidiasis
+4200	C0520587	Vulvovaginal discomfort
+4201	C0152008	Vulvovaginal disorder
+4202	C0520589	Vulvovaginal dryness
+4203	C2748362	Vulvovaginal erythema
+4204	C1609512	Vulvovaginal mycotic infection
+4205	C0520588	Vulvovaginal pain
+4206	C1112214	Vulvovaginal pruritus
+4207	C3160944	Vulvovaginal swelling
+4208	C0042998	Vulvovaginitis
+4209	C2945558	Vulvovaginitis trichomonal
+4210	C1611167	Waist circumference increased
+4211	C0311394	Walking disability
+4212	C1321523	Wandering pacemaker
+4213	C0272118	Warm type haemolytic anaemia
+4214	C0043049	Water intoxication
+4215	C0233612	Waxy flexibility
+4216	C0043096	Weight decreased
+4217	C0241729	Weight fluctuation
+4218	C0231246	Weight gain poor
+4219	C0043094	Weight increased
+4220	C0349464	Wernicke-Korsakoff syndrome
+4221	C0043144	Wheezing
+4222	C0580531	White blood cell count abnormal
+4223	C0750394	White blood cell count decreased
+4224	C0750426	White blood cell count increased
+4225	C0023510	White blood cell disorder
+4226	C0555120	White blood cells urine positive
+4227	C2752009	White matter lesion
+4228	C0152010	Withdrawal bleed
+4229	C0857468	Withdrawal hypertension
+4230	C0038587	Withdrawal syndrome
+4231	C0043250	Wound
+4232	C1096106	Wound complication
+4233	C0259768	Wound dehiscence
+4234	C0281860	Wound haematoma
+4235	C0241742	Wound haemorrhage
+4236	C1863751	Wound healing normal
+4237	C0043241	Wound infection
+4238	C0406834	Wound secretion
+4239	C0435630	Wrist fracture
+4240	C0549463	X-linked lymphoproliferative syndrome
+4241	C0302314	Xanthoma
+4242	C0043325	Xanthomatosis
+4243	C0221185	Xanthopsia
+4244	C0043345	Xeroderma
+4245	C0043349	Xerophthalmia
+4246	C0259817	Xerosis
+4247	C0043387	Yawning
+4248	C0221348	Yellow nail syndrome
+4249	C0558148	Yellow skin
+4250	C0235950	Zinc deficiency
+4251	C0043541	Zygomycosis
