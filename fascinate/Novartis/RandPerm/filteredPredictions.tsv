@@ -1,0 +1,266 @@
+21	CYP3A5	P20815 cytochrome P450, family 3, subfamily A, polypeptide 5	C0000737	Abdominal pain	6.4265e-09
+22	CACNA1G	O43497 calcium channel, voltage-dependent, T type, alpha 1G subunit	C0000737	Abdominal pain	6.4265e-09
+29	KCNK2	O95069 potassium channel, subfamily K, member 2	C0000737	Abdominal pain	6.4265e-09
+40	FPR1	P21462 formyl peptide receptor 1	C0000737	Abdominal pain	6.4265e-09
+41	PDE6A	P16499 phosphodiesterase 6A, cGMP-specific, rod, alpha	C0000737	Abdominal pain	6.4265e-09
+51	STK10	O94804 serine/threonine kinase 10	C0000737	Abdominal pain	6.4265e-09
+59	SI	P14410 sucrase-isomaltase (alpha-glucosidase)	C0000737	Abdominal pain	6.4265e-09
+67	GANC	Q8TET4 glucosidase, alpha; neutral C	C0000737	Abdominal pain	6.4265e-09
+104	RBP2	P50120 retinol binding protein 2, cellular	C0001175	Acquired immunodeficiency syndrome	6.4265e-09
+106	RBP4	P02753 retinol binding protein 4, plasma	C0001175	Acquired immunodeficiency syndrome	6.4265e-09
+107	BRAF	P15056 v-raf murine sarcoma viral oncogene homolog B	C0022602	Actinic keratosis	6.4265e-09
+249	CLIC6	Q96NY7 chloride intracellular channel 6	C0392156	Akathisia	6.4265e-09
+278	CYP2C8	P10632 cytochrome P450, family 2, subfamily C, polypeptide 8	C0008728	Allergic granulomatous angiitis	6.4265e-09
+283	ABCG2	Q9UNQ0 ATP-binding cassette, sub-family G (WHITE), member 2	C0002170	Alopecia	6.4265e-09
+286	POLG	P54098 polymerase (DNA directed), gamma	C0002170	Alopecia	6.4265e-09
+344	PON1	P27169 paraoxonase 1	C0033775	Anal pruritus	6.4265e-09
+348	PNLIP	P16233 pancreatic lipase	C0033775	Anal pruritus	6.4265e-09
+354	LACTB	P83111 lactamase, beta	C0002792	Anaphylactic shock	6.4265e-09
+357	ABCC9	O60706 ATP-binding cassette, sub-family C (CFTR/MRP), member 9	C0002792	Anaphylactic shock	6.4265e-09
+386	S100A4	P26447 S100 calcium binding protein A4	C0340865	Anaphylactoid reaction	6.4265e-09
+390	TNNC1	P63316 troponin C type 1 (slow)	C0340865	Anaphylactoid reaction	6.4265e-09
+415	SLC5A4	Q9NY91 solute carrier family 5 (glucose activated ion channel), member 4	C0002965	Angina unstable	6.4265e-09
+418	PDE6G	P18545 phosphodiesterase 6G, cGMP-specific, rod, gamma	C0002965	Angina unstable	6.4265e-09
+421	NPR1	P16066 natriuretic peptide receptor A/guanylate cyclase A (atrionatriuretic peptide receptor A)	C0002965	Angina unstable	6.4265e-09
+422	PDE6H	Q13956 phosphodiesterase 6H, cGMP-specific, cone, gamma	C0002965	Angina unstable	6.4265e-09
+428	ABCC9	O60706 ATP-binding cassette, sub-family C (CFTR/MRP), member 9	C0002994	Angioedema	6.4265e-09
+469	CACNA2D2	Q9NY47 calcium channel, voltage-dependent, alpha 2/delta subunit 2	C0233523	Antisocial behaviour	6.4265e-09
+471	BCAT2	O15382 branched chain amino-acid transaminase 2, mitochondrial	C0233523	Antisocial behaviour	6.4265e-09
+579	CACNA1E	Q15878 calcium channel, voltage-dependent, R type, alpha 1E subunit	C0003811	Arrhythmia	6.4265e-09
+591	PDE1A	P54750 phosphodiesterase 1A, calmodulin-dependent	C0003811	Arrhythmia	6.4265e-09
+611	CACNB4	O00305 calcium channel, voltage-dependent, beta 4 subunit	C0003811	Arrhythmia	6.4265e-09
+621	PPARA	Q07869 peroxisome proliferator-activated receptor alpha	C0003862	Arthralgia	6.4265e-09
+638	CYP3A5	P20815 cytochrome P450, family 3, subfamily A, polypeptide 5	C0003862	Arthralgia	6.4265e-09
+649	NOS1	P29475 nitric oxide synthase 1 (neuronal)	C0003862	Arthralgia	6.4265e-09
+678	CACNA2D3	Q8IZS8 calcium channel, voltage-dependent, alpha 2/delta subunit 3	C0022408	Arthropathy	6.4265e-09
+683	KCNN4	O15554 potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4	C0151904	Aspartate aminotransferase increased	6.4265e-09
+755	INS	P01308 insulin	C0004144	Atelectasis	6.4265e-09
+906	MPO	P05164 myeloperoxidase	C0221752	Blood urine	6.4265e-09
+1230	CACNA2D2	Q9NY47 calcium channel, voltage-dependent, alpha 2/delta subunit 2	C0007760	Cerebellar syndrome	6.4265e-09
+1265	CYP11B2	P19099 cytochrome P450, family 11, subfamily B, polypeptide 2	C0235710	Chest discomfort	6.4265e-09
+1324	CACNA2D3	Q8IZS8 calcium channel, voltage-dependent, alpha 2/delta subunit 3	C0024117	Chronic obstructive pulmonary disease	6.4265e-09
+1419	ANG	P03950 angiogenin, ribonuclease, RNase A family, 5	C0009676	Confusional state	6.4265e-09
+1527	FOLR1	P15328 folate receptor 1 (adult)	C0036572	Convulsion	6.4265e-09
+1610	PTGR1	Q14914 prostaglandin reductase 1	C0010692	Cystitis	6.4265e-09
+1613	SULT1E1	P49888 sulfotransferase family 1E, estrogen-preferring, member 1	C0010692	Cystitis	6.4265e-09
+1620	AKR1C1	Q04828 aldo-keto reductase family 1, member C1	C0010692	Cystitis	6.4265e-09
+1627	SHBG	P04278 sex hormone-binding globulin	C0010692	Cystitis	6.4265e-09
+1629	SLC6A1	P30531 solute carrier family 6 (neurotransmitter transporter), member 1	C0010692	Cystitis	6.4265e-09
+1647	CHRNA9	Q9UGM1 cholinergic receptor, nicotinic, alpha 9 (neuronal)	C1306577	Death	6.4265e-09
+1726	OPRL1	P41146 opiate receptor-like 1	C0439857	Dependence	6.4265e-09
+1733	DOK4	Q8TEW6 docking protein 4	C0439857	Dependence	6.4265e-09
+1899	SCN3A	Q9NY46 sodium channel, voltage-gated, type III, alpha subunit	C0012569	Diplopia	6.4265e-09
+2110	CHRND	Q07001 cholinergic receptor, nicotinic, delta (muscle)	C0013362	Dysarthria	6.4265e-09
+2111	CHRNB1	P11230 cholinergic receptor, nicotinic, beta 1 (muscle)	C0013362	Dysarthria	6.4265e-09
+2127	KCND1	Q9NSA2 potassium voltage-gated channel, Shal-related subfamily, member 1	C0013378	Dysgeusia	6.4265e-09
+2129	CA11	O75493 carbonic anhydrase XI	C0013378	Dysgeusia	6.4265e-09
+2131	KCNC3	Q14003 potassium voltage-gated channel, Shaw-related subfamily, member 3	C0013378	Dysgeusia	6.4265e-09
+2132	KCNA7	Q96RP8 potassium voltage-gated channel, shaker-related subfamily, member 7	C0013378	Dysgeusia	6.4265e-09
+2147	HTR1E	P28566 5-hydroxytryptamine (serotonin) receptor 1E, G protein-coupled	C0013384	Dyskinesia	6.4265e-09
+2198	CACNA1S	Q13698 calcium channel, voltage-dependent, L type, alpha 1S subunit	C0013404	Dyspnoea	6.4265e-09
+2569	PTGFR	P43088 prostaglandin F receptor (FP)	C0151827	Eye pain	6.4265e-09
+2661	STK10	O94804 serine/threonine kinase 10	C0015672	Fatigue	6.4265e-09
+2704	SI	P14410 sucrase-isomaltase (alpha-glucosidase)	C0549209	Feeling jittery	6.4265e-09
+2707	RNASE1	P07998 ribonuclease, RNase A family, 1 (pancreatic)	C0549209	Feeling jittery	6.4265e-09
+2743	PDE7A	Q13946 phosphodiesterase 7A	C0016382	Flushing	6.4265e-09
+2750	PDE7B	Q9NP56 phosphodiesterase 7B	C0016382	Flushing	6.4265e-09
+2786	MMP9	P14780 matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)	C0016658	Fracture	6.4265e-09
+2950	CELA1	Q9UNI1 chymotrypsin-like elastase family, member 1	C0003868	Gouty arthritis	6.4265e-09
+3045	KIT	P10721 v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog	C0019080	Haemorrhage	6.4265e-09
+3066	TPK1	Q9H3S4 thiamin pyrophosphokinase 1	C0019080	Haemorrhage	6.4265e-09
+3079	PRSS2	P07478 protease, serine, 2 (trypsin 2)	C0553692	Haemorrhagic stroke	6.4265e-09
+3230	FABP2	P12104 fatty acid binding protein 2, intestinal	C0151798	Hepatic necrosis	6.4265e-09
+3275	KCNK2	O95069 potassium channel, subfamily K, member 2	C0151763	Hepatocellular injury	6.4265e-09
+3547	GSTA1	P08263 glutathione S-transferase alpha 1	C0740394	Hyperuricaemia	6.4265e-09
+3548	KIT	P10721 v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog	C0740394	Hyperuricaemia	6.4265e-09
+3725	KCNK3	O14649 potassium channel, subfamily K, member 3	C3203358	Hypoventilation	6.4265e-09
+3728	CACNA2D2	Q9NY47 calcium channel, voltage-dependent, alpha 2/delta subunit 2	C3203358	Hypoventilation	6.4265e-09
+3729	KCNK9	Q9NPC2 potassium channel, subfamily K, member 9	C3203358	Hypoventilation	6.4265e-09
+4058	CHRND	Q07001 cholinergic receptor, nicotinic, delta (muscle)	C0023066	Laryngospasm	6.4265e-09
+4065	CHRNB1	P11230 cholinergic receptor, nicotinic, beta 1 (muscle)	C0023066	Laryngospasm	6.4265e-09
+4077	CHRNA9	Q9UGM1 cholinergic receptor, nicotinic, alpha 9 (neuronal)	C0023066	Laryngospasm	6.4265e-09
+4118	ABCG2	Q9UNQ0 ATP-binding cassette, sub-family G (WHITE), member 2	C0023530	Leukopenia	6.4265e-09
+4120	TUBB1	Q9H4B7 tubulin, beta 1 class VI	C0023530	Leukopenia	6.4265e-09
+4121	TUBA3E	Q6PEY2 tubulin, alpha 3e	C0023530	Leukopenia	6.4265e-09
+4129	TUBA3C	Q13748 tubulin, alpha 3c	C0023530	Leukopenia	6.4265e-09
+4132	TUBA8	Q9NY65 tubulin, alpha 8	C0023530	Leukopenia	6.4265e-09
+4178	SHBG	P04278 sex hormone-binding globulin	C0021177	Libido increased	6.4265e-09
+4202	CYP2C8	P10632 cytochrome P450, family 2, subfamily C, polypeptide 8	C0023895	Liver disorder	6.4265e-09
+4204	MT-ND1	P03886 mitochondrially encoded NADH dehydrogenase 1	C0023895	Liver disorder	6.4265e-09
+4208	ATP2C1	P98194 ATPase, Ca++ transporting, type 2C, member 1	C0023895	Liver disorder	6.4265e-09
+4213	NPC1L1	Q9UHC9 NPC1-like 1	C0023895	Liver disorder	6.4265e-09
+4214	EBP	Q15125 emopamil binding protein (sterol isomerase)	C0023895	Liver disorder	6.4265e-09
+4217	ANPEP	P15144 alanyl (membrane) aminopeptidase	C0023895	Liver disorder	6.4265e-09
+4229	ALOX5	P09917 arachidonate 5-lipoxygenase	C0160390	Liver injury	6.4265e-09
+4236	FPR1	P21462 formyl peptide receptor 1	C0242459	Loeffler's syndrome	6.4265e-09
+4278	PLA2G2E	Q9NZK7 phospholipase A2, group IIE	C0024299	Lymphoma	6.4265e-09
+4286	KCNH7	Q9NS40 potassium voltage-gated channel, subfamily H (eag-related), member 7	C0231218	Malaise	6.4265e-09
+4288	GRM6	O15303 glutamate receptor, metabotropic 6	C0231218	Malaise	6.4265e-09
+4289	CES1	P23141 carboxylesterase 1	C0231218	Malaise	6.4265e-09
+4292	ALOX5	P09917 arachidonate 5-lipoxygenase	C0231218	Malaise	6.4265e-09
+4296	CA11	O75493 carbonic anhydrase XI	C0231218	Malaise	6.4265e-09
+4297	FECH	P22830 ferrochelatase	C0231218	Malaise	6.4265e-09
+4299	GSTA1	P08263 glutathione S-transferase alpha 1	C0231218	Malaise	6.4265e-09
+4302	FABP2	P12104 fatty acid binding protein 2, intestinal	C0231218	Malaise	6.4265e-09
+4305	MMP12	P39900 matrix metallopeptidase 12 (macrophage elastase)	C0231218	Malaise	6.4265e-09
+4314	PDE6A	P16499 phosphodiesterase 6A, cGMP-specific, rod, alpha	C0231218	Malaise	6.4265e-09
+4317	GPT	P24298 glutamic-pyruvate transaminase (alanine aminotransferase)	C0231218	Malaise	6.4265e-09
+4319	KCNH6	Q9H252 potassium voltage-gated channel, subfamily H (eag-related), member 6	C0231218	Malaise	6.4265e-09
+4324	KCNMB4	Q86W47 potassium large conductance calcium-activated channel, subfamily M, beta member 4	C0231218	Malaise	6.4265e-09
+4330	KCNMB2	Q9Y691 potassium large conductance calcium-activated channel, subfamily M, beta member 2	C0231218	Malaise	6.4265e-09
+4332	ESR1	P03372 estrogen receptor 1	C0231218	Malaise	6.4265e-09
+4333	PDE6H	Q13956 phosphodiesterase 6H, cGMP-specific, cone, gamma	C0231218	Malaise	6.4265e-09
+4336	FGF4	P08620 fibroblast growth factor 4	C0231218	Malaise	6.4265e-09
+4337	PDE6B	P35913 phosphodiesterase 6B, cGMP-specific, rod, beta	C0231218	Malaise	6.4265e-09
+4338	NAMPT	P43490 nicotinamide phosphoribosyltransferase	C0231218	Malaise	6.4265e-09
+4339	KCNN3	Q9UGI6 potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3	C0231218	Malaise	6.4265e-09
+4344	PLG	P00747 plasminogen	C0231218	Malaise	6.4265e-09
+4350	PTGR2	Q8N8N7 prostaglandin reductase 2	C0231218	Malaise	6.4265e-09
+4351	KCNN4	O15554 potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4	C0231218	Malaise	6.4265e-09
+4355	NOS3	P29474 nitric oxide synthase 3 (endothelial cell)	C0231218	Malaise	6.4265e-09
+4359	PDE6G	P18545 phosphodiesterase 6G, cGMP-specific, rod, gamma	C0231218	Malaise	6.4265e-09
+4361	PPARA	Q07869 peroxisome proliferator-activated receptor alpha	C0231218	Malaise	6.4265e-09
+4363	AOC3	Q16853 amine oxidase, copper containing 3	C0231218	Malaise	6.4265e-09
+4370	AMT	P48728 aminomethyltransferase	C0231218	Malaise	6.4265e-09
+4371	KCNMB1	Q16558 potassium large conductance calcium-activated channel, subfamily M, beta member 1	C0231218	Malaise	6.4265e-09
+4375	LIG1	P18858 ligase I, DNA, ATP-dependent	C0231218	Malaise	6.4265e-09
+4376	FABP6	P51161 fatty acid binding protein 6, ileal	C0231218	Malaise	6.4265e-09
+4377	KCNN1	Q92952 potassium intermediate/small conductance calcium-activated channel, subfamily N, member 1	C0231218	Malaise	6.4265e-09
+4379	KCNN2	Q9H2S1 potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2	C0231218	Malaise	6.4265e-09
+4383	PFKFB3	Q16875 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3	C0231218	Malaise	6.4265e-09
+4385	FOLR1	P15328 folate receptor 1 (adult)	C0231218	Malaise	6.4265e-09
+4386	PLAT	P00750 plasminogen activator, tissue	C0231218	Malaise	6.4265e-09
+4389	ALPPL2	P10696 alkaline phosphatase, placental-like 2	C0231218	Malaise	6.4265e-09
+4392	STK10	O94804 serine/threonine kinase 10	C0231218	Malaise	6.4265e-09
+4406	PPARG	P37231 peroxisome proliferator-activated receptor gamma	C0231218	Malaise	6.4265e-09
+4412	KCNMB3	Q9NPA1 potassium large conductance calcium-activated channel, subfamily M beta member 3	C0231218	Malaise	6.4265e-09
+4413	HCAR2	Q8TDS4 hydroxycarboxylic acid receptor 2	C0231218	Malaise	6.4265e-09
+4574	SLC6A1	P30531 solute carrier family 6 (neurotransmitter transporter), member 1	C0085606	Micturition urgency	6.4265e-09
+4606	DOK4	Q8TEW6 docking protein 4	C0026205	Miosis	6.4265e-09
+4617	FGF4	P08620 fibroblast growth factor 4	C0085633	Mood swings	6.4265e-09
+4641	RNASE1	P07998 ribonuclease, RNase A family, 1 (pancreatic)	C0085633	Mood swings	6.4265e-09
+4648	S100A13	Q99584 S100 calcium binding protein A13	C0149745	Mouth ulceration	6.4265e-09
+4656	S100A12	P80511 S100 calcium binding protein A12	C0149745	Mouth ulceration	6.4265e-09
+4819	PRSS2	P07478 protease, serine, 2 (trypsin 2)	C0027051	Myocardial infarction	6.4265e-09
+4846	ABCG2	Q9UNQ0 ATP-binding cassette, sub-family G (WHITE), member 2	C0027051	Myocardial infarction	6.4265e-09
+4853	THRB	P10828 thyroid hormone receptor, beta	C0027051	Myocardial infarction	6.4265e-09
+4906	HTR1E	P28566 5-hydroxytryptamine (serotonin) receptor 1E, G protein-coupled	C0027424	Nasal congestion	6.4265e-09
+5060	HPD	P32754 4-hydroxyphenylpyruvate dioxygenase	C0027769	Nervousness	6.4265e-09
+5070	TAAR1	Q96RJ0 trace amine associated receptor 1	C0027769	Nervousness	6.4265e-09
+5082	TRPA1	O75762 transient receptor potential cation channel, subfamily A, member 1	C0027813	Neuritis	6.4265e-09
+5085	AKR1C1	Q04828 aldo-keto reductase family 1, member C1	C0027813	Neuritis	6.4265e-09
+5091	MGLL	Q99685 monoglyceride lipase	C0027813	Neuritis	6.4265e-09
+5095	SLC6A1	P30531 solute carrier family 6 (neurotransmitter transporter), member 1	C0027813	Neuritis	6.4265e-09
+5298	KRT12	Q99456 keratin 12	C0006849	Oral candidiasis	6.4265e-09
+5323	CLIC6	Q96NY7 chloride intracellular channel 6	C0020651	Orthostatic hypotension	6.4265e-09
+5417	TAAR1	Q96RJ0 trace amine associated receptor 1	C0030252	Palpitations	6.4265e-09
+5596	CES1	P23141 carboxylesterase 1	C0031157	Peritonsillar abscess	6.4265e-09
+5704	AVPR2	P30518 arginine vasopressin receptor 2	C0032617	Polyuria	6.4265e-09
+5757	KCNH7	Q9NS40 potassium voltage-gated channel, subfamily H (eag-related), member 7	C0033117	Priapism	6.4265e-09
+5759	KCNH6	Q9H252 potassium voltage-gated channel, subfamily H (eag-related), member 6	C0033117	Priapism	6.4265e-09
+5777	SLC2A2	P11168 solute carrier family 2 (facilitated glucose transporter), member 2	C0033687	Proteinuria	6.4265e-09
+5783	PFKFB3	Q16875 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3	C0033687	Proteinuria	6.4265e-09
+5931	AOC3	Q16853 amine oxidase, copper containing 3	C0034150	Purpura	6.4265e-09
+5935	PLA2G2E	Q9NZK7 phospholipase A2, group IIE	C0034150	Purpura	6.4265e-09
+5938	CACNA1B	Q00975 calcium channel, voltage-dependent, N type, alpha 1B subunit	C0015230	Rash	6.4265e-09
+5939	CACNA1C	Q13936 calcium channel, voltage-dependent, L type, alpha 1C subunit	C0015230	Rash	6.4265e-09
+5942	CACNA1G	O43497 calcium channel, voltage-dependent, T type, alpha 1G subunit	C0015230	Rash	6.4265e-09
+5948	CACNA1S	Q13698 calcium channel, voltage-dependent, L type, alpha 1S subunit	C0015230	Rash	6.4265e-09
+5952	CACNA1E	Q15878 calcium channel, voltage-dependent, R type, alpha 1E subunit	C0015230	Rash	6.4265e-09
+5954	CACNB1	Q02641 calcium channel, voltage-dependent, beta 1 subunit	C0015230	Rash	6.4265e-09
+5956	PDE1C	Q14123 phosphodiesterase 1C, calmodulin-dependent 70kDa	C0015230	Rash	6.4265e-09
+5960	CACNB4	O00305 calcium channel, voltage-dependent, beta 4 subunit	C0015230	Rash	6.4265e-09
+5962	CACNG1	Q06432 calcium channel, voltage-dependent, gamma subunit 1	C0015230	Rash	6.4265e-09
+5977	TUBB1	Q9H4B7 tubulin, beta 1 class VI	C0015230	Rash	6.4265e-09
+5987	TYR	P14679 tyrosinase	C0015230	Rash	6.4265e-09
+5988	PDE1A	P54750 phosphodiesterase 1A, calmodulin-dependent	C0015230	Rash	6.4265e-09
+5992	ANG	P03950 angiogenin, ribonuclease, RNase A family, 5	C0015230	Rash	6.4265e-09
+6007	SI	P14410 sucrase-isomaltase (alpha-glucosidase)	C0015230	Rash	6.4265e-09
+6015	TTR	P02766 transthyretin	C0015230	Rash	6.4265e-09
+6049	ESR1	P03372 estrogen receptor 1	C0015230	Rash	6.4265e-09
+6054	PFKFB3	Q16875 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3	C0015230	Rash	6.4265e-09
+6081	PDE8A	O60658 phosphodiesterase 8A	C0232726	Rectal tenesmus	6.4265e-09
+6082	PDE8B	O95263 phosphodiesterase 8B	C0232726	Rectal tenesmus	6.4265e-09
+6083	PDE7B	Q9NP56 phosphodiesterase 7B	C0232726	Rectal tenesmus	6.4265e-09
+6086	ALOX5	P09917 arachidonate 5-lipoxygenase	C0232726	Rectal tenesmus	6.4265e-09
+6088	PTGR2	Q8N8N7 prostaglandin reductase 2	C0232726	Rectal tenesmus	6.4265e-09
+6090	TBXAS1	P24557 thromboxane A synthase 1 (platelet)	C0232726	Rectal tenesmus	6.4265e-09
+6091	MTTP	P55157 microsomal triglyceride transfer protein	C0232726	Rectal tenesmus	6.4265e-09
+6117	MMP12	P39900 matrix metallopeptidase 12 (macrophage elastase)	C1565489	Renal impairment	6.4265e-09
+6139	GRIA1	P42261 glutamate receptor, ionotropic, AMPA 1	C0235063	Respiratory depression	6.4265e-09
+6146	GLRB	P48167 glycine receptor, beta	C0235063	Respiratory depression	6.4265e-09
+6147	DOK4	Q8TEW6 docking protein 4	C0235063	Respiratory depression	6.4265e-09
+6151	ATP5D	P30049 ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit	C0235063	Respiratory depression	6.4265e-09
+6152	ATP2C1	P98194 ATPase, Ca++ transporting, type 2C, member 1	C0235063	Respiratory depression	6.4265e-09
+6176	CHRNB1	P11230 cholinergic receptor, nicotinic, beta 1 (muscle)	C0035204	Respiratory disorder	6.4265e-09
+6183	CHRND	Q07001 cholinergic receptor, nicotinic, delta (muscle)	C0035204	Respiratory disorder	6.4265e-09
+6242	IL8	P10145 interleukin 8	C0003873	Rheumatoid arthritis	6.4265e-09
+6252	PTGDS	P41222 prostaglandin D2 synthase 21kDa (brain)	C1260880	Rhinorrhoea	6.4265e-09
+6256	TH	P07101 tyrosine hydroxylase	C1260880	Rhinorrhoea	6.4265e-09
+6258	TRPV1	Q8NER1 transient receptor potential cation channel, subfamily V, member 1	C1260880	Rhinorrhoea	6.4265e-09
+6259	TPH1	P17752 tryptophan hydroxylase 1	C1260880	Rhinorrhoea	6.4265e-09
+6263	NOS1	P29475 nitric oxide synthase 1 (neuronal)	C1260880	Rhinorrhoea	6.4265e-09
+6325	PROC	P04070 protein C (inactivator of coagulation factors Va and VIIIa)	C0018621	Seasonal allergy	6.4265e-09
+6392	PKLR	P30613 pyruvate kinase, liver and RBC	C0037188	Sinoatrial block	6.4265e-09
+6395	ADH1C	P00326 alcohol dehydrogenase 1C (class I), gamma polypeptide	C0085610	Sinus bradycardia	6.4265e-09
+6435	SLC7A4	O43246 solute carrier family 7, member 4	C0151799	Skin necrosis	6.4265e-09
+6436	ARG2	P78540 arginase 2	C0151799	Skin necrosis	6.4265e-09
+6546	CACNA1G	O43497 calcium channel, voltage-dependent, T type, alpha 1G subunit	C0038325	Stevens-Johnson syndrome	6.4265e-09
+6555	LYZ	P61626 lysozyme	C0392162	Sticky skin	6.4265e-09
+6559	SLC7A11	Q9UPY5 solute carrier family 7 (anionic amino acid transporter light chain, xc- system), member 11	C0392162	Sticky skin	6.4265e-09
+6634	SCN1A	P35498 sodium channel, voltage-gated, type I, alpha subunit	C0039070	Syncope	6.4265e-09
+6637	PTGR1	Q14914 prostaglandin reductase 1	C0039070	Syncope	6.4265e-09
+6639	CCKBR	P32239 cholecystokinin B receptor	C0039070	Syncope	6.4265e-09
+6643	CCKAR	P32238 cholecystokinin A receptor	C0039070	Syncope	6.4265e-09
+6646	ENPP1	P22413 ectonucleotide pyrophosphatase/phosphodiesterase 1	C0039070	Syncope	6.4265e-09
+6648	KCNH6	Q9H252 potassium voltage-gated channel, subfamily H (eag-related), member 6	C0039070	Syncope	6.4265e-09
+6654	PDE6G	P18545 phosphodiesterase 6G, cGMP-specific, rod, gamma	C0039070	Syncope	6.4265e-09
+6659	PON1	P27169 paraoxonase 1	C0039070	Syncope	6.4265e-09
+6660	P2RY12	Q9H244 purinergic receptor P2Y, G-protein coupled, 12	C0039070	Syncope	6.4265e-09
+6661	KCNH7	Q9NS40 potassium voltage-gated channel, subfamily H (eag-related), member 7	C0039070	Syncope	6.4265e-09
+6670	NPR1	P16066 natriuretic peptide receptor A/guanylate cyclase A (atrionatriuretic peptide receptor A)	C0039070	Syncope	6.4265e-09
+6683	GPR55	Q9Y2T6 G protein-coupled receptor 55	C0039070	Syncope	6.4265e-09
+6688	ADK	P55263 adenosine kinase	C0039070	Syncope	6.4265e-09
+6692	DDR1	Q08345 discoidin domain receptor tyrosine kinase 1	C0039070	Syncope	6.4265e-09
+6697	LYZ	P61626 lysozyme	C0039070	Syncope	6.4265e-09
+6699	AKR1B1	P15121 aldo-keto reductase family 1, member B1 (aldose reductase)	C0039070	Syncope	6.4265e-09
+6700	PTGIR	P43119 prostaglandin I2 (prostacyclin) receptor (IP)	C0039070	Syncope	6.4265e-09
+6701	PLG	P00747 plasminogen	C0039070	Syncope	6.4265e-09
+6709	CTSK	P43235 cathepsin K	C0039070	Syncope	6.4265e-09
+6711	PDE1A	P54750 phosphodiesterase 1A, calmodulin-dependent	C0039070	Syncope	6.4265e-09
+6713	SMPD1	P17405 sphingomyelin phosphodiesterase 1, acid lysosomal	C0039070	Syncope	6.4265e-09
+6716	ALPPL2	P10696 alkaline phosphatase, placental-like 2	C0039070	Syncope	6.4265e-09
+6717	PDE6B	P35913 phosphodiesterase 6B, cGMP-specific, rod, beta	C0039070	Syncope	6.4265e-09
+6724	CHRNA9	Q9UGM1 cholinergic receptor, nicotinic, alpha 9 (neuronal)	C0039070	Syncope	6.4265e-09
+6726	CACNA1H	O95180 calcium channel, voltage-dependent, T type, alpha 1H subunit	C0039070	Syncope	6.4265e-09
+6732	PKLR	P30613 pyruvate kinase, liver and RBC	C0039070	Syncope	6.4265e-09
+6740	PLAT	P00750 plasminogen activator, tissue	C0039070	Syncope	6.4265e-09
+6742	CACNA1S	Q13698 calcium channel, voltage-dependent, L type, alpha 1S subunit	C0039070	Syncope	6.4265e-09
+6744	PDE6A	P16499 phosphodiesterase 6A, cGMP-specific, rod, alpha	C0039070	Syncope	6.4265e-09
+6747	SLC7A11	Q9UPY5 solute carrier family 7 (anionic amino acid transporter light chain, xc- system), member 11	C0039070	Syncope	6.4265e-09
+6749	HDAC7	Q8WUI4 histone deacetylase 7	C0039070	Syncope	6.4265e-09
+6756	MET	P08581 met proto-oncogene	C0039070	Syncope	6.4265e-09
+6764	CELA1	Q9UNI1 chymotrypsin-like elastase family, member 1	C0039070	Syncope	6.4265e-09
+6767	CACNA1C	Q13936 calcium channel, voltage-dependent, L type, alpha 1C subunit	C0039070	Syncope	6.4265e-09
+6770	TTR	P02766 transthyretin	C0039070	Syncope	6.4265e-09
+6778	KCNQ5	Q9NR82 potassium voltage-gated channel, KQT-like subfamily, member 5	C0039070	Syncope	6.4265e-09
+6780	PDE6H	Q13956 phosphodiesterase 6H, cGMP-specific, cone, gamma	C0039070	Syncope	6.4265e-09
+6785	CACNA1B	Q00975 calcium channel, voltage-dependent, N type, alpha 1B subunit	C0039070	Syncope	6.4265e-09
+6789	AVPR2	P30518 arginine vasopressin receptor 2	C0039070	Syncope	6.4265e-09
+6796	CMA1	P23946 chymase 1, mast cell	C0039070	Syncope	6.4265e-09
+6800	ESR1	P03372 estrogen receptor 1	C0039070	Syncope	6.4265e-09
+6853	HTR1E	P28566 5-hydroxytryptamine (serotonin) receptor 1E, G protein-coupled	C0686347	Tardive dyskinesia	6.4265e-09
+6945	POLG	P54098 polymerase (DNA directed), gamma	C0040034	Thrombocytopenia	6.4265e-09
+7070	TAAR1	Q96RJ0 trace amine associated receptor 1	C0040822	Tremor	6.4265e-09
+7155	ELANE	P08246 elastase, neutrophil expressed	C0042075	Urinary tract disorder	6.4265e-09
+7160	CELA1	Q9UNI1 chymotrypsin-like elastase family, member 1	C0042075	Urinary tract disorder	6.4265e-09
+7165	CTSV	O60911 cathepsin V	C0042075	Urinary tract disorder	6.4265e-09
+7166	CTSK	P43235 cathepsin K	C0042075	Urinary tract disorder	6.4265e-09
+7167	SLC5A11	Q8WWX8 solute carrier family 5 (sodium/inositol cotransporter), member 11	C0042075	Urinary tract disorder	6.4265e-09
+7171	FLT1	P17948 fms-related tyrosine kinase 1	C0042075	Urinary tract disorder	6.4265e-09
+7173	SLC5A4	Q9NY91 solute carrier family 5 (glucose activated ion channel), member 4	C0042075	Urinary tract disorder	6.4265e-09
+7179	CMA1	P23946 chymase 1, mast cell	C0042075	Urinary tract disorder	6.4265e-09
+7182	CES1	P23141 carboxylesterase 1	C0042075	Urinary tract disorder	6.4265e-09
+7186	RET	P07949 ret proto-oncogene	C0042075	Urinary tract disorder	6.4265e-09
+7210	ABCC9	O60706 ATP-binding cassette, sub-family C (CFTR/MRP), member 9	C0042109	Urticaria	6.4265e-09
+7223	LACTB	P83111 lactamase, beta	C0042109	Urticaria	6.4265e-09
