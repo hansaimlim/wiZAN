@@ -1,0 +1,7 @@
+chem-prot binding assays extracted from ChEMBL_22 database. 10 uM or better are considered positive
+chem-chem sim using PaDeL Extended Fingerprint -> cosine sim of the feature vectors. sim<0.5 were filtered out.
+prot-prot sim using blastp sequence-based bitscore ratio
+
+#chem: 33684
+#prot: 31
+#chem-prot: 36696 (density=3.51%)

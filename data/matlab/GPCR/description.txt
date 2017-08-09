@@ -1,0 +1,5 @@
+chem-gpcr binding profile (from Shihab Dider)
+
+#chem: 3494
+#prot: 25
+#chem-prot: 4494 (density: 5.14%)

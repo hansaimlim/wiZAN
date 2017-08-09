@@ -1,0 +1,7 @@
+VirusMINT protein-viralprotein interaction data from harmonizome
+http://amp.pharm.mssm.edu/Harmonizome/dataset/Virus+MINT+Protein-Viral+Protein+Interactions
+Chatr-aryamontri, A et al. (2009) VirusMINT: a viral protein interaction database. Nucleic Acids Res. 37:D669-73.
+
+#gene(human): 706
+#virarlProtein: 185
+#gene-vP: 1140 (density: 0.87%)

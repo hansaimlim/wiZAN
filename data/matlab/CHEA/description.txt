@@ -1,0 +1,9 @@
+CHEA gene-transcription factor binding profile from harmonizome
+http://amp.pharm.mssm.edu/Harmonizome/dataset/CHEA+Transcription+Factor+Targets
+Lachmann, A et al. (2010) ChEA: transcription factor regulation inferred from integrating genome-wide ChIP-X experiments. Bioinformatics. 26:2438-44.
+gene-gene sim matrix is all-zero matrix (blank)
+tfactor-tfactor sim based on blastp sequence bitscore ratio
+
+#gene: 21585
+#tfactor: 199
+#gene-tfactor: 386776 (density: 9.0%)

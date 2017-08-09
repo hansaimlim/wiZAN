@@ -1,0 +1,10 @@
+http://pubs.acs.org/doi/abs/10.1021/ci400709d
+DOI: 10.1021/ci400709d
+J. Chem. Inf. Model., 2014, 54 (3), pp 735–743
+
+chem-chem sim generated using ChemAxon screenmd Tanimoto similarity. sim<0.5 were filtered out
+prot-prot sim generated using blastp bitscore ratio. sim<0.5 were filtered out.
+
+#chem: 52498
+#prot: 467
+#chem-prot: 242600 (density: 0.99%)

@@ -1,0 +1,7 @@
+Dataset used in RNACommender (High throughput dataset).
+rna-rna sim using blastn sequence similarity. sim<0.5 filtered out.
+rbp-rbp sim using blastp sequence similarity. sim<0.5 filtered out.
+
+#RNA(utr): 72226
+#RBP: 67
+#RNA-RBP: 502178 (density: 10.38%)
