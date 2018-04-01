@@ -1,4 +1,4 @@
-## Data matrices for Hetionet: https://github.com/dhimmel/hetionet.
+### Data matrices for Hetionet: https://github.com/dhimmel/hetionet.
 
 ### The matlab matrices can be imported from python.
 ```py
