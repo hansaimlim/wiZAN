@@ -1,0 +1,345 @@
+1,Chemical/Ingredient,N0000007632,Thyroxine
+2,Chemical/Ingredient,N0000011272,Thiazolidinediones
+3,Physiologic Effect,N0000178477,Decreased Blood Pressure
+4,Mechanism of Action,N0000010288,Osmotic Activity
+5,Mechanism of Action,N0000190114,Cytochrome P450 3A Inhibitors
+6,Mechanism of Action,N0000175799,Dopamine D2 Antagonists
+7,Mechanism of Action,N0000000114,Dopamine Uptake Inhibitors
+8,Physiologic Effect,N0000175732,Neuromuscular Nondepolarizing Blockade
+9,Physiologic Effect,N0000175729,Central Nervous System Stimulation
+10,Physiologic Effect,N0000008779,Decreased Parasympathetic Acetylcholine Activity
+11,Chemical/Ingredient,N0000007618,Ergolines
+12,Mechanism of Action,N0000175654,Gonadotropin Releasing Hormone Receptor Agonists
+13,Chemical/Ingredient,N0000167094,Benzothiazoles
+14,Mechanism of Action,N0000020024,Sclerosing Activity
+15,Physiologic Effect,N0000175379,Arteriolar Vasodilation
+16,Mechanism of Action,N0000175764,Serotonin 1d Receptor Agonists
+17,Physiologic Effect,N0000175914,Increased Coagulation Factor VIII Activity
+18,Chemical/Ingredient,N0000007151,Folic Acid
+19,Chemical/Ingredient,N0000008053,Sulfones
+20,Mechanism of Action,N0000191267,Cytochrome P450 2D6 Inducers
+21,Mechanism of Action,N0000175089,Calcium Chelating Activity
+22,Physiologic Effect,N0000008486,Decreased Central Nervous System Disorganized Electrical Activity
+23,Physiologic Effect,N0000008479,Decreased Cell Wall Synthesis & Repair
+24,Mechanism of Action,N0000009947,Nucleoside Reverse Transcriptase Inhibitors
+25,Physiologic Effect,N0000009176,Increased Cellular Death
+26,Chemical/Ingredient,N0000011281,Penicillins
+27,Mechanism of Action,N0000000070,Angiotensin 2 Receptor Antagonists
+28,Mechanism of Action,N0000175087,Urease Inhibitors
+29,Mechanism of Action,N0000185007,Adrenergic beta3-Agonists
+30,Mechanism of Action,N0000000083,Leukotriene Receptor Antagonists
+31,Mechanism of Action,N0000191264,P-Glycoprotein Inducers
+32,Chemical/Ingredient,N0000011414,Ketolides
+33,Chemical/Ingredient,N0000007647,Nitrates
+34,Mechanism of Action,N0000187062,Cytochrome P450 2C8 Inhibitors
+35,Chemical/Ingredient,N0000006277,Vitamin D
+36,Mechanism of Action,N0000191272,UGT1A1 Inhibitors
+37,Physiologic Effect,N0000175915,Increased Coagulation Factor VIII Concentration
+38,Physiologic Effect,N0000175960,Increased Glutathione Concentration
+39,Physiologic Effect,N0000008953,Decreased Striated Muscle Contraction
+40,Mechanism of Action,N0000010262,Neurokinin 1 Antagonists
+41,Physiologic Effect,N0000009282,Increased Dopamine Activity
+42,Mechanism of Action,N0000182138,Cytochrome P450 1A2 Inhibitors
+43,Physiologic Effect,N0000175359,Increased Diuresis
+44,Mechanism of Action,N0000187063,Cytochrome P450 2C8 Inducers
+45,Chemical/Ingredient,N0000175512,Methylated Sulfonamides
+46,Mechanism of Action,N0000190111,Organic Anion Transporter 3 Inhibitors
+47,Chemical/Ingredient,N0000006999,Urea
+48,Mechanism of Action,N0000191265,Organic Cation Transporter 1 Inhibitors
+49,Mechanism of Action,N0000000160,Cyclooxygenase Inhibitors
+50,Mechanism of Action,N0000000151,Histamine H2 Receptor Antagonists
+51,Chemical/Ingredient,N0000007544,Phenothiazines
+52,Mechanism of Action,N0000009948,Non-Nucleoside Reverse Transcriptase Inhibitors
+53,Chemical/Ingredient,N0000007715,Catecholamines
+54,Chemical/Ingredient,N0000005760,Aminosalicylic Acids
+55,Mechanism of Action,N0000175516,RNA Synthetase Inhibitors
+56,Chemical/Ingredient,N0000171207,Porphyrinogens
+57,Physiologic Effect,N0000008859,Decreased Renal K+ Excretion
+58,Physiologic Effect,N0000009371,Increased Large Intestinal Motility
+59,Mechanism of Action,N0000009963,Thrombin Inhibitors
+60,Mechanism of Action,N0000000116,GABA B Agonists
+61,Physiologic Effect,N0000008832,Decreased Platelet Aggregation
+62,Chemical/Ingredient,N0000007659,Nitrogen Mustard Compounds
+63,Mechanism of Action,N0000000115,Progestational Hormone Receptor Antagonists
+64,Physiologic Effect,N0000008836,Decreased Prostaglandin Production
+65,Physiologic Effect,N0000184306,Cell-mediated Immunity
+66,Mechanism of Action,N0000010259,Ultrasound Contrast Activity
+67,Physiologic Effect,N0000008683,Decreased Leukotriene Production
+68,Physiologic Effect,N0000175830,Inhibit Ovum Fertilization
+69,Mechanism of Action,N0000175080,Aromatase Inhibitors
+70,Mechanism of Action,N0000187064,Cytochrome P450 2B6 Inducers
+71,Mechanism of Action,N0000175967,Thrombopoietin Receptor Interactions
+72,Mechanism of Action,N0000000235,Carbonic Anhydrase Inhibitors
+73,Chemical/Ingredient,N0000006269,Vitamin A
+74,Chemical/Ingredient,N0000007909,Psoralens
+75,Mechanism of Action,N0000175921,Adrenal Steroid Synthesis Inhibitors
+76,Chemical/Ingredient,N0000007529,Macrolides
+77,Chemical/Ingredient,N0000006996,Cholecalciferol
+78,Physiologic Effect,N0000009911,Venous Vasodilation
+79,Mechanism of Action,N0000185499,Guanylate Cyclase Activators
+80,Mechanism of Action,N0000000146,Androgen Receptor Agonists
+81,Chemical/Ingredient,N0000006496,Nicotine
+82,Mechanism of Action,N0000175808,Hydroxyphenylpyruvate Dioxygenase Inhibitors
+83,Physiologic Effect,N0000175728,Central Nervous System Depression
+84,Chemical/Ingredient,N0000007641,Nicotinic Acids
+85,Chemical/Ingredient,N0000007568,Oxazolidinones
+86,Mechanism of Action,N0000175850,Melanin Synthesis Inhibitors
+87,Mechanism of Action,N0000190482,Phenylalanine Hydroxylase Activators
+88,Chemical/Ingredient,N0000170119,PPAR gamma
+89,Physiologic Effect,N0000009456,Increased Norepinephrine Activity
+90,Mechanism of Action,N0000000206,Xanthine Oxidase Inhibitors
+91,Physiologic Effect,N0000009871,Stimulation Large Intestine Fluid/Electrolyte Secretion
+92,Physiologic Effect,N0000009724,Inhibition Gastric Acid Secretion
+93,Mechanism of Action,N0000000183,Acetyl Aldehyde Dehydrogenase Inhibitors
+94,Physiologic Effect,N0000009269,Increased Cytokine Production
+95,Chemical/Ingredient,N0000175073,Platinum-containing Compounds
+96,Mechanism of Action,N0000000207,Histamine Receptor Antagonists
+97,Mechanism of Action,N0000175817,Serotonin 3 Receptor Antagonists
+98,Mechanism of Action,N0000175635,Factor Xa Inhibitors
+99,Chemical/Ingredient,N0000007822,Polymyxins
+100,Chemical/Ingredient,N0000007542,Benzodiazepines
+101,Chemical/Ingredient,N0000006801,Bile Acids and Salts
+102,Physiologic Effect,N0000009801,Photosensitizing Activity
+103,Mechanism of Action,N0000000102,Norepinephrine Uptake Inhibitors
+104,Chemical/Ingredient,N0000191280,Lipoglycopeptides
+105,Physiologic Effect,N0000009526,Increased Prostaglandin Activity
+106,Mechanism of Action,N0000011310,Aldosterone Antagonists
+107,Mechanism of Action,N0000000154,Opioid Antagonists
+108,Chemical/Ingredient,N0000007196,Iodine
+109,Mechanism of Action,N0000182137,Cytochrome P450 2D6 Inhibitors
+110,Chemical/Ingredient,N0000007522,Allylamine
+111,Mechanism of Action,N0000020081,Increased Calcium-sensing Receptor Sensitivity
+112,Mechanism of Action,N0000175755,DOPA Decarboxylase Inhibitors
+113,Mechanism of Action,N0000191274,UGT2B15 Inhibitors
+114,Chemical/Ingredient,N0000007780,Vinca Alkaloids
+115,Mechanism of Action,N0000175450,Corticosteroid Hormone Receptor Agonists
+116,Mechanism of Action,N0000000150,Protein Synthesis Inhibitors
+117,Mechanism of Action,N0000175686,Competitive Opioid Antagonists
+118,Mechanism of Action,N0000000174,Opioid Agonists
+119,Chemical/Ingredient,N0000006688,Carnitine
+120,Mechanism of Action,N0000175375,Peroxisome Proliferator-activated Receptor alpha Agonists
+121,Mechanism of Action,N0000010217,Photoabsorption
+122,Mechanism of Action,N0000175788,Adenosine Receptor Agonists
+123,Physiologic Effect,N0000175644,Decreased Autonomic Ganglionic Activity
+124,Mechanism of Action,N0000184148,Smoothened Receptor Antagonists
+125,Mechanism of Action,N0000175763,Serotonin 1b Receptor Agonists
+126,Physiologic Effect,N0000009905,Vascular Sclerosing Activity
+127,Mechanism of Action,N0000175075,Proteasome Inhibitors
+128,Chemical/Ingredient,N0000007698,Biguanides
+129,Physiologic Effect,N0000009393,Increased Medullary Respiratory Drive
+130,Chemical/Ingredient,N0000008016,Barbiturates
+131,Mechanism of Action,N0000190109,Organic Anion Transporting Polypeptide 2B1 Inhibitors
+132,Mechanism of Action,N0000000104,Cholinergic Muscarinic Agonists
+133,Chemical/Ingredient,N0000008065,Purines
+134,Mechanism of Action,N0000180999,Angiotensin 2 Type 1 Receptor Antagonists
+135,Mechanism of Action,N0000175086,Phosphodiesterase 3 Inhibitors
+136,Physiologic Effect,N0000175970,Increased Platelet Production
+137,Mechanism of Action,N0000191278,UGT1A9 Inhibitors
+138,Mechanism of Action,N0000009917,Adrenergic alpha1-Agonists
+139,Mechanism of Action,N0000020026,Phosphodiesterase 5 Inhibitors
+140,Physiologic Effect,N0000175632,Decreased Fibrinolysis
+141,Mechanism of Action,N0000184145,Chloride Channel Activation Potentiators
+142,Mechanism of Action,N0000190118,Cytochrome P450 3A Inducers
+143,Mechanism of Action,N0000020074,Phosphate Chelating Activity
+144,Chemical/Ingredient,N0000008217,Azoles
+145,Mechanism of Action,N0000175547,Reduction Activity
+146,Mechanism of Action,N0000175917,Thyroid Hormone Synthesis Inhibitors
+147,Chemical/Ingredient,N0000167510,Estrogens, Conjugated (USP)
+148,Chemical/Ingredient,N0000166743,Esters
+149,Mechanism of Action,N0000182960,Phosphodiesterase 4 Inhibitors
+150,Physiologic Effect,N0000175969,Increased Megakaryocyte Maturation
+151,Mechanism of Action,N0000175076,Protein Kinase Inhibitors
+152,Mechanism of Action,N0000186778,Microsomal Triglyceride Transfer Protein Inhibitors
+153,Mechanism of Action,N0000000166,alpha Glucosidase Inhibitors
+154,Chemical/Ingredient,N0000007961,Heparin, Low-Molecular-Weight
+155,Mechanism of Action,N0000175513,Dipeptidase Inhibitors
+156,Mechanism of Action,N0000000191,Dihydrofolate Reductase Inhibitors
+157,Mechanism of Action,N0000185504,Cytochrome P450 2C9 Inhibitors
+158,Chemical/Ingredient,N0000007570,Pyridines
+159,Mechanism of Action,N0000175862,Magnetic Resonance Contrast Activity
+160,Mechanism of Action,N0000191258,RNA Replicase Inhibitors
+161,Chemical/Ingredient,N0000175459,Nucleoside Analog
+162,Physiologic Effect,N0000178324,Increased Hematopoietic Stem Cell Mobilization
+163,Chemical/Ingredient,N0000011418,Streptogramins
+164,Mechanism of Action,N0000182140,Cytochrome P450 2C19 Inhibitors
+165,Mechanism of Action,N0000175370,Cholinergic Antagonists
+166,Physiologic Effect,N0000008553,Decreased Cholesterol Absorption
+167,Chemical/Ingredient,N0000007620,Ergot Alkaloids
+168,Chemical/Ingredient,N0000007948,Tetracyclines
+169,Mechanism of Action,N0000000190,Histamine H1 Receptor Antagonists
+170,Physiologic Effect,N0000008330,Cardiac Rhythm Alteration
+171,Chemical/Ingredient,N0000008054,Sulfonylurea Compounds
+172,Chemical/Ingredient,N0000007770,Deoxyuridine
+173,Mechanism of Action,N0000000122,Adrenergic Agonists
+174,Mechanism of Action,N0000000202,beta Lactamase Inhibitors
+175,Chemical/Ingredient,N0000007707,Diphosphonates
+176,Mechanism of Action,N0000191423,Multidrug and Toxin Extrusion Transporter 1 Inhibitors
+177,Physiologic Effect,N0000175965,Increased Prothrombin Activity
+178,Physiologic Effect,N0000009022,Digestive/GI System Activity Alteration
+179,Chemical/Ingredient,N0000007530,Anthracyclines
+180,Chemical/Ingredient,N0000006165,Triiodothyronine
+181,Physiologic Effect,N0000008853,Decreased RNA Replication
+182,Physiologic Effect,N0000175975,General Anesthesia
+183,Chemical/Ingredient,N0000006014,Pyrethrins
+184,Mechanism of Action,N0000000069,Calcium Channel Antagonists
+185,Physiologic Effect,N0000008732,Decreased Mitosis
+186,Mechanism of Action,N0000000168,Selective Estrogen Receptor Modulators
+187,Physiologic Effect,N0000009267,Increased Cytokine Activity
+188,Chemical/Ingredient,N0000006320,Vasopressins
+189,Chemical/Ingredient,N0000011311,Monobactams
+190,Mechanism of Action,N0000187061,Organic Cation Transporter 2 Inhibitors
+191,Mechanism of Action,N0000000209,Adrenergic alpha-Agonists
+192,Chemical/Ingredient,N0000007621,Ergotamines
+193,Chemical/Ingredient,N0000175508,Lipopeptides
+194,Mechanism of Action,N0000175702,Partial Cholinergic Nicotinic Agonists
+195,Chemical/Ingredient,N0000007681,Amides
+196,Mechanism of Action,N0000182728,Potassium Channel Openers
+197,Mechanism of Action,N0000000236,Alkylating Activity
+198,Mechanism of Action,N0000182638,HCV NS3/4A Protease Inhibitors
+199,Chemical/Ingredient,N0000007566,Benzylamines
+200,Physiologic Effect,N0000178478,Increased Blood Pressure
+201,Mechanism of Action,N0000009923,Adrenergic beta1-Antagonists
+202,Chemical/Ingredient,N0000170118,PPAR alpha
+203,Chemical/Ingredient,N0000007893,Glycosaminoglycans
+204,Mechanism of Action,N0000175445,Chemokine Co-receptor 5 Antagonists
+205,Chemical/Ingredient,N0000175721,Nonsteroidal Anti-inflammatory Compounds
+206,Mechanism of Action,N0000009945,Antidiuretic Hormone Antagonists
+207,Chemical/Ingredient,N0000007606,Quinolones
+208,Chemical/Ingredient,N0000011402,Estradiol Congeners
+209,Chemical/Ingredient,N0000166469,Thiazides
+210,Physiologic Effect,N0000009048,GI Motility Alteration
+211,Chemical/Ingredient,N0000006290,Vitamin K
+212,Chemical/Ingredient,N0000008157,Cardiac Glycosides
+213,Mechanism of Action,N0000191275,UGT1A3 Inhibitors
+214,Physiologic Effect,N0000175550,Decreased Immunologic Activity
+215,Chemical/Ingredient,N0000007663,Nitroimidazoles
+216,Chemical/Ingredient,N0000011161,Cephalosporins
+217,Mechanism of Action,N0000175685,Partial Opioid Agonists
+218,Physiologic Effect,N0000175372,Appetite Suppression
+219,Chemical/Ingredient,N0000007889,Glycopeptides
+220,Physiologic Effect,N0000009982,Decreased Sebaceous Gland Activity
+221,Physiologic Effect,N0000008556,Decreased Coagulation Factor Activity
+222,Physiologic Effect,N0000175085,Microtubule Inhibition
+223,Mechanism of Action,N0000000194,Somatostatin Receptor Agonists
+224,Mechanism of Action,N0000190855,Vesicular Monoamine Transporter 2 Inhibitors
+225,Physiologic Effect,N0000009065,Hematologic Activity Alteration
+226,Mechanism of Action,N0000184143,Carbamoyl Phosphate Synthetase 1 Activators
+227,Physiologic Effect,N0000175733,Neuromuscular Depolarizing Blockade
+228,Mechanism of Action,N0000175436,Neuraminidase Inhibitors
+229,Mechanism of Action,N0000191266,Cytochrome P450 1A2 Inducers
+230,Chemical/Ingredient,N0000007246,Estradiol
+231,Chemical/Ingredient,N0000007706,Prostaglandins
+232,Mechanism of Action,N0000000196,GABA A Agonists
+233,Mechanism of Action,N0000175542,M2 Protein Inhibitors
+234,Mechanism of Action,N0000175624,mTOR Inhibitors
+235,Mechanism of Action,N0000175955,5-Lipoxygenase Inhibitors
+236,Mechanism of Action,N0000182141,Cytochrome P450 3A4 Inhibitors
+237,Mechanism of Action,N0000190115,Cytochrome P450 3A5 Inhibitors
+238,Mechanism of Action,N0000175361,Catecholamine Synthesis Inhibitors
+239,Chemical/Ingredient,N0000175460,Non-Nucleoside Analog
+240,Mechanism of Action,N0000010258,X-Ray Contrast Activity
+241,Chemical/Ingredient,N0000007672,Polyenes
+242,Mechanism of Action,N0000020000,Receptor Tyrosine Kinase Inhibitors
+243,Physiologic Effect,N0000175735,Decreased Striated Muscle Tone
+244,Chemical/Ingredient,N0000007556,Dihydropyridines
+245,Physiologic Effect,N0000009034,Emesis Suppression
+246,Physiologic Effect,N0000008663,Decreased Immunologically Active Molecule Activity
+247,Mechanism of Action,N0000175761,Monoamine Oxidase-B Inhibitors
+248,Mechanism of Action,N0000190110,Organic Anion Transporter 1 Inhibitors
+249,Mechanism of Action,N0000175084,Gonadotropin Releasing Hormone Receptor Antagonists
+250,Mechanism of Action,N0000009916,Lipase Inhibitors
+251,Chemical/Ingredient,N0000007683,Organometallic Compounds
+252,Physiologic Effect,N0000175976,Local Anesthesia
+253,Mechanism of Action,N0000175456,Chloride Channel Activators
+254,Mechanism of Action,N0000000111,Folic Acid Metabolism Inhibitors
+255,Physiologic Effect,N0000009079,Increased Acetylcholine Activity
+256,Mechanism of Action,N0000185503,P-Glycoprotein Inhibitors
+257,Mechanism of Action,N0000175964,Vitamin K Inhibitors
+258,Physiologic Effect,N0000175982,Reversed Anticoagulation Activity
+259,Physiologic Effect,N0000175629,Increased Histamine Release
+260,Chemical/Ingredient,N0000166489,Quaternary Ammonium Compounds
+261,Mechanism of Action,N0000191277,UGT1A6 Inhibitors
+262,Chemical/Ingredient,N0000007700,Retinoids
+263,Physiologic Effect,N0000009010,Decreased Tracheobronchial Stretch Receptor Activity
+264,Mechanism of Action,N0000190107,Organic Anion Transporting Polypeptide 1B1 Inhibitors
+265,Mechanism of Action,N0000000109,Serotonin Uptake Inhibitors
+266,Mechanism of Action,N0000020060,DNA Polymerase Inhibitors
+267,Mechanism of Action,N0000009918,Adrenergic alpha2-Agonists
+268,Physiologic Effect,N0000008867,Decreased Respiratory Secretion Viscosity
+269,Mechanism of Action,N0000020019,Glucosylceramide Synthase Inhibitors
+270,Chemical/Ingredient,N0000008118,Xanthines
+271,Mechanism of Action,N0000182147,Sigma-1 Receptor Agonists
+272,Mechanism of Action,N0000000144,Iron Chelating Activity
+273,Physiologic Effect,N0000008841,Decreased Protein Synthesis
+274,Chemical/Ingredient,N0000006806,Amino Acids
+275,Physiologic Effect,N0000009059,Genitourinary Arterial Vasodilation
+276,Mechanism of Action,N0000175533,Dyes
+277,Physiologic Effect,N0000175851,Depigmenting Activity
+278,Mechanism of Action,N0000185607,Cytochrome P450 2C19 Inducers
+279,Physiologic Effect,N0000175628,Decreased Histamine Release
+280,Physiologic Effect,N0000175651,Increased Sympathetic Activity
+281,Mechanism of Action,N0000009922,Adrenergic beta2-Agonists
+282,Mechanism of Action,N0000185507,Cytochrome P450 2C9 Inducers
+283,Physiologic Effect,N0000175650,Decreased Sympathetic Activity
+284,Mechanism of Action,N0000191269,UDP Glucuronosyltransferases Inhibitors
+285,Mechanism of Action,N0000175472,Metal Chelating Activity
+286,Chemical/Ingredient,N0000007911,Rifamycins
+287,Mechanism of Action,N0000000125,Cholinergic Muscarinic Antagonists
+288,Mechanism of Action,N0000181815,Sphingosine 1-Phosphate Receptor Modulators
+289,Chemical/Ingredient,N0000007710,Prostaglandins E, Synthetic
+290,Mechanism of Action,N0000191276,UGT1A4 Inhibitors
+291,Mechanism of Action,N0000175833,Acidifying Activity
+292,Mechanism of Action,N0000009924,Adrenergic beta2-Antagonists
+293,Mechanism of Action,N0000000243,Androgen Receptor Antagonists
+294,Chemical/Ingredient,N0000007983,Hydroxy Acids
+295,Chemical/Ingredient,N0000007883,Amphetamines
+296,Mechanism of Action,N0000175968,Thrombopoietin Receptor Agonists
+297,Chemical/Ingredient,N0000175479,Amphenicols
+298,Chemical/Ingredient,N0000006276,Vitamin B 12
+299,Mechanism of Action,N0000175684,Full Opioid Agonists
+300,Mechanism of Action,N0000191273,UGT2B7 Inhibitors
+301,Chemical/Ingredient,N0000171131,Allergens
+302,Mechanism of Action,N0000182143,P2Y12 Receptor Antagonists
+303,Chemical/Ingredient,N0000186774,Diarylquinolines
+304,Chemical/Ingredient,N0000007853,Aminoglycosides
+305,Physiologic Effect,N0000008478,Decreased Cell Wall Integrity
+306,Mechanism of Action,N0000000233,Nucleic Acid Synthesis Inhibitors
+307,Mechanism of Action,N0000000239,P-Glycoprotein Interactions
+308,Mechanism of Action,N0000000106,Prostaglandin Receptor Agonists
+309,Chemical/Ingredient,N0000011294,Carbapenems
+310,Chemical/Ingredient,N0000175442,Lincosamides
+311,Mechanism of Action,N0000000246,HIV Protease Inhibitors
+312,Mechanism of Action,N0000181819,Uncompetitive NMDA Receptor Antagonists
+313,Chemical/Ingredient,N0000175433,pleuromutilin
+314,Mechanism of Action,N0000175549,Cystine Disulfide Reduction
+315,Mechanism of Action,N0000191624,Cytochrome P450 1A Inducers
+316,Chemical/Ingredient,N0000005934,Progesterone
+317,Mechanism of Action,N0000175912,Dipeptidyl Peptidase 4 Inhibitors
+318,Mechanism of Action,N0000185506,Cytochrome P450 3A4 Inducers
+319,Mechanism of Action,N0000175448,Potassium Channel Antagonists
+320,Mechanism of Action,N0000187058,Sodium-Glucose Transporter 2 Inhibitors
+321,Chemical/Ingredient,N0000008241,Androstanes
+322,Mechanism of Action,N0000000176,Topoisomerase Inhibitors
+323,Chemical/Ingredient,N0000007888,Bismuth
+324,Mechanism of Action,N0000175374,Peroxisome Proliferator-activated Receptor Activity
+325,Mechanism of Action,N0000190113,Breast Cancer Resistance Protein Inhibitors
+326,Chemical/Ingredient,N0000006337,Ergocalciferols
+327,Chemical/Ingredient,N0000175469,Pyrophosphate Analog
+328,Mechanism of Action,N0000000250,Melatonin Receptor Agonists
+329,Mechanism of Action,N0000175365,Bile-acid Binding Activity
+330,Physiologic Effect,N0000175730,Centrally-mediated Muscle Relaxation
+331,Physiologic Effect,N0000175366,Increased Diuresis at Loop of Henle
+332,Chemical/Ingredient,N0000008010,Cannabinoids
+333,Chemical/Ingredient,N0000007658,Nitrofurans
+334,Mechanism of Action,N0000020015,NMDA Receptor Antagonists
+335,Physiologic Effect,N0000009909,Vasodilation
+336,Mechanism of Action,N0000182139,Cytochrome P450 2B6 Inhibitors
+337,Mechanism of Action,N0000175962,Lead Chelating Activity
+338,Chemical/Ingredient,N0000011301,Progesterone Congeners
+339,Physiologic Effect,N0000008638,Decreased GnRH Secretion
+340,Chemical/Ingredient,N0000008048,Sulfonamides
+341,Mechanism of Action,N0000190108,Organic Anion Transporting Polypeptide 1B3 Inhibitors
+342,Mechanism of Action,N0000000100,Estrogen Receptor Agonists
+343,Physiologic Effect,N0000008577,Decreased DNA Replication
+344,Physiologic Effect,N0000175972,Decreased Platelet Production
+345,Chemical/Ingredient,N0000011280,Prostaglandins I

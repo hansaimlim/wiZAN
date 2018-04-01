@@ -1,0 +1,137 @@
+1,DOID:14227,azoospermia
+2,DOID:9352,type 2 diabetes mellitus
+3,DOID:8778,Crohn's disease
+4,DOID:5612,spinal cancer
+5,DOID:363,uterine cancer
+6,DOID:11054,urinary bladder cancer
+7,DOID:1793,pancreatic cancer
+8,DOID:8850,salivary gland cancer
+9,DOID:0060119,pharynx cancer
+10,DOID:10763,hypertension
+11,DOID:3312,bipolar disorder
+12,DOID:418,systemic scleroderma
+13,DOID:2377,multiple sclerosis
+14,DOID:4606,bile duct cancer
+15,DOID:12995,conduct disorder
+16,DOID:4481,allergic rhinitis
+17,DOID:11819,ureter cancer
+18,DOID:1909,melanoma
+19,DOID:14268,sclerosing cholangitis
+20,DOID:1612,breast cancer
+21,DOID:1686,glaucoma
+22,DOID:1826,epilepsy syndrome
+23,DOID:0050742,nicotine dependence
+24,DOID:824,periodontitis
+25,DOID:3571,liver cancer
+26,DOID:175,vascular cancer
+27,DOID:10652,Alzheimer's disease
+28,DOID:10941,intracranial aneurysm
+29,DOID:5099,middle ear cancer
+30,DOID:2394,ovarian cancer
+31,DOID:1781,thyroid cancer
+32,DOID:2174,ocular cancer
+33,DOID:4045,muscle cancer
+34,DOID:1192,peripheral nervous system neoplasm
+35,DOID:1312,focal segmental glomerulosclerosis
+36,DOID:10283,prostate cancer
+37,DOID:1790,malignant mesothelioma
+38,DOID:11920,tracheal cancer
+39,DOID:8986,narcolepsy
+40,DOID:3277,thymus cancer
+41,DOID:90,degenerative disc disease
+42,DOID:2596,larynx cancer
+43,DOID:9744,type 1 diabetes mellitus
+44,DOID:8577,ulcerative colitis
+45,DOID:184,bone cancer
+46,DOID:10608,celiac disease
+47,DOID:12849,autistic disorder
+48,DOID:3083,chronic obstructive pulmonary disease
+49,DOID:11949,Creutzfeldt-Jakob disease
+50,DOID:3121,gallbladder cancer
+51,DOID:2986,IgA glomerulonephritis
+52,DOID:12306,vitiligo
+53,DOID:13223,uterine fibroid
+54,DOID:1319,brain cancer
+55,DOID:263,kidney cancer
+56,DOID:0050156,idiopathic pulmonary fibrosis
+57,DOID:585,nephrolithiasis
+58,DOID:13499,jejunal cancer
+59,DOID:2355,anemia
+60,DOID:14004,thoracic aortic aneurysm
+61,DOID:5559,mediastinal cancer
+62,DOID:13378,Kawasaki disease
+63,DOID:9296,cleft lip
+64,DOID:3953,adrenal gland cancer
+65,DOID:14221,metabolic syndrome X
+66,DOID:9008,psoriatic arthritis
+67,DOID:9970,obesity
+68,DOID:9206,Barrett's esophagus
+69,DOID:4362,cervical cancer
+70,DOID:11119,Gilles de la Tourette syndrome
+71,DOID:5875,retroperitoneal cancer
+72,DOID:10871,age related macular degeneration
+73,DOID:11239,appendix cancer
+74,DOID:11555,Fuchs' endothelial dystrophy
+75,DOID:3393,coronary artery disease
+76,DOID:1595,endogenous depression
+77,DOID:1094,attention deficit hyperactivity disorder
+78,DOID:5041,esophageal cancer
+79,DOID:219,colon cancer
+80,DOID:5419,schizophrenia
+81,DOID:7148,rheumatoid arthritis
+82,DOID:216,dental caries
+83,DOID:3310,atopic dermatitis
+84,DOID:2043,hepatitis B
+85,DOID:1993,rectum cancer
+86,DOID:2998,testicular cancer
+87,DOID:2994,germ cell cancer
+88,DOID:4989,pancreatitis
+89,DOID:10153,ileum cancer
+90,DOID:8893,psoriasis
+91,DOID:6364,migraine
+92,DOID:8398,osteoarthritis
+93,DOID:2531,hematologic cancer
+94,DOID:1324,lung cancer
+95,DOID:11714,gestational diabetes
+96,DOID:0050425,restless legs syndrome
+97,DOID:1459,hypothyroidism
+98,DOID:1964,fallopian tube cancer
+99,DOID:9917,pleural cancer
+100,DOID:0050741,alcohol dependence
+101,DOID:1024,leprosy
+102,DOID:11934,head and neck cancer
+103,DOID:9835,refractive error
+104,DOID:119,vaginal cancer
+105,DOID:12365,malaria
+106,DOID:12236,primary biliary cirrhosis
+107,DOID:4159,skin cancer
+108,DOID:3070,malignant glioma
+109,DOID:12361,Graves' disease
+110,DOID:12185,otosclerosis
+111,DOID:3565,meningioma
+112,DOID:10976,membranous glomerulonephritis
+113,DOID:12930,dilated cardiomyopathy
+114,DOID:1725,peritoneum cancer
+115,DOID:14330,Parkinson's disease
+116,DOID:10021,duodenum cancer
+117,DOID:11615,penile cancer
+118,DOID:11612,polycystic ovary syndrome
+119,DOID:13241,Behcet's disease
+120,DOID:1245,vulva cancer
+121,DOID:9074,systemic lupus erythematosus
+122,DOID:635,acquired immunodeficiency syndrome
+123,DOID:10811,nasal cavity cancer
+124,DOID:7147,ankylosing spondylitis
+125,DOID:5408,Paget's disease of bone
+126,DOID:0060073,lymphatic system cancer
+127,DOID:11476,osteoporosis
+128,DOID:7693,abdominal aortic aneurysm
+129,DOID:784,chronic kidney failure
+130,DOID:2841,asthma
+131,DOID:594,panic disorder
+132,DOID:332,amyotrophic lateral sclerosis
+133,DOID:10534,stomach cancer
+134,DOID:13189,gout
+135,DOID:1936,atherosclerosis
+136,DOID:1115,sarcoma
+137,DOID:986,alopecia areata

@@ -1,0 +1,438 @@
+1,D020150,Chorea Gravidarum
+2,D006606,Hiccup
+3,D014826,Vocal Cord Paralysis
+4,D005221,Fatigue
+5,D000370,Ageusia
+6,D010292,Paresthesia
+7,D004172,Diplopia
+8,D054972,Postural Orthostatic Tachycardia Syndrome
+9,D059350,Chronic Pain
+10,D015354,Vision, Low
+11,D002637,Chest Pain
+12,D005316,Fetal Distress
+13,D020886,Somatosensory Disorders
+14,D006816,Huntington Disease
+15,D007565,Jaundice
+16,D018886,Aphasia, Conduction
+17,D017624,WAGR Syndrome
+18,D012607,Scotoma
+19,D019547,Neck Pain
+20,D004614,Emaciation
+21,D050177,Overweight
+22,D055111,Failed Back Surgery Syndrome
+23,D015431,Weight Loss
+24,D012001,Hyperacusis
+25,D020183,Nocturnal Paroxysmal Dystonia
+26,D020237,Alexia, Pure
+27,D003244,Consciousness Disorders
+28,D012415,Rubinstein-Taybi Syndrome
+29,D020207,Coma, Post-Head Injury
+30,D014823,Vitreous Hemorrhage
+31,D006942,Hypergammaglobulinemia
+32,D003639,Hearing Loss, Sudden
+33,D009846,Oliguria
+34,D001416,Back Pain
+35,D010146,Pain
+36,D010591,Phantom Limb
+37,D009461,Neurologic Manifestations
+38,D053591,Pain, Referred
+39,D020447,Parasomnias
+40,D059787,Acute Pain
+41,D009123,Muscle Hypotonia
+42,D055958,Piriformis Muscle Syndrome
+43,D003128,Coma
+44,D011697,Purpura, Thrombotic Thrombocytopenic
+45,D014770,Virilism
+46,D006685,Hoarseness
+47,D012585,Sciatica
+48,D011695,Purpura, Schoenlein-Henoch
+49,D037061,Metatarsalgia
+50,D009041,Motion Sickness
+51,D005334,Fever
+52,D016553,Purpura, Thrombocytopenic, Idiopathic
+53,D009207,Myoclonus
+54,D010845,Obesity Hypoventilation Syndrome
+55,D004487,Edema
+56,D013746,Tetany
+57,D041781,Jaundice, Obstructive
+58,D000849,Anomia
+59,D011537,Pruritus
+60,D059411,Lower Urinary Tract Symptoms
+61,D006313,Hearing Loss, Central
+62,D018771,Arthralgia
+63,D013494,Supranuclear Palsy, Progressive
+64,D004244,Dizziness
+65,D059245,Transient Tachypnea of the Newborn
+66,D020069,Shoulder Pain
+67,D016857,Hypocapnia
+68,D019462,Syncope, Vasovagal
+69,D004454,Echolalia
+70,D001836,Body Weight Changes
+71,D019584,Hot Flashes
+72,D005158,Facial Paralysis
+73,D000270,Adie Syndrome
+74,D001259,Ataxia
+75,D013575,Syncope
+76,D001039,Aphasia, Broca
+77,D038921,Coffin-Lowry Syndrome
+78,D012893,Sleep Disorders
+79,D066190,Allesthesia
+80,D056844,Renal Colic
+81,D020828,Pseudobulbar Palsy
+82,D003371,Cough
+83,D008065,Lipoid Proteinosis of Urbach and Wiethe
+84,D020567,Fetal Weight
+85,D057178,Primary Progressive Nonfluent Aphasia
+86,D019569,Hemifacial Spasm
+87,D006935,Hypercapnia
+88,D018614,Sweating Sickness
+89,D006930,Hyperalgesia
+90,D019954,Neurobehavioral Manifestations
+91,D034381,Hearing Loss
+92,D015746,Abdominal Pain
+93,D002389,Catatonia
+94,D011141,Polyuria
+95,D020181,Sleep Apnea, Obstructive
+96,D004415,Dyspepsia
+97,D020270,Alcohol Withdrawal Seizures
+98,D006628,Hirsutism
+99,D006319,Hearing Loss, Sensorineural
+100,D010167,Pallor
+101,D020324,Amnesia, Anterograde
+102,D004411,Dyslexia, Acquired
+103,D005130,Eye Hemorrhage
+104,D011218,Prader-Willi Syndrome
+105,D059373,Mastodynia
+106,D059226,Nociceptive Pain
+107,D004410,Dyslexia
+108,D020235,Gait Apraxia
+109,D014313,Trismus
+110,D015518,Rett Syndrome
+111,D006970,Disorders of Excessive Somnolence
+112,D014202,Tremor
+113,D005311,Fetal Hypoxia
+114,D004433,Earache
+115,D011602,Psychophysiologic Disorders
+116,D000425,Alcohol Amnestic Disorder
+117,D020336,Paraparesis, Spastic
+118,D018476,Hypokinesia
+119,D054068,Livedo Reticularis
+120,D003655,Decerebrate State
+121,D006939,Hyperemesis Gravidarum
+122,D006396,Hematemesis
+123,D018437,Brown-Sequard Syndrome
+124,D048949,Labor Pain
+125,D062706,Prodromal Symptoms
+126,D020182,Sleep Apnea, Central
+127,D020879,Neuromuscular Manifestations
+128,D003248,Constipation
+129,D004408,Dysgeusia
+130,D001264,Athetosis
+131,D007805,Language Development Disorders
+132,D063806,Myalgia
+133,D011539,Pruritus Vulvae
+134,D004418,Dyspnea, Paroxysmal
+135,D013009,Somnambulism
+136,D005926,Glossalgia
+137,D012913,Snoring
+138,D002832,Choroid Hemorrhage
+139,D020238,Prosopagnosia
+140,D010468,Perceptual Disorders
+141,D019575,Blindness, Cortical
+142,D010291,Paresis
+143,D020177,Hypersomnolence, Idiopathic
+144,D005335,Fever of Unknown Origin
+145,D017827,Machado-Joseph Disease
+146,D020915,Korsakoff Syndrome
+147,D007706,Menkes Kinky Hair Syndrome
+148,D005183,Failure to Thrive
+149,D056128,Obesity, Abdominal
+150,D051346,Mobility Limitation
+151,D053448,Prostatism
+152,D018908,Muscle Weakness
+153,D009903,Optical Illusions
+154,D001247,Asthenia
+155,D001041,Aphasia, Wernicke
+156,D020385,Myokymia
+157,D013064,Speech Disorders
+158,D014103,Torticollis
+159,D014884,Waterhouse-Friderichsen Syndrome
+160,D063766,Pediatric Obesity
+161,D011538,Pruritus Ani
+162,D007331,Insulin Coma
+163,D005483,Flushing
+164,D062026,Alice in Wonderland Syndrome
+165,D008998,Monoclonal Gammopathy of Undetermined Significance
+166,D001049,Apnea
+167,D020919,Sleep Disorders, Intrinsic
+168,D053201,Urinary Bladder, Overactive
+169,D018458,Persistent Vegetative State
+170,D009325,Nausea
+171,D053584,Urinoma
+172,D011596,Psychomotor Disorders
+173,D012640,Seizures
+174,D009155,Mutism
+175,D001724,Birth Weight
+176,D053565,Hypercalciuria
+177,D010148,Pain, Intractable
+178,D004421,Dystonia
+179,D002558,Cerebrospinal Fluid Otorrhea
+180,D017109,Akathisia, Drug-Induced
+181,D000648,Amnesia, Retrograde
+182,D013342,Stuttering
+183,D006469,Hemoptysis
+184,D013651,Taste Disorders
+185,D059607,Polydipsia, Psychogenic
+186,D002559,Cerebrospinal Fluid Rhinorrhea
+187,D006212,Hallucinations
+188,D006988,Hyphema
+189,D017699,Pelvic Pain
+190,D020189,Nocturnal Myoclonus Syndrome
+191,D010149,Pain, Postoperative
+192,D006963,Hyperphagia
+193,D020233,Gait Disorders, Neurologic
+194,D054062,Deaf-Blind Disorders
+195,D015845,Tonic Pupil
+196,D000419,Albuminuria
+197,D008569,Memory Disorders
+198,D059388,Pelvic Girdle Pain
+199,D020922,Sleep-Wake Transition Disorders
+200,D009133,Muscular Atrophy
+201,D020078,Neurogenic Inflammation
+202,D053609,Lethargy
+203,D017593,Kleine-Levin Syndrome
+204,D009222,Myotonia
+205,D000326,Adrenoleukodystrophy
+206,D015877,Miosis
+207,D009755,Night Blindness
+208,D006941,Hyperesthesia
+209,D006261,Headache
+210,D006317,Hearing Loss, Noise-Induced
+211,D011694,Purpura, Hyperglobulinemic
+212,D053608,Stupor
+213,D002385,Cataplexy
+214,D006732,Horner Syndrome
+215,D020240,Apraxia, Ideomotor
+216,D012817,Signs and Symptoms, Digestive
+217,D006209,Halitosis
+218,D000860,Anoxia
+219,D007926,Lesch-Nyhan Syndrome
+220,D005207,Fasciculation
+221,D045262,Reticulocytosis
+222,D005600,Fragile X Syndrome
+223,D000334,Aerophagy
+224,D000788,Angina Pectoris, Variant
+225,D001926,Brain Death
+226,D020236,Amnesia, Transient Global
+227,D012877,Skin Manifestations
+228,D013851,Thinness
+229,D014549,Urinary Incontinence
+230,D012148,Restless Legs Syndrome
+231,D018888,Aphasia, Primary Progressive
+232,D060050,Angina, Stable
+233,D012133,Respiratory Paralysis
+234,D012135,Respiratory Sounds
+235,D005320,Fetal Macrosomia
+236,D053158,Nocturia
+237,D000550,Amblyopia
+238,D013035,Spasm
+239,D004688,Encopresis
+240,D020178,Sleep Disorders, Circadian Rhythm
+241,D064250,Hypertriglyceridemic Waist
+242,D009058,Mouth Breathing
+243,D059445,Anhedonia
+244,D020920,Dyssomnias
+245,D005683,Gagging
+246,D001835,Body Weight
+247,D003117,Color Vision Defects
+248,D008607,Intellectual Disability
+249,D034062,Insomnia, Fatal Familial
+250,D014832,Voice Disorders
+251,D009437,Neuralgia
+252,D060486,Ophthalmoplegic Migraine
+253,D046088,Hearing Loss, Unilateral
+254,D054058,Acute Coronary Syndrome
+255,D007088,Illusions
+256,D001044,Aphonia
+257,D002639,Cheyne-Stokes Respiration
+258,D000857,Olfaction Disorders
+259,D012912,Sneezing
+260,D055955,Susac Syndrome
+261,D015878,Mydriasis
+262,D046608,Synkinesis
+263,D014474,Unconsciousness
+264,D006429,Hemiplegia
+265,D004489,Edema, Cardiac
+266,D020186,Sleep Bruxism
+267,D000647,Amnesia
+268,D020335,Paraparesis
+269,D001072,Apraxias
+270,D017116,Low Back Pain
+271,D000787,Angina Pectoris
+272,D002819,Chorea
+273,D020323,Tics
+274,D000855,Anorexia
+275,D055948,Sarcopenia
+276,D017246,Ophthalmoplegia, Chronic Progressive External
+277,D019591,Pseudophakia
+278,D005414,Flatulence
+279,D065635,Benign Paroxysmal Positional Vertigo
+280,D016534,Cardiac Output, High
+281,D012678,Sensation Disorders
+282,D012818,Signs and Symptoms, Respiratory
+283,D014840,Vomiting, Anticipatory
+284,D012021,Reflex, Abnormal
+285,D014008,Tinea Pedis
+286,D015875,Anisocoria
+287,D006314,Hearing Loss, Conductive
+288,D018489,Space Motion Sickness
+289,D056865,Ideal Body Weight
+290,D001766,Blindness
+291,D011595,Psychomotor Agitation
+292,D009122,Muscle Hypertonia
+293,D020179,Jet Lag Syndrome
+294,D006948,Hyperkinesis
+295,D001832,Body Temperature Changes
+296,D058568,Necrolytic Migratory Erythema
+297,D004314,Down Syndrome
+298,D057774,Post-Exercise Hypotension
+299,D004412,Dysmenorrhea
+300,D006311,Hearing Disorders
+301,D003635,De Lange Syndrome
+302,D009290,Narcolepsy
+303,D002100,Cachexia
+304,D005222,Mental Fatigue
+305,D019588,Aging, Premature
+306,D017566,Microvascular Angina
+307,D009127,Muscle Rigidity
+308,D020234,Gait Ataxia
+309,D020754,Spinocerebellar Ataxias
+310,D007625,Kearns-Sayre Syndrome
+311,D007859,Learning Disorders
+312,D059390,Breakthrough Pain
+313,D048968,Morning Sickness
+314,D018980,Williams Syndrome
+315,D014550,Urinary Incontinence, Stress
+316,D006456,Hemoglobinuria
+317,D002524,Cerebellar Ataxia
+318,D006985,Hyperventilation
+319,D005862,Gerstmann Syndrome
+320,D017288,Pain Threshold
+321,D003085,Colic
+322,D009765,Obesity
+323,D056124,Slit Ventricle Syndrome
+324,D003490,Cyanosis
+325,D038901,Mental Retardation, X-Linked
+326,D014929,Wolfram Syndrome
+327,D006315,Hearing Loss, Functional
+328,D012892,Sleep Deprivation
+329,D006312,Hearing Loss, Bilateral
+330,D001260,Ataxia Telangiectasia
+331,D059265,Visceral Pain
+332,D055665,Purpura Fulminans
+333,D053159,Dysuria
+334,D014012,Tinnitus
+335,D012891,Sleep Apnea Syndromes
+336,D015160,Hydrops Fetalis
+337,D015430,Weight Gain
+338,D006423,Hemianopsia
+339,D020184,Night Terrors
+340,D000472,Alkalosis, Respiratory
+341,D007035,Hypothermia
+342,D059352,Musculoskeletal Pain
+343,D020250,Postoperative Nausea and Vomiting
+344,D010264,Paraplegia
+345,D005157,Facial Pain
+346,D007024,Hypotension, Orthostatic
+347,D009912,Oral Manifestations
+348,D011782,Quadriplegia
+349,D016532,Mucopolysaccharidosis II
+350,D065634,Cerebrospinal Fluid Leak
+351,D006337,Heart Murmurs
+352,D006987,Hypesthesia
+353,D003221,Confusion
+354,D003693,Delirium
+355,D020187,REM Sleep Behavior Disorder
+356,D014717,Vertigo
+357,D001308,Auditory Perceptual Disorders
+358,D018589,Gastroparesis
+359,D020795,Photophobia
+360,D005884,Gingival Hemorrhage
+361,D006316,Hearing Loss, High-Frequency
+362,D002422,Causalgia
+363,D053202,Urinary Incontinence, Urge
+364,D011681,Pupil Disorders
+365,D055964,Alien Hand Syndrome
+366,D009886,Ophthalmoplegia
+367,D054971,Orthostatic Intolerance
+368,D009767,Obesity, Morbid
+369,D000789,Angina, Unstable
+370,D019080,Cafe-au-Lait Spots
+371,D002375,Catalepsy
+372,D004438,Ecchymosis
+373,D001750,Urinary Bladder, Neurogenic
+374,D011507,Proteinuria
+375,D003968,Diarrhea, Infantile
+376,D018496,Hyperoxia
+377,D052245,Usher Syndromes
+378,D004884,Eructation
+379,D023341,Chills
+380,D051474,Neuralgia, Postherpetic
+381,D012166,Retinal Hemorrhage
+382,D002303,Cardiac Output, Low
+383,D010243,Paralysis
+384,D058447,Eye Pain
+385,D000006,Abdomen, Acute
+386,D008580,Meningism
+387,D001037,Aphasia
+388,D052120,Glycogen Storage Disease Type IIb
+389,D006472,Oral Hemorrhage
+390,D003967,Diarrhea
+391,D019873,Schnitzler Syndrome
+392,D003410,Cri-du-Chat Syndrome
+393,D059606,Polydipsia
+394,D046089,Hearing Loss, Mixed Conductive-Sensorineural
+395,D007806,Language Disorders
+396,D009128,Muscle Spasticity
+397,D054078,Mevalonate Kinase Deficiency
+398,D054221,Classical Lissencephalies and Subcortical Band Heterotopias
+399,D060705,Dyscalculia
+400,D060545,Pudendal Neuralgia
+401,D020188,Sleep Paralysis
+402,D000381,Agraphia
+403,D057896,Striae Distensae
+404,D020923,REM Sleep Parasomnias
+405,D054160,Systolic Murmurs
+406,D011696,Purpura, Thrombocytopenic
+407,D009120,Muscle Cramp
+408,D057768,Infantile Apparent Life-Threatening Event
+409,D054546,Neuroacanthocytosis
+410,D011304,Presbycusis
+411,D065906,Hyperlactatemia
+412,D021501,Flank Pain
+413,D004417,Dyspnea
+414,D006356,Heartburn
+415,D004401,Dysarthria
+416,D014098,Toothache
+417,D003638,Deafness
+418,D007319,Sleep Initiation and Maintenance Disorders
+419,D020924,Urological Manifestations
+420,D005262,Feminization
+421,D002032,Bulimia
+422,D055154,Dysphonia
+423,D011693,Purpura
+424,D007040,Hypoventilation
+425,D020757,Amaurosis Fugax
+426,D005132,Eye Manifestations
+427,D004409,Dyskinesia, Drug-Induced
+428,D020921,Sleep Arousal Disorders
+429,D015325,Pyruvate Dehydrogenase Complex Deficiency Disease
+430,D001184,Articulation Disorders
+431,D014839,Vomiting
+432,D014786,Vision Disorders
+433,D007383,Intermittent Claudication
+434,D053578,Opsoclonus-Myoclonus Syndrome
+435,D003147,Communication Disorders
+436,D020820,Dyskinesias
+437,D000377,Agnosia
+438,D059246,Tachypnea
