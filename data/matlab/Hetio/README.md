@@ -6,7 +6,7 @@ from scipy.io import savemat, loadmat
 x=loadmat('hetio_AdG.mat')
 ```
 ### Matrices information
-**matrix(i,j)=1 if ith row and jth column is positive
+** matrix(i,j)=1 if ith row and jth column is positive
 ```
 Name      : Edge type                      : Shape
 hetio_AdG : Anatomy-downregulates-Gene     : 402 x 20945
