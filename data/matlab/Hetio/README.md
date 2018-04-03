@@ -6,7 +6,7 @@ from scipy.io import savemat, loadmat
 x=loadmat('hetio_AdG.mat')
 ```
 ### Matrices information
-#### matrix(i,j)=1 if ith row and jth column is positive  
+#### Adjacency matrix(i,j)=1 if ith row and jth column is positive  
 ```
 Name      : Edge type                      : Shape
 hetio_AdG : Anatomy-downregulates-Gene     : 402 x 20945
@@ -32,4 +32,9 @@ hetio_GpMF: Gene-participates-Molecular Function: 20945 x 2884
 hetio_GpPW: Gene-participates-Pathway      : 20945 x 1822
 hetio_GrG : Gene->regulates->gene (forward): 20945 x 20945
 hetio_PCiC: Pharmacologic Class-includes-Compound: 345 x 1552
+```
+#### Similarity matrix(i,j)=float[0,1] for similarity between i and j
+```
+Name      : Edge type                      : Shape
+hetio_CsC : Compound-similar-Compound      : 1552 x 1552
 ```
