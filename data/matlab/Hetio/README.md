@@ -35,6 +35,6 @@ hetio_PCiC: Pharmacologic Class-includes-Compound: 345 x 1552
 ```
 #### Similarity matrix(i,j)=float[0,1] for similarity between i and j
 ```
-Name      : Edge type                      : Shape
-hetio_CsC : Compound-similar-Compound      : 1552 x 1552
+Name      : Edge type                      : Shape         : Method
+hetio_CsC : Compound-similar-Compound      : 1552 x 1552   : JChem screenmd Tanimoto similarity of ECFP4
 ```
